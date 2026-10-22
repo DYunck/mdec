@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>How to Use MedTech Signals</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="MedTech">
+<link rel="stylesheet" href="style.css">
+<style>
+  .guide { max-width: 780px; margin: 0 auto; padding: 20px 16px 60px; }
+  .guide h1 { font-size: 28px; letter-spacing: -.02em; margin: 8px 0 6px; }
+  .guide .lede { color: var(--muted); font-size: 17px; margin: 0 0 22px; }
+  .guide h2 { font-size: 21px; margin: 40px 0 10px; letter-spacing: -.01em; scroll-margin-top: 16px; }
+  .guide h3 { font-size: 16px; margin: 22px 0 6px; }
+  .guide p, .guide li { font-size: 16px; line-height: 1.65; }
+  .guide ol, .guide ul { padding-left: 22px; }
+  .guide li { margin: 4px 0; }
+  .guide code { font-family: var(--mono); font-size: 13.5px; background: var(--accent-bg); color: var(--accent); padding: 1px 6px; border-radius: 5px; }
+  .guide pre { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; overflow-x: auto; font: 13.5px/1.55 var(--mono); }
+  .guide pre code { background: none; color: var(--ink); padding: 0; }
+  .back { font-size: 14px; color: var(--accent); text-decoration: none; }
+  .toc { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px 18px; }
+  .toc ol { margin: 6px 0 0; } .toc a { color: var(--accent); text-decoration: none; }
+  .callout { border-radius: 12px; padding: 12px 16px; margin: 14px 0; font-size: 15px; }
+  .callout.warn { background: var(--warn-bg); color: var(--warn); }
+  .callout.tip { background: var(--up-bg); color: var(--up); }
+  .callout.info { background: var(--accent-bg); color: var(--accent); }
+  .callout strong { display: block; margin-bottom: 2px; }
+  .step { display: grid; grid-template-columns: 34px 1fr; gap: 12px; margin: 16px 0; }
+  .step .n { width: 30px; height: 30px; border-radius: 50%; background: var(--ink); color: var(--card); display: grid; place-items: center; font-weight: 700; font-size: 14px; }
+  .step h3 { margin: 4px 0 4px; }
+  .step p { margin: 0 0 6px; }
+  .matrix { display: grid; grid-template-columns: auto 1fr 1fr; gap: 6px; font-size: 14.5px; margin: 12px 0; }
+  .matrix div { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+  .matrix .h { background: transparent; border: 0; font-weight: 700; color: var(--muted); font-size: 12.5px; text-transform: uppercase; letter-spacing: .05em; align-self: end; }
+  .matrix .rowh { font-weight: 700; display: flex; align-items: center; }
+  .scorebar { display: grid; grid-template-columns: repeat(5, 1fr); gap: 4px; margin: 10px 0 4px; font-size: 13px; text-align: center; }
+  .scorebar div { padding: 8px 4px; border-radius: 6px; font-weight: 600; }
+  dl.gloss dt { font-weight: 700; margin-top: 12px; }
+  dl.gloss dd { margin: 2px 0 0; color: var(--muted); font-size: 15.5px; line-height: 1.6; }
+  .guide table { margin: 10px 0; } .guide td, .guide th { white-space: normal; vertical-align: top; } .guide p, .guide li, .guide dd { overflow-wrap: anywhere; }
+  @media (max-width: 560px) { .matrix { grid-template-columns: 1fr; } .matrix .h:first-child { display: none; } .scorebar { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="guide">
+  <a class="back" href="./">← Back to the dashboard</a>
+  <h1>How to use MedTech Signals</h1>
+  <p class="lede">A 10-minute walkthrough of the dashboard for GE HealthCare, Philips and Siemens Healthineers. The app never sends messages; everything is on the dashboard.</p>
+
+  <div class="callout warn"><strong>Read this first</strong>This app gives you information, not instructions. It never buys or sells anything. Its signals come from past price patterns and can be wrong; check the backtest for each company. Options can lose 100% of what you pay. Every decision is yours.</div>
+
+  <nav class="toc">
+    <strong>Contents</strong>
+    <ol>
+      <li><a href="#basics">Options in two minutes</a></li>
+      <li><a href="#tour">Tour of the dashboard</a></li>
+      <li><a href="#routine">A simple daily routine</a></li>
+      <li><a href="#homescreen">Put it on your Home Screen</a></li>
+      <li><a href="#settings">Change events and settings</a></li>
+      <li><a href="#mistakes">Common mistakes to avoid</a></li>
+      <li><a href="#glossary">Glossary</a></li>
+    </ol>
+  </nav>
+
+  <!-- ------------------------------------------------------------ -->
+  <h2 id="basics">1. Options in two minutes</h2>
+  <p>An option is a contract that gives you the right to buy or sell 100 shares of a stock such as GE HealthCare (GEHC) or Philips (PHG) at a set price (the <strong>strike</strong>) until a set date (the <strong>expiration</strong>).</p>
+  <ul>
+    <li><strong>Call:</strong> profits if the stock goes <em>up</em> past the strike.</li>
+    <li><strong>Put:</strong> profits if the stock goes <em>down</em> below the strike.</li>
+    <li>Prices are quoted per share, so multiply by 100. An option quoted at <code>$3.25</code> costs <strong>$325</strong> per contract.</li>
+    <li>If you buy an option, the most you can lose is what you paid.</li>
+  </ul>
+  <p>Three things decide whether an option makes money. Being right about the direction is only one of them:</p>
+  <ol>
+    <li><strong>Direction:</strong> did the stock move the way you bet?</li>
+    <li><strong>Timing:</strong> did it move before time ran out? Options lose a little value every day (<em>time decay</em>), and the loss speeds up in the final three weeks.</li>
+    <li><strong>Price paid:</strong> were options cheap or expensive when you bought? If you buy when options are pricey, you can be right about direction and still lose money.</li>
+  </ol>
+  <p>The dashboard is built around these three questions.</p>
+
+  <div class="callout info"><strong>Siemens Healthineers has no US options</strong>It trades in Frankfurt (ticker SHL.DE, in euros). Its options trade only on the German Eurex exchange, which most US brokers don't offer, so the app tracks the stock itself. Use it as a read on the industry: when Siemens Healthineers reports or moves, GE HealthCare and Philips often follow.</div>
+
+  <!-- ------------------------------------------------------------ -->
+  <h2 id="tour">2. Tour of the dashboard</h2>
+  <p>Open the <a href="./">dashboard</a> and follow along from top to bottom. Tap any <strong>ⓘ</strong> for a plain-English explanation.</p>
+  <h3>Company switcher and "at a glance"</h3>
+  <p>The row of buttons at the top (it stays visible as you scroll) switches the whole page between GE HealthCare, Philips and Siemens Healthineers. The three cards below it show each company's price, a 30-day mini chart, its score, whether options are cheap or expensive, and the next earnings date.</p>
+  <h3>Today in one paragraph and the main box</h3>
+  <p>A summary written from the numbers, then the <strong>direction score</strong> from −100 to +100 with a plain-English reading. ±40 or more is a strong signal. "Why" lists every signal behind the score.</p>
+  <h3>Options sections (GE HealthCare and Philips)</h3>
+  <p>Whether options are cheap or expensive, how option prices have changed, a few liquid contracts to research, the "what if" calculator and a heat map of where traders are betting. These are hidden for Siemens Healthineers.</p>
+  <h3>Earnings tracker</h3>
+  <p>Every report since 2023 with the earnings estimate, the actual number and how the stock reacted. These companies usually report <em>before</em> the US open, so the reaction is that same day.</p>
+  <h3>FDA activity</h3>
+  <p>New device clearances and recalls from the FDA's public database. Clearances are routine; a <strong>Class I</strong> recall is the one to notice. Philips' 2021 breathing-device recall was followed by its stock losing more than half its value over the next year or so.</p>
+  <h3>Analysts, peer comparison and valuation</h3>
+  <p>Wall Street targets, a chart of all three against the medical-device ETF (IHI) and the S&amp;P 500, and a side-by-side table of P/E, margins and dividends. If all three move together, the cause is probably industry-wide (tariffs, hospital spending, rates) rather than one company.</p>
+  <h3>Track record</h3>
+  <p>The backtest and signal grades test the scoring rules on each company's own history since 2023. Strong-signal history logs each live signal and what happened 1, 5 and 10 days later.</p>
+
+  <h3 id="drivers">What tends to move these stocks</h3>
+  <ul>
+    <li><strong>Earnings and guidance</strong>: the biggest scheduled moves. The earnings tracker shows how large they've been.</li>
+    <li><strong>China and tariffs</strong>: all three sell heavily into China and import parts across borders; trade news moves them together.</li>
+    <li><strong>Hospital spending</strong>: scanners cost millions, so hospital budgets, interest rates and US healthcare policy matter.</li>
+    <li><strong>FDA recalls and approvals</strong>: see the FDA activity card.</li>
+    <li><strong>RSNA</strong> (late November, Chicago): the big radiology show where new scanners and AI tools are launched.</li>
+    <li><strong>The euro</strong>: Philips (PHG) and Siemens Healthineers report in euros, so a stronger euro lifts PHG in dollars.</li>
+  </ul>
+
+  <h2 id="routine">3. A simple daily routine</h2>
+  <div class="step"><div class="n">1</div><div><h3>Open the dashboard (once a day is enough)</h3><p>Start with the three company cards at the top to see which one has the strongest score or a report coming up, then tap it. It updates every hour during US market hours, plus twice during European trading. After the close is a calm time to look. Read "Today in one paragraph" and glance at the headlines. If the headline says "No clear signal — wait," you're done.</p></div></div>
+  <div class="step"><div class="n">2</div><div><h3>Check the main box and "Why"</h3><p>Is the score past ±40? Are the top reasons from the daily chart, and do daily and hourly agree? Check "Which signals have actually worked" for the top reasons.</p></div></div>
+  <div class="step"><div class="n">3</div><div><h3>Check option prices</h3><p>Look at "Are options cheap or expensive?" and the events list. Expensive options or an event in the next few days means caution.</p></div></div>
+  <div class="step"><div class="n">4</div><div><h3>Test a contract in the calculator</h3><p>Tap <strong>Try it</strong> on a suggested contract. Is the breakeven inside the shaded typical-move band? What happens if the stock doesn't move for two weeks? If earnings are coming, slide volatility down 30% to see the crush.</p></div></div>
+  <div class="step"><div class="n">5</div><div><h3>Decide, then trade at your broker</h3><p>If you trade, use a <strong>limit order</strong> (set your own price) near the mid price rather than a market order. Decide in advance how much you're willing to lose.</p></div></div>
+  <div class="callout tip"><strong>Waiting is a valid choice</strong>Most days won't have a strong signal. Buying options without a reason costs money every day through time decay.</div>
+
+  <h2 id="homescreen">4. Put it on your Home Screen</h2>
+  <p>The dashboard can sit on your phone like a regular app, opening full-screen with its own icon.</p>
+  <ul>
+    <li><strong>iPhone:</strong> open the dashboard in <strong>Safari</strong>, tap the <strong>Share</strong> button, then <strong>Add to Home Screen</strong>. If you opened the link inside another app, first tap the compass icon to open it in Safari.</li>
+    <li><strong>Android:</strong> open it in <strong>Chrome</strong>, tap the <strong>⋮</strong> menu, then <strong>Install app</strong> or <strong>Add to Home screen</strong>. The dashboard may also offer an <strong>Install</strong> button at the top.</li>
+  </ul>
+  <p>It still updates hourly. The app remembers the last company you looked at. If your phone is offline, it shows the last version it loaded.</p>
+
+  <!-- ------------------------------------------------------------ -->
+  <h2 id="settings">5. Change events and settings</h2>
+  <p>Both files can be edited on GitHub with the pencil icon. The dashboard updates a few minutes after you commit.</p>
+  <h3><a href="https://github.com/DYunck/mdec/edit/main/data/events.yaml">data/events.yaml</a></h3>
+  <p>Earnings dates come from Yahoo Finance automatically. Add anything else that could move these stocks: an investor day, a big FDA decision, a tariff deadline. Add <code>companies: [gehc]</code> (or <code>phg</code>, <code>shl</code>) to show an event for one company only. Change <code>verified: false</code> to <code>true</code> once you've confirmed a date on the company's investor-relations site.</p>
+  <h3><a href="https://github.com/DYunck/mdec/edit/main/config.yaml">config.yaml</a></h3>
+  <ul>
+    <li><code>signal_min_score: 40</code>: raise it to 50 or 60 so only the strongest signals count; lower it for more.</li>
+    <li><code>min_days_to_expiry</code> / <code>max_days_to_expiry</code>: how far out suggested contracts expire.</li>
+    <li><code>fda_names</code>: the company and subsidiary names searched in the FDA database.</li>
+    <li><code>companies</code>: the list of stocks. Another medtech company (for example Stryker, SYK) can be added by copying a block and changing the ticker and names.</li>
+  </ul>
+  <p>To refresh immediately instead of waiting for the hour: <a href="https://github.com/DYunck/mdec/actions/workflows/update.yml">Actions → Update MedTech signals</a> → <strong>Run workflow</strong>.</p>
+
+  <!-- ------------------------------------------------------------ -->
+  <h2 id="mistakes">6. Common mistakes to avoid</h2>
+  <ul>
+    <li><strong>Buying right before earnings.</strong> Volatility crush can wipe out gains even when you guess the direction right.</li>
+    <li><strong>Buying very short-dated options.</strong> Contracts expiring this week are cheap because they usually expire worthless.</li>
+    <li><strong>Ignoring the spread.</strong> A 15% gap between buy and sell prices means you start 15% behind.</li>
+    <li><strong>Using market orders.</strong> Use limit orders near the mid price.</li>
+    <li><strong>Holding into the last three weeks.</strong> Decay speeds up sharply, so sell or roll earlier.</li>
+    <li><strong>Betting too much on one signal.</strong> Check the backtest and signal grades for that company; size each trade so a total loss is fine.</li>
+    <li><strong>Assuming a beat means a rise.</strong> In medtech, the outlook (guidance), China demand and tariff costs often matter more than the quarter itself. Check the earnings tracker for how often beats were followed by gains.</li>
+    <li><strong>Treating the app as an oracle.</strong> It organizes the numbers; you still make the call.</li>
+  </ul>
+
+  <!-- ------------------------------------------------------------ -->
+  <h2 id="glossary">7. Glossary</h2>
+  <dl class="gloss">
+    <dt>Bid / ask / mid</dt><dd>The bid is the highest price buyers offer, the ask is the lowest price sellers accept, and the mid is halfway between.</dd>
+    <dt>Breakeven</dt><dd>The stock price at expiration where you neither make nor lose money: strike plus the price paid for a call, strike minus the price paid for a put.</dd>
+    <dt>Call / Put</dt><dd>A call profits when the stock rises; a put profits when it falls.</dd>
+    <dt>Call spread / put spread</dt><dd>Buying one option and selling another further out. It costs less and limits both gains and losses. Useful when options are expensive.</dd>
+    <dt>Delta</dt><dd>How much the option's price moves for a $1 move in the stock. It also serves as a rough chance of finishing in the money.</dd>
+    <dt>Expiration</dt><dd>The last day the option exists. After that it's worth either its intrinsic value or nothing.</dd>
+    <dt>Implied volatility (IV)</dt><dd>The amount of future movement baked into option prices. Higher IV means pricier options.</dd>
+    <dt>IV rank</dt><dd>Today's IV compared with its own past range, from 0 to 100.</dd>
+    <dt>510(k) clearance</dt><dd>FDA permission to sell a new or updated medical device in the US because it's similar to one already on the market. A steady flow of clearances is normal for these companies.</dd>
+    <dt>ADR</dt><dd>American Depositary Receipt: a US-traded share that represents a foreign company's stock. PHG is the US version of Amsterdam-listed Philips, so it also moves with the euro.</dd>
+    <dt>Class I / II / III recall</dt><dd>The FDA's recall categories. Class I means a reasonable chance of serious harm and is the kind that can move a stock; Class II and III are less serious and common.</dd>
+    <dt>EV / EBITDA</dt><dd>The whole company's value (shares plus debt minus cash) divided by its operating profit before depreciation. Useful for comparing companies with different debt levels.</dd>
+    <dt>Guidance</dt><dd>The company's own forecast for sales and profit, usually updated with earnings. Changes to guidance often move the stock more than the quarter's results.</dd>
+    <dt>MACD</dt><dd>A momentum indicator. When it crosses up, momentum is turning positive; when it crosses down, negative.</dd>
+    <dt>Moving average</dt><dd>The average price over the last N periods, which smooths out noise to show the trend.</dd>
+    <dt>Open interest</dt><dd>How many contracts currently exist for that option. Higher means easier to trade.</dd>
+    <dt>RSI</dt><dd>A 0–100 momentum gauge. Above 70 is overbought; below 30 is oversold.</dd>
+    <dt>Strike</dt><dd>The price at which the option lets you buy (call) or sell (put) the shares.</dd>
+    <dt>Support / resistance</dt><dd>Price levels where the stock has repeatedly stopped falling (support) or rising (resistance).</dd>
+    <dt>Typical move</dt><dd>About how far the stock could move by a date, based on option prices (one standard deviation). The stock stays inside it roughly two-thirds of the time.</dd>
+    <dt>Theta / time decay</dt><dd>The value an option loses each day just from time passing.</dd>
+    <dt>Black-Scholes</dt><dd>The standard formula for estimating an option's value from the stock price, strike, time left and volatility. The calculator uses it.</dd>
+    <dt>Volatility crush</dt><dd>The sharp drop in option prices right after a big expected event like earnings.</dd>
+  </dl>
+
+  <footer>
+    <p><a href="./">← Back to the dashboard</a></p>
+    <p>This is an information tool, not financial advice.</p>
+  </footer>
+</div>
+</body>
+</html>

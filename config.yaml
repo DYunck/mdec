@@ -1,0 +1,63 @@
+# Settings for the MedTech Signals app.
+# Edit these on GitHub (pencil icon) — the next scheduled run picks them up.
+
+# Price history starts here (GE HealthCare began trading on Jan 4, 2023 after its spin-off from GE).
+history_start: "2023-01-04"
+
+# The companies on the dashboard. "options: false" means there are no US-listed options to analyze.
+companies:
+  - key: gehc
+    ticker: GEHC
+    name: GE HealthCare
+    short: GE HealthCare
+    exchange: Nasdaq
+    currency: USD
+    options: true
+    fda_names: ["GE Healthcare", "GE HealthCare", "GE Medical Systems", "GE Ultrasound", "GE Vingmed", "GE OEC Medical", "Datex-Ohmeda"]
+    news_keywords: ["ge healthcare", "gehc", "ge health"]
+
+  - key: phg
+    ticker: PHG
+    name: Philips (NYSE ADR)
+    short: Philips
+    exchange: NYSE (ADR of Amsterdam-listed PHIA)
+    currency: USD
+    options: true
+    fda_names: ["Philips", "Philips Medical Systems", "Philips Respironics", "Philips Ultrasound", "Philips North America", "Respironics"]
+    news_keywords: ["philips", "phg", "respironics"]
+
+  - key: shl
+    ticker: SHL.DE
+    name: Siemens Healthineers (Xetra)
+    short: Siemens Healthineers
+    exchange: Xetra, Frankfurt
+    currency: EUR
+    options: false   # no US-listed options; only German-exchange options exist
+    fda_names: ["Siemens Medical Solutions", "Siemens Healthcare Diagnostics", "Siemens Healthineers", "Varian Medical Systems", "Corindus"]
+    news_keywords: ["siemens healthineers", "healthineers", "varian", "shl.de"]
+
+# Shared market context shown on the dashboard
+context_tickers:
+  IHI: US medical devices ETF
+  SPY: S&P 500 ETF
+  "^VIX": VIX (market fear index)
+  "EURUSD=X": Euro in dollars
+
+# Headlines mentioning these words rank higher (in addition to each company's own keywords)
+sector_keywords: ["fda", "recall", "tariff", "china", "mri", "ct scan", "imaging", "ultrasound", "photon", "radiology",
+                  "medtech", "medical device", "hospital", "capex", "guidance", "outlook"]
+
+# How many option expirations to download (nearest first)
+option_expirations: 6
+
+# A signal counts as "strong" (and is logged in Signal history) when the
+# direction score reaches this size (0-100). Higher = fewer, stronger signals.
+signal_min_score: 40
+
+# Contract suggestions (these are steadier stocks than SPCX, so spreads are tighter but OI is smaller)
+suggest:
+  min_days_to_expiry: 21
+  max_days_to_expiry: 75
+  target_delta: 0.45        # roughly "slightly out of the money"
+  max_spread_pct: 12        # skip contracts whose bid/ask gap is wider than this % of the mid price
+  min_open_interest: 50

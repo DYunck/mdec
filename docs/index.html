@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MedTech Signals</title>
+<meta name="description" content="Options and stock signals for medical equipment makers: GE HealthCare, Philips and Siemens Healthineers.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e1116" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="MedTech">
+<link rel="stylesheet" href="style.css">
+<script src="vendor/lightweight-charts-4.1.3.js"></script>
+<script>
+  // Show the launch splash once per visit (skip it on later page loads in the same session)
+  try { if (sessionStorage.getItem("splashSeen") === "1") document.documentElement.classList.add("no-splash"); } catch (e) {}
+</script>
+</head>
+<body>
+<div id="splash" role="status" aria-label="Loading MedTech Signals">
+  <div class="sp-grid"></div>
+  <div class="sp-monitor">
+    <div class="sp-cross"></div>
+    <svg viewBox="0 0 560 112" aria-hidden="true">
+      <path class="sp-ecg-trail" pathLength="1000" d="M0 60 H120 L140 60 L152 30 L164 92 L180 8 L196 104 L208 60 H300 L318 60 L330 44 L342 60 H560"/>
+      <path class="sp-ecg" pathLength="1000" d="M0 60 H120 L140 60 L152 30 L164 92 L180 8 L196 104 L208 60 H300 L318 60 L330 44 L342 60 H560"/>
+      <circle class="sp-dot" r="5"/>
+    </svg>
+  </div>
+  <div class="sp-text">
+    <div class="sp-title">MedTech <span>Signals</span></div>
+    <div class="sp-sub">GE HealthCare · Philips · Siemens Healthineers</div>
+    <div class="sp-bar"><i></i></div>
+  </div>
+  <div class="sp-skip">Tap to skip</div>
+</div>
+<div class="wrap">
+  <header class="top">
+    <h1 id="title">MedTech signals</h1>
+    <span class="price" id="price">—</span>
+    <span class="chg" id="chg"></span>
+    <span class="updated" id="updated">Loading…</span>
+    <span class="top-links"><a class="guide-link" id="weekly-link" href="weekly.html">📅 Weekly recap</a> <a class="guide-link" href="guide.html">📘 How to use this app</a></span>
+  </header>
+  <nav class="co-tabs" id="co-tabs" aria-label="Choose a company"></nav>
+  <div id="banners"></div>
+  <div id="install" class="banner install" hidden></div>
+
+  <div class="grid">
+    <section class="card span12">
+      <h2>Medical equipment makers at a glance <button class="ex" data-ex="peers" aria-label="Explain">i</button></h2>
+      <div class="peers" id="peers"></div>
+    </section>
+
+    <section class="card span12 today-card">
+      <h2>Today in one paragraph <button class="ex" data-ex="today" aria-label="Explain">i</button></h2>
+      <p id="today" class="today">—</p>
+    </section>
+
+    <section class="card span12">
+      <div class="hero">
+        <div>
+          <h2>What conditions favor right now <button class="ex" data-ex="score" aria-label="Explain">i</button></h2>
+          <div class="stance" id="stance">—</div>
+          <p class="detail" id="detail"></p>
+          <div class="gauge"><div class="needle" id="needle" style="left:50%"></div></div>
+          <div class="gauge-labels"><span>Bearish −100</span><span id="scoreTxt">0</span><span>+100 Bullish</span></div>
+        </div>
+        <div>
+          <h2>At a glance</h2>
+          <div class="chips" id="chips" style="margin-bottom:12px"></div>
+          <dl class="kv" id="glance"></dl>
+        </div>
+      </div>
+    </section>
+
+    <section class="card span12" id="no-opt" hidden>
+      <div class="no-opt-note" id="no-opt-text"></div>
+    </section>
+
+    <section class="card span8">
+      <div class="tabs"><button data-tf="daily" class="on">Daily</button><button data-tf="hourly">Hourly</button></div>
+      <div id="chart"></div>
+      <div id="rsi"></div>
+      <div class="legend">
+        <span><i style="background:#2457d6"></i>20-bar avg</span>
+        <span><i style="background:#c77800"></i>50-bar avg</span>
+        <span><i style="background:#9aa3ae"></i>Bollinger bands</span>
+        <span><i style="background:#8a5cf6"></i>RSI (30 / 70 lines)</span>
+        <span><i style="background:#888;height:1px;border-top:1px dashed #888"></i>Support / resistance</span>
+      </div>
+    </section>
+
+    <section class="card span4">
+      <h2>Why — signals behind the score <button class="ex" data-ex="why" aria-label="Explain">i</button></h2>
+      <ul class="reasons" id="reasons"></ul>
+    </section>
+
+    <section class="card span6">
+      <h2>Daily vs. hourly <button class="ex" data-ex="tf" aria-label="Explain">i</button></h2>
+      <div class="scroll"><table id="tf"></table></div>
+    </section>
+
+    <section class="card span6" data-needs-options>
+      <h2>Are options cheap or expensive? <button class="ex" data-ex="iv" aria-label="Explain">i</button></h2>
+      <dl class="kv" id="vol"></dl>
+      <div id="volnotes"></div>
+    </section>
+
+    <section class="card span6" data-no-options hidden>
+      <h2>Market context</h2>
+      <div class="scroll"><table id="context2"></table></div>
+    </section>
+
+    <section class="card span12">
+      <h2 id="volchart-title">Option prices over time <button class="ex" data-ex="ivhist" aria-label="Explain">i</button></h2>
+      <div id="volchart" class="minichart"></div>
+      <div class="legend" id="volchart-legend"><span><i style="background:#e0703a"></i>Implied volatility (what options assume)</span><span><i style="background:#8a95a5"></i>Actual volatility (20-day)</span><span><i style="background:var(--accent)"></i>Earnings</span></div>
+      <p class="note" id="volchart-note"></p>
+    </section>
+
+    <section class="card span12" data-needs-options>
+      <h2>Contracts worth a look <button class="ex" data-ex="contracts" aria-label="Explain">i</button></h2>
+      <div class="tabs"><button data-sg="calls" class="on">Calls (bet on a rise)</button><button data-sg="puts">Puts (bet on a drop)</button></div>
+      <div class="scroll"><table id="sugg"></table></div>
+      <p class="note">Picked for liquidity (tight bid/ask, real open interest) and a delta near the target in settings. "Max loss" is the whole cost of one contract. "Decay/day" is roughly how much one contract loses each day if nothing else changes. Tap <strong>Try it</strong> to load a contract into the calculator below.</p>
+    </section>
+
+    <section class="card span12" id="calc-card" data-needs-options>
+      <h2>"What if" payoff calculator <button class="ex" data-ex="calc" aria-label="Explain">i</button></h2>
+      <p class="note" style="margin-top:0" id="calc-intro">Pick an option and see roughly what it would be worth at different prices and dates. Estimates use the Black-Scholes model and today's option prices; real prices will differ.</p>
+      <div class="calc-controls">
+        <label>Type
+          <div class="seg" id="c-type"><button data-v="c" class="on">Call</button><button data-v="p">Put</button></div>
+        </label>
+        <label>Expiration <select id="c-exp"></select></label>
+        <label>Strike <select id="c-strike"></select></label>
+        <label>Contracts <input id="c-qty" type="number" min="1" max="100" step="1" value="1" inputmode="numeric"></label>
+        <label>Price paid (per share) <input id="c-price" type="number" min="0" step="0.01" inputmode="decimal"></label>
+        <label>Strategy
+          <div class="seg" id="c-strat"><button data-v="single" class="on">Single</button><button data-v="spread">Spread</button></div>
+        </label>
+        <label id="c-short-wrap" hidden><span id="c-short-label">Sell strike</span> <select id="c-short"></select></label>
+      </div>
+      <div class="calc-sliders">
+        <label><span>Value on: <b id="c-date-txt"></b></span><input id="c-date" type="range" min="0" value="0" step="1"></label>
+        <label><span>Volatility change: <b id="c-iv-txt"></b></span><input id="c-iv" type="range" min="-60" max="60" value="0" step="5"></label>
+      </div>
+      <div class="calc-out">
+        <div class="calc-stats" id="c-stats"></div>
+        <div class="calc-chart-wrap">
+          <svg id="c-chart" role="img" aria-label="Profit and loss chart"></svg>
+          <div class="calc-readout" id="c-readout">Touch or hover the chart to see values</div>
+          <div class="legend"><span><i style="background:var(--accent)"></i>On the chosen date</span><span><i style="background:var(--muted)"></i>At expiration</span><span><i style="background:var(--warn-bg);height:10px"></i>Typical move by expiration</span></div>
+        </div>
+      </div>
+      <div class="scroll"><table id="c-table"></table></div>
+      <p class="note" id="c-note"></p>
+    </section>
+
+    <section class="card span12" data-needs-options>
+      <h2>Option chain heat map <button class="ex" data-ex="heatmap" aria-label="Explain">i</button></h2>
+      <div class="hm-controls">
+        <div class="seg" id="hm-type"><button data-v="c" class="on">Calls</button><button data-v="p">Puts</button></div>
+        <div class="seg" id="hm-metric"><button data-v="v" class="on">Volume today</button><button data-v="oi">Open interest</button></div>
+      </div>
+      <div class="scroll hm-scroll"><table id="heatmap" class="heatmap"></table></div>
+      <p class="note">Stronger color means more contracts. The highlighted row is the strike closest to today's price. Tap a cell to load it into the calculator.</p>
+    </section>
+
+    <section class="card span6">
+      <h2>Upcoming events <button class="ex" data-ex="events" aria-label="Explain">i</button></h2>
+      <div class="scroll"><table id="events"></table></div>
+    </section>
+
+    <section class="card span6">
+      <h2>Market context</h2>
+      <div class="scroll"><table id="context"></table></div>
+      <h2 style="margin-top:16px">Key price levels <button class="ex" data-ex="levels" aria-label="Explain">i</button></h2>
+      <div class="chips" id="levels"></div>
+    </section>
+
+    <section class="card span12">
+      <h2>Earnings tracker <button class="ex" data-ex="eventmoves" aria-label="Explain">i</button></h2>
+      <div class="chips" id="em-summary" style="margin-bottom:10px"></div>
+      <div class="scroll"><table id="em-table"></table></div>
+      <p class="note" id="em-note">Reports before the open are measured from the prior close to that day's close; reports after the close from that day's close to the next day's. "Priced in" is the move options expected just before the report; it's recorded automatically from now on.</p>
+    </section>
+
+    <section class="card span12">
+      <h2>FDA activity <button class="ex" data-ex="fda" aria-label="Explain">i</button></h2>
+      <div class="chips" id="fda-summary" style="margin-bottom:10px"></div>
+      <div class="fda-grid">
+        <div>
+          <h3 class="sub">Recalls (last 2 years)</h3>
+          <div class="scroll"><table id="fda-recalls"></table></div>
+        </div>
+        <div>
+          <h3 class="sub">New 510(k) clearances</h3>
+          <div class="scroll"><table id="fda-clear"></table></div>
+        </div>
+      </div>
+      <p class="note">From the FDA's public openFDA database, matched by company and subsidiary names (editable in <code>config.yaml</code>). Recalls are grouped by recall event; Class I is the most serious. The FDA posts entries weeks after a recall starts, and not every recall moves the stock.</p>
+    </section>
+
+    <section class="card span12">
+      <h2>Analyst price targets <button class="ex" data-ex="analysts" aria-label="Explain">i</button></h2>
+      <div class="an-grid">
+        <div>
+          <div id="an-head"></div>
+          <div class="an-range" id="an-range"></div>
+          <div id="an-mix"></div>
+        </div>
+        <div>
+          <h3 class="sub">Recent rating changes</h3>
+          <div class="scroll"><table id="an-changes"></table></div>
+        </div>
+      </div>
+      <p class="note">From Yahoo Finance. Price targets are analysts' 12-month opinions, not predictions you should rely on; they're often revised after big moves.</p>
+    </section>
+
+    <section class="card span12">
+      <h2>Peer comparison <button class="ex" data-ex="compare" aria-label="Explain">i</button></h2>
+      <div class="tabs" id="cmp-range"><button data-r="21">1 month</button><button data-r="63" class="on">3 months</button><button data-r="252">1 year</button><button data-r="504">2 years</button></div>
+      <div id="cmpchart" class="minichart"></div>
+      <div class="legend" id="cmp-legend"></div>
+      <p class="note" id="cmp-note"></p>
+    </section>
+
+    <section class="card span12">
+      <h2>Valuation side by side <button class="ex" data-ex="valuation" aria-label="Explain">i</button></h2>
+      <div class="scroll"><table id="val-table"></table></div>
+      <p class="note">From Yahoo Finance. Siemens Healthineers is priced in euros and Philips reports in euros, so compare ratios (P/E, margins), not raw amounts. Highlighted = cheapest valuation or best figure among the three.</p>
+    </section>
+
+    <section class="card span12">
+      <h2>Latest headlines</h2>
+      <ul class="news" id="news"></ul>
+      <p class="note">From Yahoo Finance. Headlines about the company and medtech topics (FDA, tariffs, China, imaging) are listed first.</p>
+    </section>
+
+    <section class="card span12" data-needs-options>
+      <h2>Options activity <button class="ex" data-ex="putcall" aria-label="Explain">i</button></h2>
+      <dl class="kv" id="flow"></dl>
+      <div class="scroll" style="margin-top:10px"><table id="unusual"></table></div>
+    </section>
+
+    <section class="card span12">
+      <h2 id="bt-title">How has this signal done? (backtest) <button class="ex" data-ex="backtest" aria-label="Explain">i</button></h2>
+      <div class="scroll"><table id="bt"></table></div>
+      <p class="note" id="btnote"></p>
+    </section>
+
+    <section class="card span12">
+      <h2 id="sg-title">Which signals have actually worked? <button class="ex" data-ex="grades" aria-label="Explain">i</button></h2>
+      <div class="chips" id="sg-summary" style="margin-bottom:10px"></div>
+      <div class="scroll"><table id="sg-table"></table></div>
+      <button class="linkbtn" id="sg-more" hidden></button>
+      <p class="note" id="sg-note"></p>
+    </section>
+
+    <section class="card span12">
+      <h2>Strong-signal history &amp; results <button class="ex" data-ex="history" aria-label="Explain">i</button></h2>
+      <div id="track" class="chips" style="margin-bottom:10px"></div>
+      <div class="scroll"><table id="signals"></table></div>
+    </section>
+  </div>
+
+  <footer>
+    <p><strong>This is an information tool, not financial advice.</strong> It never places trades. It sends no messages. Signals are based on past price patterns and can be wrong; options can lose 100% of what you pay. Always make your own decision.</p>
+    <p id="footsrc"></p>
+  </footer>
+</div>
+<script src="app.js"></script>
+<script src="calc.js"></script>
+<script src="extras.js"></script>
+<script src="trackers.js"></script>
+<div id="ex-pop" class="ex-pop" role="dialog" hidden></div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+# Events that can move these stocks or their option prices.
+# Earnings dates are pulled from Yahoo Finance automatically each run; add them here only if Yahoo
+# is missing one (an entry here within 5 days of a Yahoo date is treated as the same report).
+# Monthly options expiration days (third Fridays) are added automatically for GEHC and PHG.
+#
+# Fields:
+#   date:       YYYY-MM-DD
+#   type:       earnings | macro | industry | company
+#   title:      what it is
+#   companies:  optional list (gehc, phg, shl). Leave out to show the event for every company.
+#   timing:     for earnings: "before open" or "after close"
+#   verified:   false = double-check the date
+
+events:
+  # ---- earnings (backups in case Yahoo's calendar is late)
+  - date: "2026-10-28"
+    type: earnings
+    title: GE HealthCare Q3 2026 results (before open)
+    companies: [gehc]
+    timing: before open
+    verified: true
+
+  - date: "2026-11-03"
+    type: earnings
+    title: Philips Q3 2026 results (before US open)
+    companies: [phg]
+    timing: before open
+    verified: false
+
+  - date: "2026-11-05"
+    type: earnings
+    title: Siemens Healthineers Q4 / full fiscal-year 2026 results
+    companies: [shl]
+    timing: before open
+    verified: true
+
+  # ---- industry
+  - date: "2026-11-29"
+    type: industry
+    title: RSNA 2026 begins in Chicago (radiology's biggest trade show; runs to Dec 3) — new scanners and AI tools
+    verified: true
+
+  # ---- macro
+  - date: "2026-10-28"
+    type: macro
+    title: Fed rate decision (FOMC)
+    verified: false
+
+  - date: "2026-12-09"
+    type: macro
+    title: Fed rate decision (FOMC)
+    verified: false

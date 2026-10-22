@@ -174,7 +174,8 @@ def analyze(co: dict, c: dict, ctx_data: dict, yaml_events: list[dict], cfg: dic
     chain = opt.prepare_chain(c["chain"], spot, today) if has_opt else pd.DataFrame()
     iv, iv_exp = opt.atm_iv(chain, spot) if has_opt else (None, None)
     iv_hist = _load_json(hist_dir / "iv_history.json", [])
-    if iv and not sample and mode == "intraday" and market_open:  # only record IV from live market prices
+    settled = mins >= 10 * 60  # opening quotes are often stale or wide; wait until 10:00 New York time
+    if iv and not sample and mode == "intraday" and market_open and settled:  # only record IV from live market prices
         iv_hist = [h for h in iv_hist if h["date"] != today.isoformat()] + [{"date": today.isoformat(), "iv": round(iv, 4)}]
         iv_hist = iv_hist[-400:]
     hist_vals = [h["iv"] for h in iv_hist[-252:]]
@@ -190,7 +191,7 @@ def analyze(co: dict, c: dict, ctx_data: dict, yaml_events: list[dict], cfg: dic
     flow = opt.flow(chain) if has_opt else {}
 
     em_hist = _load_json(hist_dir / "expected_moves.json", {})
-    if exp_move and next_big and em_date and mode == "intraday" and market_open and not sample:
+    if exp_move and next_big and em_date and mode == "intraday" and market_open and settled and not sample:
         before_event = today < dt.date.fromisoformat(next_big["date"]) or next_big.get("timing") == "after close"
         if before_event:
             em_hist[next_big["date"]] = {"pct": exp_move["pct"], "dollars": exp_move["dollars"],

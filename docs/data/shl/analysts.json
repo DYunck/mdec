@@ -1,0 +1,30 @@
+{
+ "targets": {
+  "low": 36.0,
+  "mean": 45.395,
+  "median": 46.5,
+  "high": 57.4,
+  "current": 41.89
+ },
+ "count": 20,
+ "rating_key": "buy",
+ "rating_mean": 1.95,
+ "mix": {
+  "strongBuy": 5,
+  "buy": 8,
+  "hold": 7,
+  "sell": 0,
+  "strongSell": 0
+ },
+ "changes": [
+  {
+   "date": "2021-07-23",
+   "firm": "Societe Generale",
+   "to": "Buy",
+   "from": "",
+   "action": "init",
+   "target": 0.0,
+   "prior_target": 0.0
+  }
+ ]
+}

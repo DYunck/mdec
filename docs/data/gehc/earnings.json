@@ -1,0 +1,128 @@
+[
+ {
+  "date": "2023-01-30",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.06,
+  "eps_actual": 1.21,
+  "surprise_pct": 14.15
+ },
+ {
+  "date": "2023-04-25",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.79,
+  "eps_actual": 0.85,
+  "surprise_pct": 7.26
+ },
+ {
+  "date": "2023-07-25",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.87,
+  "eps_actual": 0.92,
+  "surprise_pct": 5.85
+ },
+ {
+  "date": "2023-10-31",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.9,
+  "eps_actual": 0.99,
+  "surprise_pct": 10.44
+ },
+ {
+  "date": "2024-02-06",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.07,
+  "eps_actual": 1.18,
+  "surprise_pct": 10.16
+ },
+ {
+  "date": "2024-04-30",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.91,
+  "eps_actual": 0.9,
+  "surprise_pct": -0.74
+ },
+ {
+  "date": "2024-07-31",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.98,
+  "eps_actual": 1.0,
+  "surprise_pct": 2.37
+ },
+ {
+  "date": "2024-10-30",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.05,
+  "eps_actual": 1.14,
+  "surprise_pct": 8.3
+ },
+ {
+  "date": "2025-02-13",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.26,
+  "eps_actual": 1.45,
+  "surprise_pct": 14.77
+ },
+ {
+  "date": "2025-04-30",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.91,
+  "eps_actual": 1.01,
+  "surprise_pct": 10.61
+ },
+ {
+  "date": "2025-07-30",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 0.92,
+  "eps_actual": 1.06,
+  "surprise_pct": 15.51
+ },
+ {
+  "date": "2025-10-29",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.05,
+  "eps_actual": 1.07,
+  "surprise_pct": 2.21
+ },
+ {
+  "date": "2026-02-04",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.4,
+  "eps_actual": 1.44,
+  "surprise_pct": 2.99
+ },
+ {
+  "date": "2026-04-29",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.05,
+  "eps_actual": 0.99,
+  "surprise_pct": -5.71
+ },
+ {
+  "date": "2026-07-29",
+  "time_et": "06:00",
+  "timing": "before open",
+  "eps_est": 1.04,
+  "eps_actual": 1.13,
+  "surprise_pct": 9.09
+ },
+ {
+  "date": "2026-10-28",
+  "time_et": "08:00",
+  "timing": "before open",
+  "eps_est": 1.2
+ }
+]

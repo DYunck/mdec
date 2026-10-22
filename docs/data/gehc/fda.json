@@ -1,0 +1,1426 @@
+{
+ "clearances": [
+  {
+   "date": "2026-10-02",
+   "k_number": "K261933",
+   "device": "Voluson Expert 18; Voluson Expert 20; Voluson Expert 22",
+   "applicant": "GE Medical Systems Ultrasound and Primary care Diagnostics, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-10-02",
+   "k_number": "K261042",
+   "device": "Lung Guidance",
+   "applicant": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-16",
+   "k_number": "K261623",
+   "device": "EchoPAC Software Only / EchoPAC Plug-in (v211)",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-02",
+   "k_number": "K261313",
+   "device": "Vivid Explorer/Vivid Advanced/Vivid Focus",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-01",
+   "k_number": "K260656",
+   "device": "Carescape ONE; Carescape Dock F0; TruSignal ECG MM; TruSignal PRES MM; TruSignal TEMP MM; TruSignal SpO2 MM 1.8M; TruSignal SpO2 MM 3.0M",
+   "applicant": "GE Healthcare Finland Oy",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-08-28",
+   "k_number": "K260343",
+   "device": "Carescape Canvas 1000; Carescape Canvas Smart Display",
+   "applicant": "GE Healthcare Finland Oy",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-08-13",
+   "k_number": "K253808",
+   "device": "AIR Recon DL",
+   "applicant": "GE Medical Systems",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-08-10",
+   "k_number": "K254036",
+   "device": "Novii+ Wireless Patch System",
+   "applicant": "Datex Ohmeda, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Obstetrics/Gynecology"
+  },
+  {
+   "date": "2026-08-07",
+   "k_number": "K261668",
+   "device": "Venue Go",
+   "applicant": "GE Medical Systems Ultrasound and Primary care Diagnostics, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-30",
+   "k_number": "K261835",
+   "device": "LOGIQ Focus",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-28",
+   "k_number": "K260326",
+   "device": "Giraffe\u0099 OmniBed\u0099 Carestation (CS1); Giraffe\u0099 Incubator Carestation (CS1)",
+   "applicant": "Datex-Ohmeda, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "General Hospital"
+  },
+  {
+   "date": "2026-07-24",
+   "k_number": "K253277",
+   "device": "Monitor B105M; Monitor B125M; Monitor B155M; Monitor B105P; Monitor B125P",
+   "applicant": "Ge Medical Systems Information Technologies, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-07-21",
+   "k_number": "K253770",
+   "device": "CardIQ Suite",
+   "applicant": "GE Medical Systems SCS",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-24",
+   "k_number": "K253560",
+   "device": "Enhanced Boundary for PCCT",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-26",
+   "k_number": "K260398",
+   "device": "LOGIQ e",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-20",
+   "k_number": "K252718",
+   "device": "Lunar Astra",
+   "applicant": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-14",
+   "k_number": "K253502",
+   "device": "Critical Care Suite with Enteric Tube Positioning AI Algorithm",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-27",
+   "k_number": "K254161",
+   "device": "Automated Aortic Stenosis Software (AutoAS)",
+   "applicant": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-24",
+   "k_number": "K260673",
+   "device": "LOGIQ Vita; LOGIQ Vita Pro; LOGIQ Vita Express; LOGIQ Vita Plus; LOGIQ Vita Power; LOGIQ S20; LOGIQ S20 Pro; LOGIQ S20 Express; LOGIQ S20 Plus; LOGIQ S20 Power",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-24",
+   "k_number": "K260087",
+   "device": "Senographe Pristina; SenoBright HD; Pristina Serena; Pristina Serena Bright",
+   "applicant": "GE Medical Systems SCS",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-23",
+   "k_number": "K253686",
+   "device": "True Definition DL",
+   "applicant": "Ge Healthcare Japan Corporation",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-20",
+   "k_number": "K253520",
+   "device": "Photonova Spectra, Photonova Spectra Select",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-06",
+   "k_number": "K253780",
+   "device": "SIGNA\u0099 Bolt",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-05",
+   "k_number": "K253779",
+   "device": "SIGNA\u0099 Sprint Select",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-26",
+   "k_number": "K251670",
+   "device": "MAC 7 Resting ECG Analysis System",
+   "applicant": "Ge Medical Systems Information Technologies, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-01-23",
+   "k_number": "K253738",
+   "device": "3.0T AIR 32CH HNA",
+   "applicant": "Ge Healthcare Coils (Usa Instruments, Inc.)",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-08",
+   "k_number": "K253370",
+   "device": "LOGIQ Totus",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-08",
+   "k_number": "K253639",
+   "device": "View",
+   "applicant": "GE Healthcare",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-07",
+   "k_number": "K253366",
+   "device": "LOGIQ Fortis",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-12-23",
+   "k_number": "K252379",
+   "device": "AIR Recon DL",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-12-09",
+   "k_number": "K251199",
+   "device": "Allia Moveo",
+   "applicant": "GE Medical Systems SCS",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-24",
+   "k_number": "K252328",
+   "device": "Voluson Expert 18; Voluson Expert 20; Voluson Expert 22",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-29",
+   "k_number": "K251985",
+   "device": "LOGIQ E10",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-29",
+   "k_number": "K251963",
+   "device": "LOGIQ E10s",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-22",
+   "k_number": "K251663",
+   "device": "Giraffe OmniBed Carestation (CS1); Giraffe Incubator Carestation (CS1)",
+   "applicant": "Datex-Ohmeda, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "General Hospital"
+  },
+  {
+   "date": "2025-09-11",
+   "k_number": "K251399",
+   "device": "SIGNA\u0099 Sprint",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-08-01",
+   "k_number": "K250941",
+   "device": "Revolution Vibe",
+   "applicant": "Ge Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-07-25",
+   "k_number": "K251322",
+   "device": "Venue; Venue Go; Venue Fit; Venue Sprint",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-07-16",
+   "k_number": "K251342",
+   "device": "EchoPAC Software Only / EchoPAC Plug-in",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-07-10",
+   "k_number": "K251169",
+   "device": "Vivid Pioneer",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  }
+ ],
+ "recalls": [
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda, Inc.",
+   "event_id": "99649",
+   "recall_number": "Z-3191-2026",
+   "product": "Aisys CS2 with Et Control, Datex-Ohmeda anesthesia system, Part Number 1011-9000-000",
+   "reason": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarm"
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda, Inc.",
+   "event_id": "99649",
+   "recall_number": "Z-3192-2026",
+   "product": "Et Control, Software option for anesthesia gas machine to achieve and maintain targeted end tidal oxygen and anesthetic agents, Field replaceable unit (FRU) part numbers: 1011-8000-000-S, 5700665",
+   "reason": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarm"
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99637",
+   "recall_number": "Z-3143-2026",
+   "product": "Carescape Central Station    CSCS V3 MAS800 Desktop  Part Number 5867474-04, 5867474-13  Product code STU    CSCS V3 MAI800  Integrated   Part Number 5867474-03  Product Code STV",
+   "reason": "Device may not resume patient monitoring for at least 3 minutes following system restart. Issue can lead to potential delay in recognition of clinically significant events."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda, Inc.",
+   "event_id": "99649",
+   "recall_number": "Z-3190-2026",
+   "product": "Aisys CS2, Datex-Ohmeda anesthesia system, Part Number 1011-9055-000",
+   "reason": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarm"
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3169-2026",
+   "product": "Centricity PACS Server V7, intended for managing digital medical images and associated data, All versions",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3168-2026",
+   "product": "Centricity PACS V2, V3, V4, V6, V7, software product is intended for the storage, reading, diagnostic review, analysis, annotation, distribution, printing, editing, and processing of digital images and data acquired from",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3166-2026",
+   "product": "Centricity Enterprise Archive V2, V3, and V4, software product for receiving, archiving, and sending electronic medical data, All Versions",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3171-2026",
+   "product": "Core Services Hub V8, a set of backend services including Cross Enterprise (XE) and Workflow Core (WFC) services that enables enterprise imaging workflows, All versions",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3170-2026",
+   "product": "Workflow Core Services V8, intended to provide set of services for storage and retrieval of patient data, exams and performs system Administration, common configuration management for consuming applications, All versions",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "99661",
+   "recall_number": "Z-3167-2026",
+   "product": "Enterprise Archive V8, software product for receiving, archiving, and sending electronic medical data, All versions",
+   "reason": "Under certain conditions historical imaging data migrated from a legacy system may become incorrectly associated with a different patient. If this occurs, studies or images may be displayed under the wrong patient record, which could lead to misdiagnosis or a delay in patient care."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda, Inc.",
+   "event_id": "99649",
+   "recall_number": "Z-3189-2026",
+   "product": "Aisys, Datex-Ohmeda anesthesia system, Part Number 1011-9050-000",
+   "reason": "Anesthesia Delivery Systems containing certain electronic gas mixer assemblies can automatically transition to Alternate O2 control. In Alternate O2 control, the system delivers 100% O2 to the breathing system enabling continued controlled or manual ventilation and initiates audible and visual alarm"
+  },
+  {
+   "date": "2026-09-02",
+   "started": "2026-07-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99536",
+   "recall_number": "Z-3038-2026",
+   "product": "PORTRAIT CORE SERVICES SOFTWARE V1.0.5, Ref# 5697353",
+   "reason": "Software issue may result in a loss of patient monitoring at the Hub and Central Viewer. In addition, all alarm settings could be reset to factory defaults following the update and will not follow the alarm settings previously configured for each patient or care area."
+  },
+  {
+   "date": "2026-09-02",
+   "started": "2026-07-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99536",
+   "recall_number": "Z-3037-2026",
+   "product": "PORTRAIT COMPUTE AND CORE SERVICES V1.2, Ref# 5700592",
+   "reason": "Software issue may result in a loss of patient monitoring at the Hub and Central Viewer. In addition, all alarm settings could be reset to factory defaults following the update and will not follow the alarm settings previously configured for each patient or care area."
+  },
+  {
+   "date": "2026-09-02",
+   "started": "2026-07-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99536",
+   "recall_number": "Z-3039-2026",
+   "product": "FRU (Field replaceable unit), PORTRAIT CORE SERVICES SW RELOAD V1.1, Ref# 5700225",
+   "reason": "Software issue may result in a loss of patient monitoring at the Hub and Central Viewer. In addition, all alarm settings could be reset to factory defaults following the update and will not follow the alarm settings previously configured for each patient or care area."
+  },
+  {
+   "date": "2026-09-02",
+   "started": "2026-07-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99536",
+   "recall_number": "Z-3036-2026",
+   "product": "PORTRAIT CORE SERVICES SOFTWARE V1.1, Ref# 5700209",
+   "reason": "Software issue may result in a loss of patient monitoring at the Hub and Central Viewer. In addition, all alarm settings could be reset to factory defaults following the update and will not follow the alarm settings previously configured for each patient or care area."
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-29",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99400",
+   "recall_number": "Z-2876-2026",
+   "product": "GE Healthcare MAC VU360, REF# part number 2030361-023; Electrocardiograph",
+   "reason": "Software issue issue with the MAC VU360 v3.0 system.  After selecting the order refresh icon, an open preview or review screen might fail to close automatically after 2 minutes of inactivity. As a result, data from a previous patient may remain on the screen and could be incorrectly associated with "
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-07-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "99475",
+   "recall_number": "Z-2878-2026",
+   "product": "GE Healthcare Portrait Core Services SW V 1.2.0, REF 5700592. patient monitoring system",
+   "reason": "A software vulnerability may allow unauthorized persons to gain privileged access to the device, which could result in loss of patient monitoring, missed patient alarms, and/or access to Protected Health Information (PHI)."
+  },
+  {
+   "date": "2026-07-22",
+   "started": "2026-06-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "99279",
+   "recall_number": "Z-2726-2026",
+   "product": "Optima XR200amx, Mobile Digital-Ready Radiographic System",
+   "reason": "GE HealthCare has become aware that in certain Optima XR200/220/240amx systems that have had a column replacement completed, functional testing of the safety pawl may not have been performed to confirm proper assembly. If a failure of the internal counterpoise cable occurs, the Column Safety mechani"
+  },
+  {
+   "date": "2026-07-22",
+   "started": "2026-06-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "99279",
+   "recall_number": "Z-2727-2026",
+   "product": "Optima XR220amx, Mobile Digital-Ready Radiographic System",
+   "reason": "GE HealthCare has become aware that in certain Optima XR200/220/240amx systems that have had a column replacement completed, functional testing of the safety pawl may not have been performed to confirm proper assembly. If a failure of the internal counterpoise cable occurs, the Column Safety mechani"
+  },
+  {
+   "date": "2026-07-22",
+   "started": "2026-06-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "99279",
+   "recall_number": "Z-2728-2026",
+   "product": "Optima XR240amx, Mobile Digital Radiographic System",
+   "reason": "GE HealthCare has become aware that in certain Optima XR200/220/240amx systems that have had a column replacement completed, functional testing of the safety pawl may not have been performed to confirm proper assembly. If a failure of the internal counterpoise cable occurs, the Column Safety mechani"
+  },
+  {
+   "date": "2026-07-01",
+   "started": "2026-05-08",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems SCS",
+   "event_id": "99042",
+   "recall_number": "Z-2553-2026",
+   "product": "GE Healthcare AW Server 3.2 ext.6.5; Radiological Image Processing System",
+   "reason": "GE HealthCare has become aware of a context synchronization issue in AW Server 3.2 ext. 6.5. When a user selects a patient or exam in the AW Server Web Client worklist and launches an interactive application (e.g. Volume Viewer), the application may open the previous patient's exam instead of the in"
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-08",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda Inc",
+   "event_id": "99036",
+   "recall_number": "Z-2357-2026",
+   "product": "Giraffe Stand-alone Infant Resuscitation System; Powered emergency ventilator (resuscitator)  Product identifiers: 2082663-001, 2082663-002, M1241424    Product impacted only if service blender M1091607-R was installed d",
+   "reason": "Blender knob shaft can loosen, which can affect the delivered oxygen concentration. The system can deliver an oxygen concentration that does not match the intended concentration set by the user, potentially resulting in hypoxia or hyperoxia in the patient."
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-08",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda Inc",
+   "event_id": "99036",
+   "recall_number": "Z-2358-2026",
+   "product": "Giraffe Warmer with Integrated Resuscitation System (iRes), Panda Warmer with Integrated Resuscitation System (iRes) Product Identifiers: M1118179, M1112198  Impacted only if service blender M1091607-R was installed duri",
+   "reason": "Blender knob shaft can loosen, which can affect the delivered oxygen concentration. The system can deliver an oxygen concentration that does not match the intended concentration set by the user, potentially resulting in hypoxia or hyperoxia in the patient."
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-08",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Datex-Ohmeda Inc",
+   "event_id": "99036",
+   "recall_number": "Z-2359-2026",
+   "product": "Panda Freestanding Warmer, Infant Radiant Warmer Product Identifiers: 2063568-001  Impacted only if service blender M1091607-R was installed during the last Preventative Maintenance.",
+   "reason": "Blender knob shaft can loosen, which can affect the delivered oxygen concentration. The system can deliver an oxygen concentration that does not match the intended concentration set by the user, potentially resulting in hypoxia or hyperoxia in the patient."
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98986",
+   "recall_number": "Z-2477-2026",
+   "product": "Giraffe OmniBed Field Replaceable Unit (FRU), Model Numbers 6600-1056-400 and 6600-1461-500",
+   "reason": "GE HealthCare has become aware of a potential issue involving the canopy soffit beneath the control panel end of the device. Under certain conditions, for example, impact during transport, one or more of the fasteners that secure the soffit can disengage. If this occurs, a fastener could fall into t"
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98986",
+   "recall_number": "Z-2475-2026",
+   "product": "Giraffe OmniBed, a combination of an infant incubator and an infant warmer, All Models",
+   "reason": "GE HealthCare has become aware of a potential issue involving the canopy soffit beneath the control panel end of the device. Under certain conditions, for example, impact during transport, one or more of the fasteners that secure the soffit can disengage. If this occurs, a fastener could fall into t"
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98986",
+   "recall_number": "Z-2476-2026",
+   "product": "Giraffe OmniBed Carestations and Giraffe OmniBed Carestation CS1, a combination of an infant incubator and an infant warmer, Model Numbers 2082844-001-XXX",
+   "reason": "GE HealthCare has become aware of a potential issue involving the canopy soffit beneath the control panel end of the device. Under certain conditions, for example, impact during transport, one or more of the fasteners that secure the soffit can disengage. If this occurs, a fastener could fall into t"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-04-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98880",
+   "recall_number": "Z-2314-2026",
+   "product": "Allia IGS 3 Pulse angiographic X-ray system",
+   "reason": "GE HealthCare has become aware of a potential issue affecting an electrical cable on certain IGS systems equipped with Gaia generators. This issue could lead to a risk of electrical shock to service personnel performing installation, maintenance, or troubleshooting activities inside the C-FRT cabine"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-04-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98880",
+   "recall_number": "Z-2317-2026",
+   "product": "Allia IGS Pulse angiographic X-ray system",
+   "reason": "GE HealthCare has become aware of a potential issue affecting an electrical cable on certain IGS systems equipped with Gaia generators. This issue could lead to a risk of electrical shock to service personnel performing installation, maintenance, or troubleshooting activities inside the C-FRT cabine"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-04-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98880",
+   "recall_number": "Z-2318-2026",
+   "product": "Allia Moveo angiographic X-ray system",
+   "reason": "GE HealthCare has become aware of a potential issue affecting an electrical cable on certain IGS systems equipped with Gaia generators. This issue could lead to a risk of electrical shock to service personnel performing installation, maintenance, or troubleshooting activities inside the C-FRT cabine"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-04-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98880",
+   "recall_number": "Z-2315-2026",
+   "product": "Allia IGS 5 Pulse angiographic X-ray system",
+   "reason": "GE HealthCare has become aware of a potential issue affecting an electrical cable on certain IGS systems equipped with Gaia generators. This issue could lead to a risk of electrical shock to service personnel performing installation, maintenance, or troubleshooting activities inside the C-FRT cabine"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-04-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98880",
+   "recall_number": "Z-2316-2026",
+   "product": "Allia IGS 7 Pulse angiographic X-ray system",
+   "reason": "GE HealthCare has become aware of a potential issue affecting an electrical cable on certain IGS systems equipped with Gaia generators. This issue could lead to a risk of electrical shock to service personnel performing installation, maintenance, or troubleshooting activities inside the C-FRT cabine"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2026-04-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems China Co., Ltd.",
+   "event_id": "98917",
+   "recall_number": "Z-2306-2026",
+   "product": "MAC 5 A4 Resting ECG Analysis System 855001-001;  MAC 5 A5 Resting ECG Analysis System 8855002-001.  Electrocardiograph",
+   "reason": "Software in development inadvertently made available for customer use. Use of this software version can result in clinical information being associated with the incorrect patient. This could impact clinical decision-making."
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98932",
+   "recall_number": "Z-2279-2026",
+   "product": "CASE v7.0 Cardiac Testing System  Model no. 3031234-001  Product Code SU3",
+   "reason": "Electrical sparking may occur at the printer head. If the Electrostatic Discharge (ESD) printer brush becomes dislodged, electrical sparking at the printer head can result in charring or discoloration of thermal printer paper. Ignition of the paper could potentially result in serious thermal injury."
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2246-2026",
+   "product": "GE HealthCare TRADE IN CARESCAPE TELEMETRY SERVER ARK-2250L - NORTH AMERICA, REF #5697603-902, Product Code KSA; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (CTS) v6.0; Monitor, Physiological, Patient(Wit",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2247-2026",
+   "product": "GE HealthCare ApexPro v6.0 eDelivery Software, REF #5700026, Product Code SUV; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (CTS) v6.0; Monitor, Physiological, Patient(With Arrhythmia Detection Or Alarms)",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2245-2026",
+   "product": "GE HealthCare CARESCAPE TELEMETRY SERVER ARK-2250L - NORTH AMERICA, REF #5697603, Product Code KSA; used in conjunction wtih ApexPro CARESCAPE Telemetry Server (CTS) v6.0; Monitor, Physiological, Patient(With Arrhythmia ",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2244-2026",
+   "product": "GE HealthCare IOU ASSY ARK2250 CARESCAPE TELEMETRY SERVER, REF #2108729-901, Product Code SS9; ApexPro CARESCAPE Telemetry Server (CTS) v5.0; Monitor, Physiological, Patient(With Arrhythmia Detection Or Alarms)",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2243-2026",
+   "product": "GE HealthCare APEXPRO v5.0 - ARK2250 - Software Disaster Recovery USB Kit - Orderable by GE Service only, REF #2108523-01; ApexPro CARESCAPE Telemetry Server (CTS) v5.0; Monitor, Physiological, Patient(With Arrhythmia De",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems Information Technologies Inc",
+   "event_id": "98938",
+   "recall_number": "Z-2242-2026",
+   "product": "GE HealthCare CARESCAPE TELEMETRY SERVER V5 ATO MODEL, REF #2063702-101, Product Code SS9; used in conjunction with ApexPro CARESCAPE Telemetry Server (CTS) v5.0; Monitor, Physiological, Patient(With Arrhythmia Detection",
+   "reason": "GE HealthCare has become aware of an unlikely situation where potential loss of ECG and SpO2 monitoring involving ApexPro CARESCAPE Telemetry Server (CTS) v5.0 and v6.0, can result from a persistent NO COMM or OFF NETWORK condition at the CARESCAPE Central Station or CIC Pro Clinical Information Cen"
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2153-2026",
+   "product": "Revolution CT ES, X-ray Computed Tomography, Model Number 5590000-15",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2149-2026",
+   "product": "Revolution Ascend, computed tomography, Model Numbers 6969000-100 and 6969000-300",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2155-2026",
+   "product": "Revolution Apex Select, X-ray Computed Tomography, Model Number 5590000-27",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2151-2026",
+   "product": "Revolution Apex Elite, X-ray Computed Tomography, Model Number 5590000-23",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2154-2026",
+   "product": "Revolution Apex, X-ray Computed Tomography, Model Number 5590000-20",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2152-2026",
+   "product": "Revolution Apex Plus, X-ray Computed Tomography, Model Number 5590000-25",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98738",
+   "recall_number": "Z-2150-2026",
+   "product": "Revolution CT, x-ray computed tomography, Model Numbers 5590000 and 5590000-6",
+   "reason": "GE HealthCare has become aware of a potential security vulnerability impacting AW Server deployed via Edison Health Link (EHL) based CT Smart Subscription used in conjunction with certain Revolution Apex, Revolution Ascend, and Revolution CT systems."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-02-27",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare LLC",
+   "event_id": "98579",
+   "recall_number": "Z-1767-2026",
+   "product": "SIGNA Premier systems",
+   "reason": "Whole-Body MR scanners used to produce images of the inside of the human body to aid diagnosis of disease may have been manufactured/serviced with ferrous (steel) fittings instead of non-ferrous (brass) fittings on the magnet rear and if system is accessed to perform service while the magnet is ramp"
+  },
+  {
+   "date": "2026-04-01",
+   "started": "2026-02-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98447",
+   "recall_number": "Z-1590-2026",
+   "product": "Imactis CT-Navigation System, stereotaxic accessory for Computer Tomography (CT), systems, Model Numbers E85101LA and E85101LP",
+   "reason": "There is a potential issue that can lead to discordance between the simulated needle trajectory/tip position and the actual needle trajectory/tip position."
+  },
+  {
+   "date": "2026-03-25",
+   "started": "2026-01-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98428",
+   "recall_number": "Z-1570-2026",
+   "product": "Centricity Universal Viewer Software Versions 6.0 through 6.0 Sp10.4.1, a device that displays medical images (including mammograms) and data from various imaging sources, Model Numbers 2088026-406, 2100169-001, 2088026-",
+   "reason": "There is a potential cybersecurity vulnerability affecting certain versions of Centricity Universal Viewer. User login credentials may be exposed on the local client workstation, which could allow an unauthorized individual to potentially impact system availability and/or manipulate data."
+  },
+  {
+   "date": "2026-03-25",
+   "started": "2026-01-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98428",
+   "recall_number": "Z-1571-2026",
+   "product": "Centricity Universal Viewer Software Versions 5.0 SP6 through UV 5.0 SP7.1, a device that displays medical images (including mammograms) and data from various imaging sources, Model Numbers 2088026-026, 2088026-115, 2088",
+   "reason": "There is a potential cybersecurity vulnerability affecting certain versions of Centricity Universal Viewer. User login credentials may be exposed on the local client workstation, which could allow an unauthorized individual to potentially impact system availability and/or manipulate data."
+  },
+  {
+   "date": "2026-03-25",
+   "started": "2026-01-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98428",
+   "recall_number": "Z-1569-2026",
+   "product": "Centricity Universal Viewer Software Versions 7.0 through 7.0 Sp2.0.1, a device that displays medical images (including mammograms) and data from various imaging sources, Model Numbers 5826659-027, 5826659-029, 5826659-0",
+   "reason": "There is a potential cybersecurity vulnerability affecting certain versions of Centricity Universal Viewer. User login credentials may be exposed on the local client workstation, which could allow an unauthorized individual to potentially impact system availability and/or manipulate data."
+  },
+  {
+   "date": "2026-03-11",
+   "started": "2026-01-16",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare",
+   "event_id": "98368",
+   "recall_number": "Z-1475-2026",
+   "product": "GE Healthcare Centricity Universal Viewer Zero Footprint Client, Model Numbers:  2110344-039, 2110344-046, 2110344-047; System, Image Processing, Radiological",
+   "reason": "Under certain workflows, patient information shown in the viewer may not match the images displayed on Centricity Universal Viewer Zero Footprint Client (ZFP) with versions ZFP v6.0: SP11.6, SP11.6.0.1 and SP11.6.1 on systems with Patient Timeline installed,"
+  },
+  {
+   "date": "2026-01-28",
+   "started": "2025-12-24",
+   "classification": "Class II",
+   "status": "Completed",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "98269",
+   "recall_number": "Z-1112-2026",
+   "product": "GE Healthcare Omni Legend, sold under the following names:    OMNI Legend 16, Omni Legend 21, OMNI Legend 32, Omni Legend PET Gantry 16cm - MEA, Omni Legend PET Gantry 16cm Haifa LM, Omni Legend PET Gantry 16cm Mobile, O",
+   "reason": "There is a potential intermittent issue on certain Omni Legend systems that can result in a streaking artifact in the PET clinical scan images.  This streaking artifact is most easily identified in transaxial slices on the acquisition console (both corrected and non-corrected for attenuation)."
+  },
+  {
+   "date": "2026-01-21",
+   "started": "2025-12-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "98133",
+   "recall_number": "Z-1045-2026",
+   "product": "SMV DSI,     System, Tomography, Computed, Emission",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service (herein referred to as  Impacted Systems  and  listed in the Affected Product Details section of this letter) could have been transported or relocated without adequate detector support. T"
+  },
+  {
+   "date": "2026-01-21",
+   "started": "2025-12-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "98133",
+   "recall_number": "Z-1046-2026",
+   "product": "SMV BodyTrack,     System, Tomography, Computed, Emission",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service (herein referred to as  Impacted Systems  and  listed in the Affected Product Details section of this letter) could have been transported or relocated without adequate detector support. T"
+  },
+  {
+   "date": "2026-01-21",
+   "started": "2025-12-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "98133",
+   "recall_number": "Z-1044-2026",
+   "product": "SMV DSX New Line,     System, Tomography, Computed, Emission",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service (herein referred to as  Impacted Systems  and  listed in the Affected Product Details section of this letter) could have been transported or relocated without adequate detector support. T"
+  },
+  {
+   "date": "2026-01-21",
+   "started": "2025-12-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "98133",
+   "recall_number": "Z-1047-2026",
+   "product": "MAXXUS,     System, Tomography, Computed, Emission",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service (herein referred to as  Impacted Systems  and  listed in the Affected Product Details section of this letter) could have been transported or relocated without adequate detector support. T"
+  },
+  {
+   "date": "2025-12-24",
+   "started": "2025-11-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare GmbH",
+   "event_id": "98001",
+   "recall_number": "Z-0935-2026",
+   "product": "GE HealthCare ViewPoint 6, Catalog Number H47601AA; Radiological image processing system",
+   "reason": "GE HealthCare has become aware that the Patient History tab in ViewPoint 6 versions 6.15.3 and 6.15.4 ultrasound software may not include complete patient medical history information."
+  },
+  {
+   "date": "2025-12-24",
+   "started": "2025-11-14",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems China Co., Ltd.",
+   "event_id": "98064",
+   "recall_number": "Z-0913-2026",
+   "product": "GE Healthcare Carestation anesthesia system, product number and REF numbers:    Carestation 610 A1, REF 1012-9620-222;   Carestation 620 A1  REF 1012-9620-000;   Carestation 620 A1, REF 1012-9620-200;   Carestation 620 A",
+   "reason": "Potential unexpected shutdown of Carestation 600 and 700 Series Anesthesia Systems containing certain power management boards, if the AC mains power is unplugged or in the event of an AC mains power failure.    Anesthesia systems only operate on battery power in a rare event that AC mains power is l"
+  },
+  {
+   "date": "2025-12-24",
+   "started": "2025-11-14",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems China Co., Ltd.",
+   "event_id": "98064",
+   "recall_number": "Z-0914-2026",
+   "product": "GE Healthcare Carestation anesthesia system, product number and REF numbers:    Carestation 750 A1, REF 1012-9750-000;   Carestation 750 A2, REF 1012-9750-002;   Carestation 750c A1, REF 1012-9755-000;     Products for w",
+   "reason": "Potential unexpected shutdown of Carestation 600 and 700 Series Anesthesia Systems containing certain power management boards, if the AC mains power is unplugged or in the event of an AC mains power failure.    Anesthesia systems only operate on battery power in a rare event that AC mains power is l"
+  },
+  {
+   "date": "2025-12-24",
+   "started": "2025-11-14",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems China Co., Ltd.",
+   "event_id": "98064",
+   "recall_number": "Z-0915-2026",
+   "product": "GE Healthcare Carestation anesthesia system Power Management Board (PMB) Field Replaceable Unit (FRU), 2076139-001-S",
+   "reason": "Potential unexpected shutdown of Carestation 600 and 700 Series Anesthesia Systems containing certain power management boards, if the AC mains power is unplugged or in the event of an AC mains power failure.    Anesthesia systems only operate on battery power in a rare event that AC mains power is l"
+  },
+  {
+   "date": "2025-12-17",
+   "started": "2025-10-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "98081",
+   "recall_number": "Z-0875-2026",
+   "product": "Senographe Pristina, Pristina Serena, and Pristina Serena 3D.  for screening and diagnostic mammography",
+   "reason": "Some Senographe Pristina systems either have a missing or an incorrect X-Ray Warning label, which is a nonconformance to FDA Regulation 21 CFR \u00bf1020.30(j)."
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-09-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare Finland Oy",
+   "event_id": "97786",
+   "recall_number": "Z-0455-2026",
+   "product": "B105P, B125P, B105M, B125M, B155M Patient Monitors; Model nos. 6160000-002 6160000-003 6160000-004 6160000-005 6160000-101  6160000-102 6160000-103 6160000-104 6160000-105 6160001-063 6160001-064 6160001-065  Monitor, Ph",
+   "reason": "Potential loss of monitoring on affected monitors when powered by certain batteries. Affected batteries can lose capability to hold charge and provide back up power. If this situation occurs, it will cause loss of patient monitoring and potentially delay recognizing patient status changes requiring "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-09-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare Finland Oy",
+   "event_id": "97786",
+   "recall_number": "Z-0454-2026",
+   "product": "CARESCAPE ONE, Model no. 2087075-300 - shipped with potentially affected batteries or affected batteries installed as a spare part  Monitor, Physiological, Patient (With Arrhythmia Detection or Alarms  Updated 3/19 to ad",
+   "reason": "Potential loss of monitoring on affected monitors when powered by certain batteries. Affected batteries can lose capability to hold charge and provide back up power. If this situation occurs, it will cause loss of patient monitoring and potentially delay recognizing patient status changes requiring "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-09-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare Finland Oy",
+   "event_id": "97786",
+   "recall_number": "Z-0456-2026",
+   "product": "Portrait VSM  Model nos.  6660000-666    Monitor, Physiological, Patient (With  Arrhythmia Detection or Alarms",
+   "reason": "Potential loss of monitoring on affected monitors when powered by certain batteries. Affected batteries can lose capability to hold charge and provide back up power. If this situation occurs, it will cause loss of patient monitoring and potentially delay recognizing patient status changes requiring "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-09-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare Finland Oy",
+   "event_id": "97786",
+   "recall_number": "Z-0457-2026",
+   "product": "BATTERY FLEX-3S2P 10.8V 18650 LI-ION SMBUS  used with affected patient monitors    Model No 2062895-001  Manufacturer Part Number U80296-1R01, revision S",
+   "reason": "Potential loss of monitoring on affected monitors when powered by certain batteries. Affected batteries can lose capability to hold charge and provide back up power. If this situation occurs, it will cause loss of patient monitoring and potentially delay recognizing patient status changes requiring "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-09-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Healthcare Finland Oy",
+   "event_id": "97786",
+   "recall_number": "Z-0453-2026",
+   "product": "Carescape B450, Model no. 5805686 - shipped with potentially affected batteries or affected batteries installed as a spare part  Monitor, Physiological, Patient (With Arrhythmia Detection or Alarms  Record updated 3/19/2",
+   "reason": "Potential loss of monitoring on affected monitors when powered by certain batteries. Affected batteries can lose capability to hold charge and provide back up power. If this situation occurs, it will cause loss of patient monitoring and potentially delay recognizing patient status changes requiring "
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0293-2026",
+   "product": "Elscint SPX6; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0299-2026",
+   "product": "Millenium MPR; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Wipro GE Healthcare Private Ltd.",
+   "event_id": "97646",
+   "recall_number": "Z-0214-2026",
+   "product": "GE Healthcare Carescape Central Station (CSCS) V3 MAS800 Desktop with software version V3.0.5, Part Number 5867474-03; Medical Display, cathode ray tube",
+   "reason": "Carescape Central Station (CSCS), software version V3.0.5, can cause the system to enter a continuous reboot cycle. If this occurs, a loss of central monitoring of connected patients could result. This issue occurs only when the number of central stations connected to the network is 118, 119 or 120."
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0291-2026",
+   "product": "Elscint Model 4XX; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0297-2026",
+   "product": "Millenium MG/MC; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0298-2026",
+   "product": "Millenium Myosight; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0303-2026",
+   "product": "Starcam/Camstar; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0295-2026",
+   "product": "Elscint Helix; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0302-2026",
+   "product": "Sopha Medical Vision (SMV) DSXi/DST-XLi,/ DST-XL/ DSTi; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-08-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97564",
+   "recall_number": "Z-0231-2026",
+   "product": "MAC VU360 Acquisition Trunk Cable and Module Holder, high performance, multichannel resting electrocardiograph, Model Number 2030360-001, Product Codes VU2 and VU4",
+   "reason": "If a user incorrectly places the Acquisition Module into the Acquisition Module Holder, it can result in excessive bending and wear of the Acquisition Trunk Cable. This is visible as a damaged sheath or exposed wires. If a damaged Acquisition Trunk Cable is not recognized and removed from service, t"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Wipro GE Healthcare Private Ltd.",
+   "event_id": "97646",
+   "recall_number": "Z-0213-2026",
+   "product": "GE Healthcare Carescape Central Station (CSCS) V3 MAS800 Desktop with software version V3.0.5; Part Number 5867474-04; Medical Display, cathode ray tube",
+   "reason": "Carescape Central Station (CSCS), software version V3.0.5, can cause the system to enter a continuous reboot cycle. If this occurs, a loss of central monitoring of connected patients could result. This issue occurs only when the number of central stations connected to the network is 118, 119 or 120."
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0292-2026",
+   "product": "Elscint SPX4; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0294-2026",
+   "product": "Elscint Varicam; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0300-2026",
+   "product": "Millenium MPS; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0290-2026",
+   "product": "Elscint Cardial; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0296-2026",
+   "product": "Maxicam; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-29",
+   "started": "2025-09-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE MEDICAL SYSTEMS ISRAEL, FUNCTIONAL IMAGING",
+   "event_id": "97647",
+   "recall_number": "Z-0301-2026",
+   "product": "Optima NX; dual-head nuclear medicine gamma camera designed specifically for cardiac imaging",
+   "reason": "GE HealthCare has become aware that certain Nuclear Medicine systems that are past the End of Guaranteed Service could have been transported or relocated without adequate detector support. This could result in excessive stress being applied to the detector mounting mechanisms, compromising their int"
+  },
+  {
+   "date": "2025-10-22",
+   "started": "2025-09-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97726",
+   "recall_number": "Z-0156-2026",
+   "product": "LOGIQ P10 R4.5 HD ultrasound system with system software version R4.5.7., Model Number 5877535",
+   "reason": "The Ultrasound-Guided Attenuation Parameter (UGAP) measurement data may display inaccurate values representing liver steatosis. This could potentially lead to inappropriate clinical decisions impacting overall care."
+  },
+  {
+   "date": "2025-10-22",
+   "started": "2025-09-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97726",
+   "recall_number": "Z-0157-2026",
+   "product": "LOGIQ P9 R4.5 ultrasound system with system software version R4.5.7., Model Number 5877533",
+   "reason": "The Ultrasound-Guided Attenuation Parameter (UGAP) measurement data may display inaccurate values representing liver steatosis. This could potentially lead to inappropriate clinical decisions impacting overall care."
+  },
+  {
+   "date": "2025-10-22",
+   "started": "2025-09-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97726",
+   "recall_number": "Z-0155-2026",
+   "product": "LOGIQ P10 series with software version R4.5.7 Model Number   5877534",
+   "reason": "The Ultrasound-Guided Attenuation Parameter (UGAP) measurement data may display inaccurate values representing liver steatosis. This could potentially lead to inappropriate clinical decisions impacting overall care."
+  },
+  {
+   "date": "2025-10-15",
+   "started": "2025-09-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, SCS",
+   "event_id": "97657",
+   "recall_number": "Z-0068-2026",
+   "product": "AW Server 2.0, AW Server 3.0, AW Server 3.1, AW Server 3.2",
+   "reason": "Firm has identified a security vulnerability in AW Server products. If exploited, a malicious actor could compromise the confidentiality, integrity, and availability of patient data."
+  },
+  {
+   "date": "2025-09-03",
+   "started": "2025-07-02",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97454",
+   "recall_number": "Z-2342-2025",
+   "product": "GE HealthCare OEC 9900 Elite C-arm Systems.",
+   "reason": "GE HealthCare has become aware of a non-conformance to 21 CFR 1020.30 (k) in certain OEC 9800 and OEC 9900 Elite C-arm Systems. Specifically, impacted systems are missing the full layer of lead tape in the collimator covers, which will lead to a small increase in radiation exposure to the patient an"
+  },
+  {
+   "date": "2025-09-03",
+   "started": "2025-07-02",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97454",
+   "recall_number": "Z-2341-2025",
+   "product": "GE HealthCare OEC 9800.",
+   "reason": "GE HealthCare has become aware of a non-conformance to 21 CFR 1020.30 (k) in certain OEC 9800 and OEC 9900 Elite C-arm Systems. Specifically, impacted systems are missing the full layer of lead tape in the collimator covers, which will lead to a small increase in radiation exposure to the patient an"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2299-2025",
+   "product": "GE Signa Artist, Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2314-2025",
+   "product": "GE SIGNA Premier Elite  (China Only), Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2313-2025",
+   "product": "GE SIGNA Premier XT (China Only), Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2300-2025",
+   "product": "GE Signa Voyager, Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2306-2025",
+   "product": "GE Discovery MR750 3.0T, Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2301-2025",
+   "product": "GE Discovery MR450 1.5T, Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2316-2025",
+   "product": "GE SIGNA Hero XT  (China Only), Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2310-2025",
+   "product": "GE SIGNA Artist Evo, Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  },
+  {
+   "date": "2025-08-20",
+   "started": "2025-06-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "97187",
+   "recall_number": "Z-2319-2025",
+   "product": "GE SIGNA PET/MR AIR (China Only), Nuclear Magnetic Resonance Imaging System",
+   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
+  }
+ ]
+}

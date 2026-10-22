@@ -1,0 +1,1294 @@
+{
+ "clearances": [
+  {
+   "date": "2026-09-29",
+   "k_number": "K263048",
+   "device": "Syngo Carbon Space (VA4)",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-25",
+   "k_number": "K260055",
+   "device": "syngo.CT Brain Quantification",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-10",
+   "k_number": "K261696",
+   "device": "ACUNAV Luxera 4D ICE Catheter",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-09-04",
+   "k_number": "K260331",
+   "device": "IMMULITE 2000 3gAllergy Specific IgE Vantage; IMMULITE 2000 Systems Peanut Allergen (F13)",
+   "applicant": "Siemens Healthcare Diagnostics Products, Ltd.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
+   "date": "2026-08-31",
+   "k_number": "K260488",
+   "device": "MULTIX Impact; MULTIX Impact C",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-08-10",
+   "k_number": "K253528",
+   "device": "Atellica IM CA 19-9 II",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
+   "date": "2026-08-03",
+   "k_number": "K261856",
+   "device": "Halcyon, Ethos Radiotherapy System (5.0)",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-31",
+   "k_number": "K260852",
+   "device": "MAGNETOM Flow.Elite;MAGNETOM Flow.Neo;MAGNETOM Flow.Rise;MAGNETOM Flow.Pure",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-24",
+   "k_number": "K261364",
+   "device": "Atellica CH Acetaminophen 2 (ACTM)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Clinical Toxicology"
+  },
+  {
+   "date": "2026-07-10",
+   "k_number": "K261306",
+   "device": "AI Contouring (VA10A)",
+   "applicant": "Varian Medical Systems",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-08",
+   "k_number": "K260750",
+   "device": "Virtual Cone (1.0)",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-25",
+   "k_number": "K253786",
+   "device": "syngo.CT Coronary Cockpit",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-18",
+   "k_number": "K253678",
+   "device": "MAMMOMAT B.brilliant (11372950)",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-16",
+   "k_number": "K260844",
+   "device": "ACUSON Sequoia Diagnostic Ultrasound System;ACUSON Sequoia Select Diagnostic Ultrasound System;ACUSON Origin Diagnostic Ultrasound System;ACUSON Origin ICE Diagnostic Ultrasound System",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-15",
+   "k_number": "K253690",
+   "device": "LungMaps",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-04",
+   "k_number": "K253026",
+   "device": "Respiratory Gating for Scanners (2.1)",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-21",
+   "k_number": "K261315",
+   "device": "Symbia Pro.specta Q3 (11364751);Symbia Pro.specta X3 (11364752);Symbia Pro.specta X7 (11364753);Symbia Pro.specta VA40 Family",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-20",
+   "k_number": "K252717",
+   "device": "MAASTRO Rectal Applicator Set",
+   "applicant": "Varian Medical Systems",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-29",
+   "k_number": "K254184",
+   "device": "syngo Application Software",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-24",
+   "k_number": "K254173",
+   "device": "ARTIS icono floor; ARTIS icono biplane; ARTIS icono ceiling; ARTIS pheno",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-23",
+   "k_number": "K252815",
+   "device": "ProBeam 360 Proton Therapy System v3.0",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-04-23",
+   "k_number": "K253752",
+   "device": "ARTIS genio floor; ARTIS icono.explore floor",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-20",
+   "k_number": "K253574",
+   "device": "SOMATOM X.cite; SOMATOM X.ceed",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-18",
+   "k_number": "K252304",
+   "device": "syngo.via RT Image Suite VC10",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-27",
+   "k_number": "K251998",
+   "device": "Atellica CH Diazo Total Bilirubin (D_TBil)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Clinical Chemistry"
+  },
+  {
+   "date": "2026-02-10",
+   "k_number": "K254016",
+   "device": "MI View&GO",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-06",
+   "k_number": "K251543",
+   "device": "Atellica\u00ae IM TSH3-Ultra II (TSH3ULII)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Clinical Chemistry"
+  },
+  {
+   "date": "2026-01-21",
+   "k_number": "K252977",
+   "device": "Halcyon, Ethos Radiotherapy System (5.0)",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-15",
+   "k_number": "K253023",
+   "device": "BIOGRAPH One",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-05",
+   "k_number": "K251630",
+   "device": "Atellica IM Total PSA II (tPSAII)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
+   "date": "2025-12-16",
+   "k_number": "K252919",
+   "device": "IDENTIFY (5.0)",
+   "applicant": "Varian Medical Systems, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-12-04",
+   "k_number": "K250816",
+   "device": "ADVIA Centaur Anti-Thyroglobulin II (aTgII)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
+   "date": "2025-11-20",
+   "k_number": "K253495",
+   "device": "syngo.MR Applications (VB80)",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-19",
+   "k_number": "K252884",
+   "device": "Guided Aarhus Applicator Set",
+   "applicant": "Varian Medical Systems",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-17",
+   "k_number": "K253487",
+   "device": "ACUSON Maple Diagnostic Ultrasound System; ACUSON Maple Select Diagnostic Ultrasound System",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-13",
+   "k_number": "K253457",
+   "device": "ACUSON Juniper Diagnostic Ultrasound System; ACUSON Juniper Select Diagnostic Ultrasound System",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-04",
+   "k_number": "K250241",
+   "device": "Cios Select",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K251059",
+   "device": "Syngo Carbon Clinicals (VA41)",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-17",
+   "k_number": "K250250",
+   "device": "ADVIA Centaur Anti-Thyroid Peroxidase II",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
+   "date": "2025-10-15",
+   "k_number": "K251805",
+   "device": "syngo.CT Dual Energy",
+   "applicant": "Siemens Medical Solutions USA, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  }
+ ],
+ "recalls": [
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-17",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99726",
+   "recall_number": "Z-3335-2026",
+   "product": "Atellica CH Revised C-Reactive Protein (RCRP);  Siemens Material Number (SMN): 11537223;",
+   "reason": "The potential for falsely elevated results."
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-13",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99446",
+   "recall_number": "Z-2976-2026",
+   "product": "Beckman Coulter, Emit 2000 Quinidine Assay  REF: OSR4Q229  Contents: R1: 2 x 23 mL;R2 2x13 mL",
+   "reason": "Due to unacceptable precision performance exhibited in certain lots of the Emit 2000 Quinidine Assay, which may lead to erroneously elevated quinidine measurements, creating risk of sub-optimal patient treatment, including potential life-threatening cardiac arrhythmias or inadequate antimalarial the"
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-13",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99446",
+   "recall_number": "Z-2975-2026",
+   "product": "Syva EMIT 2000 Quinidine Assay  REF: 4Q019UL  Contents: 1x28 mL, 1x14mL",
+   "reason": "Due to unacceptable precision performance exhibited in certain lots of the Emit 2000 Quinidine Assay, which may lead to erroneously elevated quinidine measurements, creating risk of sub-optimal patient treatment, including potential life-threatening cardiac arrhythmias or inadequate antimalarial the"
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-13",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Products Ltd.",
+   "event_id": "99447",
+   "recall_number": "Z-2966-2026",
+   "product": "Siemens Healthineers  Immulite 2000 Systems SYP Syphilis Screen  REF(s):L2kSY2/10489085; L2KSY6/10488319  IVD, RxOnly",
+   "reason": "Syphilis Screen assay may contain a negative patient bias resulting in low reactive patient results being reported as nonreactive."
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-13",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Products Ltd.",
+   "event_id": "99447",
+   "recall_number": "Z-2965-2026",
+   "product": "Siemens Healthineers  Immulite 2000 Systems SYP Syphilis Screen  REF:L2KSY2(D)/10471981  IVD, RxOnly",
+   "reason": "Syphilis Screen assay may contain a negative patient bias resulting in low reactive patient results being reported as nonreactive."
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-26",
+   "classification": "Class III",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99381",
+   "recall_number": "Z-2881-2026",
+   "product": "Syva Emit tox Serum Tricyclic Antidepressant Calibrator/Controls  SMN 10445390  Catalog No. 7C219UL",
+   "reason": "out-of-specification sodium azide concentration in Syva Emit Tox Serum Tricyclic Antidepressant Calibrator/Controls Lot U2. While the assay results were not impacted, the overall health risk to lab technicians due to this issue is low, as exposure is limited by small volumes and a 0.2% post-reconsti"
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-07-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99389",
+   "recall_number": "Z-2890-2026",
+   "product": "Atellica CH Urine Albumin REF: 11537225, in vitro diagnostic",
+   "reason": "Processing of urine albumin assay on the CI analyzers may lead to the following issues: Falsely depressed Atellica CH Urea Nitrogen (UN_c) results; Falsely depressed Atellica CH Enzymatic Hemoglobin A1c (A1c_E) results; Increased rate of reaction cuvette QC failures and Delayed results due to QC fai"
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-26",
+   "classification": "Class III",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99379",
+   "recall_number": "Z-2880-2026",
+   "product": "Syva Emit Disopyramide Assay  Enzyme Immunoassay, Lidocaine  SMN 10445370  Catalog No 6N319UL",
+   "reason": "Out-of-specification sodium azide concentration in Syva Emit Disopyramide Enzyme Immunoassay Calibrator Lot U1. While the assay results were not impacted, the overall health risk to lab technicians due to this issue is low, as exposure is limited by small volumes and a 0.2% post-reconstitution sodiu"
+  },
+  {
+   "date": "2026-07-15",
+   "started": "2026-06-08",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "99214",
+   "recall_number": "Z-2703-2026",
+   "product": "Atellica CH Enzymatic Hemoglobin A1c (A1c_E). Material Number: 11097536.",
+   "reason": "The potential for intermittent well-to-well bias on the A1c_E assay on the Atellica CH and Atellica CI analyzer which could cause falsely depressed or falsely elevated HbA1c patient results."
+  },
+  {
+   "date": "2026-07-08",
+   "started": "2026-06-08",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "99224",
+   "recall_number": "Z-2648-2026",
+   "product": "ARTIS icono ceiling. Model Number: 11328100.",
+   "reason": "Potential issue with the Display ceiling suspension (DCS Fix XL) that holds the monitor in place. Over time some screws that keep the monitor attached to the suspension may gradually loosen."
+  },
+  {
+   "date": "2026-07-08",
+   "started": "2026-05-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "99079",
+   "recall_number": "Z-2643-2026",
+   "product": "ARTIS icono floor. Model Number: 11327700.",
+   "reason": "Potential for loss of movement capability after adjusting the detector lift height to its maximum or minimum limits."
+  },
+  {
+   "date": "2026-07-08",
+   "started": "2026-05-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "99079",
+   "recall_number": "Z-2641-2026",
+   "product": "ARTIS icono biplane. Model Number: 11327600.",
+   "reason": "Potential for loss of movement capability after adjusting the detector lift height to its maximum or minimum limits."
+  },
+  {
+   "date": "2026-07-08",
+   "started": "2026-05-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "99079",
+   "recall_number": "Z-2642-2026",
+   "product": "ARTIS icono ceiling. Model Number: 11328100.",
+   "reason": "Potential for loss of movement capability after adjusting the detector lift height to its maximum or minimum limits."
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-05-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "98985",
+   "recall_number": "Z-2398-2026",
+   "product": "Siemens Dimension Tacrolimus Flex Reagent Cartridge (TAC), REF DF207, SMN 10700795; enzyme immunoassay",
+   "reason": "A potential positive bias in quality control (QC) and patient sample results in three lots of the Dimension Tacrolimus (TAC) Flex reagent cartridge."
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2026-03-09",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98992",
+   "recall_number": "Z-2206-2026",
+   "product": "ARTIS Icono biplane, floor and ceiling.: ARTIS icono biplane Model 11327600. ARTIS icono ceiling Model 11328100. ARTIS icono floor Model 11327700. interventional fluoroscopic x-ray system",
+   "reason": "During patient examinations, the system may sporadically display a  0  x-ray dose administered to the patient. This behavior  has only been observed during fluoroscopy and/or single-frame acquisitions. Despite the reported x-ray dose showing  0,   an actual x-ray dose is applied to the patient."
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2026-03-09",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98992",
+   "recall_number": "Z-2205-2026",
+   "product": "ARTIS pheno, Model 10849000. interventional fluoroscopic x-ray system",
+   "reason": "During patient examinations, the system may sporadically display a  0  x-ray dose administered to the patient. This behavior has only been observed during fluoroscopy and/or single-frame acquisitions. Despite the reported x-ray dose showing  0,   an actual x-ray dose is applied to the patient."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-03-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "98666",
+   "recall_number": "Z-1980-2026",
+   "product": "Dimension Creatinine Flex reagent cartridge. Material Number: 10872079.",
+   "reason": "Siemens Healthcare Diagnostics is recalling certain lots of Dimension Creatinine Flex reagent cartridge (Dimension CRE2) because a potential imprecision in the Dimension CRE2 quality control (QC) and patient sample results using lot numbers GA6307 and BA7005 on the Dimension System. This imprecision"
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-02",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "98680",
+   "recall_number": "Z-2005-2026",
+   "product": "epoc BGEM BUN Test Card (25 pk) for the epoc Blood Analysis System;   Siemens Material Number (SMN): 10736515;",
+   "reason": "Use of the affected product can result in discrepant low pH and measured Total Carbon Dioxide (mTCO2) results and corresponding calculated values in arterial, venous, and capillary patient samples. An erroneously low pH or mTCO2 reading can lead to inappropriate treatment of nonexistent acidosis (re"
+  },
+  {
+   "date": "2026-04-22",
+   "started": "2026-03-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98772",
+   "recall_number": "Z-1814-2026",
+   "product": "ARTIS Pheno VE30A and VE40A, Model 10849000",
+   "reason": "During 3D acquisitions, lighter and darker patient images may be captured, which may result in less accurate 3D reconstruction. The variation of brightness is a result of a constant unregulated medium dose and the angular change of patient diameter caused by rotational acquisition. This may result i"
+  },
+  {
+   "date": "2026-04-15",
+   "started": "2026-03-10",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98675",
+   "recall_number": "Z-1653-2026",
+   "product": "ARTIS pheno and ARTIS Icono biplane, floor and ceiling. Model Numbers 10849000, 11327600, 11328100, 11327700.",
+   "reason": "During patient examinations, the system may sporadically display a major increase of the x-ray dose applied to the patient.  Despite the reported dose showing significantly higher, the actual applied x-ray dose levels are in accordance with the system  settings and imaging conditions, as well as the"
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-02-23",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "98498",
+   "recall_number": "Z-1657-2026",
+   "product": "Atellica CH Enzymatic Hemoglobin A1c (A1c_E);  Siemens Material Number (SMN): 11097536;",
+   "reason": "A potential for depressed results for Atellica CH A1c_E when processing Atellica CH RCRP on the same analyzer. Customers processing A1c_E and RCRP on separate analyzers are not impacted by the recall. The frequency and magnitude of the negative bias and imprecision increase over time and are not con"
+  },
+  {
+   "date": "2026-03-11",
+   "started": "2026-01-20",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "98370",
+   "recall_number": "Z-1484-2026",
+   "product": "Atellica CH Urine Albumin (UAlb). Material Number: 11537225",
+   "reason": "Falsely depressed UAlb patient  results may occur. Affected samples with any urine albumin concentration above the UAlb  measuring interval >40.0 mg/dL may report values between 6.2 mg/dL and 40.0 mg/dL."
+  },
+  {
+   "date": "2026-02-11",
+   "started": "2025-12-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98206",
+   "recall_number": "Z-1242-2026",
+   "product": "NAEOTOM Alpha.Pro  Software applications:   syngo.CT Brain Quantification  syngo.CT Vessel Hyperdensities  syngo.CT ASPECTS",
+   "reason": "To remove the software applications from certain CT systems as the applications have not received FDA 510(k) clearance."
+  },
+  {
+   "date": "2026-02-11",
+   "started": "2025-12-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98206",
+   "recall_number": "Z-1239-2026",
+   "product": "SOMATOM X.ceed  Software applications:   syngo.CT Brain Quantification  syngo.CT Vessel Hyperdensities  syngo.CT ASPECTS",
+   "reason": "To remove the software applications from certain CT systems as the applications have not received FDA 510(k) clearance."
+  },
+  {
+   "date": "2026-02-11",
+   "started": "2025-12-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98206",
+   "recall_number": "Z-1240-2026",
+   "product": "NAEOTOM Alpha  Software applications:   syngo.CT Brain Quantification  syngo.CT Vessel Hyperdensities  syngo.CT ASPECTS",
+   "reason": "To remove the software applications from certain CT systems as the applications have not received FDA 510(k) clearance."
+  },
+  {
+   "date": "2026-02-11",
+   "started": "2025-12-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98206",
+   "recall_number": "Z-1241-2026",
+   "product": "NAEOTOM Alpha.Prime  Software applications:   syngo.CT Brain Quantification  syngo.CT Vessel Hyperdensities  syngo.CT ASPECTS",
+   "reason": "To remove the software applications from certain CT systems as the applications have not received FDA 510(k) clearance."
+  },
+  {
+   "date": "2026-02-04",
+   "started": "2025-12-29",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98244",
+   "recall_number": "Z-1174-2026",
+   "product": "Interventional Fluoroscopic X-Ray System: LUMINOS Q.namix R;  Siemens Material Number (SMN): 11574002;  With Software Version VB10D-SP02",
+   "reason": "Ortho images acquired with preset automatic horizontal flip are not flipped and when acquiring single images, there is the possibility that an image of a previous patient may be processed."
+  },
+  {
+   "date": "2026-02-04",
+   "started": "2025-12-29",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98244",
+   "recall_number": "Z-1175-2026",
+   "product": "Interventional Fluoroscopic X-Ray System: LUMINOS Q.namix T;  Siemens Material Number (SMN): 11574003;  With Software Version VB10D-SP02",
+   "reason": "Ortho images acquired with preset automatic horizontal flip are not flipped and when acquiring single images, there is the possibility that an image of a previous patient may be processed."
+  },
+  {
+   "date": "2026-01-14",
+   "started": "2025-12-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "98230",
+   "recall_number": "Z-0999-2026",
+   "product": "LUMINOS Lotus Max, Model 11574100 and Luminos dRF Max, Model 10762471",
+   "reason": "A potential issue associated with LUMINOS Lotus Max and Luminos dRF Max  systems with software version VF11 with bucky wall stand for mobile detectors and without ceiling stand .When  switching quickly between organ programs (OGPs) the collimation may be incorrect."
+  },
+  {
+   "date": "2025-12-10",
+   "started": "2025-10-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97920",
+   "recall_number": "Z-0878-2026",
+   "product": "MAMMOMAT Inspiration;",
+   "reason": "There were instances where the operator table was sold together with a bus-installation kit. The operator table is not intended and not released for bus installations as it was designed for stationary operation only."
+  },
+  {
+   "date": "2025-12-10",
+   "started": "2025-10-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97920",
+   "recall_number": "Z-0879-2026",
+   "product": "MAMMOMAT Fusion;",
+   "reason": "There were instances where the operator table was sold together with a bus-installation kit. The operator table is not intended and not released for bus installations as it was designed for stationary operation only."
+  },
+  {
+   "date": "2025-12-10",
+   "started": "2025-10-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97920",
+   "recall_number": "Z-0877-2026",
+   "product": "MAMMOMAT Revelation;",
+   "reason": "There were instances where the operator table was sold together with a bus-installation kit. The operator table is not intended and not released for bus installations as it was designed for stationary operation only."
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97819",
+   "recall_number": "Z-0493-2026",
+   "product": "Food Panel 3 Specific Allergen;  Siemens Material Number (SMN): 10385891;  Catalog Number: FP3L4;",
+   "reason": "The barcode orientation on affected devices causes incorrect scanning order of tubes within the allergen holder wedge. When using an IMMULITE 2000 / IMMULITE 2000 XPi instrument in combination with a Zebra barcode scanner, the instrument will not correctly recognize the position of tubes within the "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97819",
+   "recall_number": "Z-0492-2026",
+   "product": "3gAllergy Specific IgE Universal Kit;  Kit Component: 3gAllergy Specific IgE Adjustor Antibody (L2UNS1), 3gAllergy Specific IgE Control Antibody (L2UNS2);  Siemens Material Number (SMN): 10380875;  Catalog Number: L2KUN6",
+   "reason": "The barcode orientation on affected devices causes incorrect scanning order of tubes within the allergen holder wedge. When using an IMMULITE 2000 / IMMULITE 2000 XPi instrument in combination with a Zebra barcode scanner, the instrument will not correctly recognize the position of tubes within the "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97819",
+   "recall_number": "Z-0491-2026",
+   "product": "IMMULITE 2000 Oak Mix Specific Allergen;  Siemens Material Number (SMN): 10386105;  Catalog Number: L2KUN6;",
+   "reason": "The barcode orientation on affected devices causes incorrect scanning order of tubes within the allergen holder wedge. When using an IMMULITE 2000 / IMMULITE 2000 XPi instrument in combination with a Zebra barcode scanner, the instrument will not correctly recognize the position of tubes within the "
+  },
+  {
+   "date": "2025-11-19",
+   "started": "2025-10-01",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97845",
+   "recall_number": "Z-0431-2026",
+   "product": "MAGNETOM Cima.X Upgrade. Model Number: 11689304.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the primary and/or the auxiliary venting paths of the magnet helium containment venting system. In the event of a quench when both venting paths are blocked, helium gas may be unable to escape through the designed venting pat"
+  },
+  {
+   "date": "2025-11-05",
+   "started": "2025-09-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97672",
+   "recall_number": "Z-0366-2026",
+   "product": "Assay: IMMULITE 2000 Intact PTH;  Test Code: iPT;  Siemens Material Number (SMN): (1) 10381441, (2) 10381442;  Catalog Number: (1) L2KPP2, (2) L2KPP6;",
+   "reason": "The potential for falsely depressed Intact PTH patient results at the low end of the assay range, less than or equal to 50 pg/mL (less than or equal to 5.3 pmol/L), when using specific lots identified by the firm on the IMMULITE 2000/IMMULITE 2000 XPi systems.  The bias is observed in both serum and"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2660-2025",
+   "product": "MAGNETOM Skyra (DE). Model Number: 10432915.    510(k) Numbers: K101347, K111242, K123510, K133435, K140253, K141977, K142515, K153343, K173592, K202014, K231560.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2654-2025",
+   "product": "Biograph mMR. Model Number: 10433372.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2664-2025",
+   "product": "MAGNETOM Verio. Model Number: 10276755.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2658-2025",
+   "product": "MAGNETOM Lumina (DE). Model Number: 11344916.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2663-2025",
+   "product": "MAGNETOM Spectra as the following:  1.  MAGNETOM Spectra. Model Number: 10837643.  2. MAGNETOM Spectra (CN). Model Number: 10655588.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2662-2025",
+   "product": "MAGNETOM Skyra Fit BioMatrix. Model Number: 11516217.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2667-2025",
+   "product": "MAGNETOM Vida (DE). Model Number: 11060815.       510(k): K170396, K173617, K181433, K183254, K192924, K203443, K213693, K213805, K220425, K231560.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2668-2025",
+   "product": "MAGNETOM Vida Fit. Model Number: 11410481.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2661-2025",
+   "product": "MAGNETOM Skyra fit. Model Number: 10849580.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2656-2025",
+   "product": "MAGNETOM Cima.X (DE). Model Number: 11647158.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2666-2025",
+   "product": "MAGNETOM Verio Dot Upgrade. Model Number: 10684334.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2657-2025",
+   "product": "MAGNETOM Connectom.X. Model Number: 11371480.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2659-2025",
+   "product": "MAGNETOM Prisma. Model Number: 10849582.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2655-2025",
+   "product": "BIOGRAPH One (DE). Model Number: 11689172.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-10-08",
+   "started": "2025-08-28",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97530",
+   "recall_number": "Z-2665-2025",
+   "product": "MAGNETOM Verio Dot. Model Number: 10684333.",
+   "reason": "There is a potential for an ice blockage to form or currently exist within the magnet venting system. In the event of a quench, helium gas may be unable to escape through the designed venting paths, leading to a pressure build-up within the helium containment system. This pressure build-up could ult"
+  },
+  {
+   "date": "2025-09-17",
+   "started": "2025-08-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97444",
+   "recall_number": "Z-2529-2025",
+   "product": "Artis Pheno. Image-Intensified Flouroscopic X-Ray System.",
+   "reason": "Limited system movements after startup ."
+  },
+  {
+   "date": "2025-09-17",
+   "started": "2025-08-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97398",
+   "recall_number": "Z-2542-2025",
+   "product": "Atellica CH Urinary/Cerebrospinal Fluid Protein (UCFP). Material Number: 11097543.",
+   "reason": "Potential for falsely depressed patient, quality control (QC), and/or calibration results or delayed results."
+  },
+  {
+   "date": "2025-08-13",
+   "started": "2025-07-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "97180",
+   "recall_number": "Z-2272-2025",
+   "product": "epoc BGEM BUN Test Card [25pk]. Material Number: 10736515.",
+   "reason": "Siemens Healthcare Diagnostics Inc. has confirmed that a negative sodium bias may exist in some epoc test card lots. All other analytes are performing as intended. The  observed average bias for sodium was -4.4 mmol/L. The maximum bias observed was -14 mmol/L, which occurred at a higher sodium conce"
+  },
+  {
+   "date": "2025-08-06",
+   "started": "2025-06-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "97209",
+   "recall_number": "Z-2230-2025",
+   "product": "RAPIDPoint 500 Systems Wash/Waste Cartridge (4 Pack). Material Number: 10329097.",
+   "reason": "Siemens Healthcare Diagnostics is recalling the RAPIDPoint 500 Systems Wash/Waste Cartridge Lot WW/08925 due to a manufacturing error causing positive and negative bias in Ionized Calcium, Potassium, pH, Chloride, pCO2, Glucose and Lactate analytes and their derivatives. Four complaints were filed r"
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97037",
+   "recall_number": "Z-2089-2025",
+   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN2 Control)",
+   "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97037",
+   "recall_number": "Z-2088-2025",
+   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (Norm Control)",
+   "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-05-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97135",
+   "recall_number": "Z-2020-2025",
+   "product": "interventional fluoroscopic x-ray system",
+   "reason": "In very rare situations, communication between the sensor measuring dose applied to the area and the corresponding software fails. As a result of the failure, the system may incorrectly report an application of a high dose."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-05-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97135",
+   "recall_number": "Z-2021-2025",
+   "product": "interventional fluoroscopic x-ray system",
+   "reason": "In very rare situations, communication between the sensor measuring dose applied to the area and the corresponding software fails. As a result of the failure, the system may incorrectly report an application of a high dose."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-05-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97135",
+   "recall_number": "Z-2022-2025",
+   "product": "interventional fluoroscopic x-ray system",
+   "reason": "In very rare situations, communication between the sensor measuring dose applied to the area and the corresponding software fails. As a result of the failure, the system may incorrectly report an application of a high dose."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97037",
+   "recall_number": "Z-2087-2025",
+   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN1 Control)",
+   "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-05-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97135",
+   "recall_number": "Z-2019-2025",
+   "product": "ARTIS is a family of dedicated angiography systems developed for single and  biplane diagnostic imaging and interventional procedures including, but not  limited to, pediatric and obese patients. Procedures that can be p",
+   "reason": "In very rare situations, communication between the sensor measuring dose applied to the area and the corresponding software fails. As a result of the failure, the system may incorrectly report an application of a high dose."
+  },
+  {
+   "date": "2025-07-09",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "97037",
+   "recall_number": "Z-2086-2025",
+   "product": "ADVIA\u00bf 120/2120/2120i SETpoint Calibrator",
+   "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
+  },
+  {
+   "date": "2025-07-02",
+   "started": "2025-05-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "96952",
+   "recall_number": "Z-2027-2025",
+   "product": "Product: Atellica CH Diluent - CONS 2 x 1.5L;  Siemens Material Number (SMN): 11099300;",
+   "reason": "Contamination of the diluent by sodium hypochlorite (NaOCl) which may impact calibrator, quality control (QC), and patient results for all assays except for sodium, potassium, and chloride."
+  },
+  {
+   "date": "2025-06-25",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97050",
+   "recall_number": "Z-1982-2025",
+   "product": "UROSKOP Omnia Max. Model Number: 10762473",
+   "reason": "A resistor in the frequency inverter may strongly overheat potentially igniting the plastic housing of the frequency inverter on fire."
+  },
+  {
+   "date": "2025-06-25",
+   "started": "2025-06-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "97050",
+   "recall_number": "Z-1981-2025",
+   "product": "UROSKOP Omnia. Model Number: 10094910",
+   "reason": "A resistor in the frequency inverter may strongly overheat potentially igniting the plastic housing of the frequency inverter on fire."
+  },
+  {
+   "date": "2025-06-04",
+   "started": "2025-04-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "96693",
+   "recall_number": "Z-1821-2025",
+   "product": "Atellica IM Homocysteine Calibrator (2 Pack). Siemens Material Number: 10995498",
+   "reason": "Certain lots of Atellica IM Homocysteine Calibrator and ADVIA Centaur HCY Calibrator do not meet the assay Instructions for Use (IFU) reference interval due to calibrator instability resulting in increased positive bias."
+  },
+  {
+   "date": "2025-06-04",
+   "started": "2025-04-15",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "96693",
+   "recall_number": "Z-1822-2025",
+   "product": "ADVIA Centaur HCY Calibrator (2 Pack). Siemens Material Number: 10310376.",
+   "reason": "Certain lots of Atellica IM Homocysteine Calibrator and ADVIA Centaur HCY Calibrator do not meet the assay Instructions for Use (IFU) reference interval due to calibrator instability resulting in increased positive bias."
+  },
+  {
+   "date": "2025-05-07",
+   "started": "2025-03-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "96539",
+   "recall_number": "Z-1684-2025",
+   "product": "epoc BGEM BUN Test Card (25 pk) for the epoc Blood Analysis System; Siemens Material Number (SMN): 10736515; epoc Software Version & Sensor Configuration: epoc Host SW v3.41.2, epoc NXS SW v4.14.9 & 4.14.11, Sensor Confi",
+   "reason": "The occurrence of discrepant high pH results in samples introduced with higher injection volumes with epoc sensor configuration 45.n."
+  },
+  {
+   "date": "2025-05-07",
+   "started": "2025-03-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "96631",
+   "recall_number": "Z-1673-2025",
+   "product": "Stratus CS Acute Care cTNI TestPak.IVD test for cardiac troponin I in heparinized plasma.",
+   "reason": "Siemens Healthcare Diagnostics Inc., is recalling their Stratus CS Acute Care cTNI TestPak, an IVD test for cardiac troponin I in heparinized plasma by removal. The reason for the recall is an increased occurrence of random non-repeatable false positive cardiac Troponin l(cTnI) results at any point "
+  },
+  {
+   "date": "2025-05-07",
+   "started": "2025-03-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "96539",
+   "recall_number": "Z-1685-2025",
+   "product": "epoc BGEM Crea Test Card (25 pk) for the epoc Blood Analysis System; Siemens Material Number (SMN): 10736382; epoc Software Version & Sensor Configuration: epoc Host SW v3.41.2, epoc NXS SW v4.14.9 & 4.14.11, Sensor Conf",
+   "reason": "The occurrence of discrepant high pH results in samples introduced with higher injection volumes with epoc sensor configuration 45.n."
+  },
+  {
+   "date": "2025-04-16",
+   "started": "2025-03-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "96440",
+   "recall_number": "Z-1551-2025",
+   "product": "Atellica CH Revised C Reactive Protein (RCRP); Siemens Material Number (SMN): 11537223.",
+   "reason": "Incorrect software flagging may occur for the assay that may potentially lead to an erroneous result."
+  },
+  {
+   "date": "2025-02-05",
+   "started": "2025-01-02",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "SIEMENS MEDICAL SOLUTIONS USA, INC",
+   "event_id": "96088",
+   "recall_number": "Z-0922-2025",
+   "product": "ARTIS One Angiographic X-Ray System",
+   "reason": "A potential issue with ARTIS One systems was identified. In very  rare situations, the first x-ray release following patient registration may be performed with incorrect  copper prefiltration. If the described issue occurs, the applied radiation dose-rate may be higher  than intended by the user."
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-12",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95751",
+   "recall_number": "Z-0767-2025",
+   "product": "Magnesium Flex reagent cartridge, 360 tests, Catalog Number: K3057; Siemens Material Number (SMN): 10445158;",
+   "reason": "Siemens Healthcare Diagnostics is recalling two lots of their Dimension Vista\u00bf Total Magnesium (MG) Flex Reagent Cartridges (lots 24057BB and 24064BC) due to the potential for falsely low measurements of magnesium in plasma. Because the error is intermittent, existing quality control procedures may "
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0736-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413498(JP) ; Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples ",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0741-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413879(IN) ; Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples ",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0739-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413518 (ROW) ; Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of sample",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0734-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413475 (US); Software Version Number: 4.14.9.  Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples of",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0737-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413506 (CA); Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples ",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0738-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413517(MX) ; Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples ",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0735-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413497 (EU); Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samples ",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2025-01-01",
+   "started": "2024-11-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95809",
+   "recall_number": "Z-0740-2025",
+   "product": "epoc NXS Host; Siemens Material Number (SMN): 11413583(CN, KR) ; Software Version Number: 4.14.9.    Intended for use by trained medical professionals as an in vitro diagnostic device for the quantitative testing of samp",
+   "reason": "Siemens Healthcare Diagnostics is recalling their epoc Blood Analysis System because of a software malfunction that occurs when specific criteria are met that can result in the incorrect patient name being assigned to a blood measurement by the device if the user of the device does not ensure verifi"
+  },
+  {
+   "date": "2024-12-11",
+   "started": "2024-11-04",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95644",
+   "recall_number": "Z-0597-2025",
+   "product": "Atellica CI Analyzer. Catalog Numbers: 10947347.",
+   "reason": "Potential that the IMT Diluent volume remaining (% remaining) does not decrease as expected on the Atellica CI Analyzer, potentially leading to the IMT Diluent being empty while still displaying that volume is remaining.  In this case Sodium (Na), Potassium (K) and Chloride (Cl) test results may be "
+  },
+  {
+   "date": "2024-12-11",
+   "started": "2024-10-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95666",
+   "recall_number": "Z-0599-2025",
+   "product": "Atellica\u00bf CH \u00bf2-Microglobulin (B2M) - In vitro diagnostic use in the quantitative determination of \u00bf2-microglobulin in human serum and plasma.  Siemens Material Number (SMN): 11097635",
+   "reason": "Potential for falsely depressed auto-diluted  results for samples above the measuring interval of 18.00 mg/L, up to 30.00 mg/L, when using the Atellica CH \u00bf2-Microglobulin (B2M) reagent."
+  },
+  {
+   "date": "2024-11-27",
+   "started": "2024-10-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95626",
+   "recall_number": "Z-0496-2025",
+   "product": "Siemens Atellica CH Reaction Ring Cuvette Segment-has cuvettes that contain and incubate the sample reaction volumes and present them to each processing step.  Siemens Material Number(SMN): 11099326    All lots starting ",
+   "reason": "A manufacturing defect causes Atellica CH Reaction Ring Cuvette Segments with lot numbers \u001cN15\u001d on the packaging or \u001c15\u001d on the underside of the cuvette segment have a potential for imprecision and erroneously depressed or elevated QC and patient results for  seven (7) analytes: Ammonia, Acetaminoph"
+  },
+  {
+   "date": "2024-11-20",
+   "started": "2024-09-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "95513",
+   "recall_number": "Z-0464-2025",
+   "product": "IMMULITE 2000 PSA assay, Catalog Number L2KPTS2(D) (SMN 10706281) and Catalog Number L2KPTS6(D) (SMN 10706282)",
+   "reason": "The IMMULITE 2000 PSA assay for use on the IMMULITE 2000 and IMMULITE 2000 XPi analyzers did not meet the High-dose Hook Effect claim as stated in the Instructions for Use (IFU)."
+  },
+  {
+   "date": "2024-11-13",
+   "started": "2024-09-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics Inc",
+   "event_id": "95504",
+   "recall_number": "Z-0286-2025",
+   "product": "epoc BGEM BUN Test Card (25 pk) for the epoc Blood Analysis System, SMN 10736515",
+   "reason": "Siemens Healthcare Diagnostics Inc. has confirmed that a negative sodium bias may exist in one lot of epoc BGEM BUN Test Cards approximately 2 months prior to expiration. The observed maximum negative bias from internal testing is -10 mmol/L. No positive bias has been observed. Quality Control (QC) "
+  }
+ ]
+}

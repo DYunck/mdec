@@ -1,0 +1,111 @@
+{
+ "targets": {
+  "low": 70.0,
+  "mean": 82.7,
+  "median": 84.0,
+  "high": 96.0,
+  "current": 69.82
+ },
+ "count": 20,
+ "rating_key": "buy",
+ "rating_mean": 1.81818,
+ "mix": {
+  "strongBuy": 6,
+  "buy": 10,
+  "hold": 6,
+  "sell": 0,
+  "strongSell": 0
+ },
+ "changes": [
+  {
+   "date": "2026-10-12",
+   "firm": "BTIG",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "main",
+   "target": 75.0,
+   "prior_target": 79.0
+  },
+  {
+   "date": "2026-10-07",
+   "firm": "Barclays",
+   "to": "Overweight",
+   "from": "",
+   "action": "init",
+   "target": 85.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2026-10-05",
+   "firm": "Citigroup",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 71.0,
+   "prior_target": 75.0
+  },
+  {
+   "date": "2026-10-05",
+   "firm": "Needham",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "reit",
+   "target": 93.0,
+   "prior_target": 93.0
+  },
+  {
+   "date": "2026-09-22",
+   "firm": "Needham",
+   "to": "Buy",
+   "from": "",
+   "action": "init",
+   "target": 93.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2026-09-17",
+   "firm": "BTIG",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "reit",
+   "target": 79.0,
+   "prior_target": 79.0
+  },
+  {
+   "date": "2026-08-19",
+   "firm": "BTIG",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "reit",
+   "target": 79.0,
+   "prior_target": 79.0
+  },
+  {
+   "date": "2026-07-31",
+   "firm": "UBS",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 73.0,
+   "prior_target": 67.0
+  },
+  {
+   "date": "2026-07-30",
+   "firm": "Citigroup",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 75.0,
+   "prior_target": 69.0
+  },
+  {
+   "date": "2026-07-30",
+   "firm": "Evercore ISI Group",
+   "to": "Outperform",
+   "from": "Outperform",
+   "action": "main",
+   "target": 84.0,
+   "prior_target": 80.0
+  }
+ ]
+}

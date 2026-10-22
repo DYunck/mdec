@@ -1,0 +1,111 @@
+{
+ "targets": {
+  "low": 26.2,
+  "mean": 32.02,
+  "median": 29.5,
+  "high": 41.0,
+  "current": 26.46
+ },
+ "count": 5,
+ "rating_key": "none",
+ "rating_mean": null,
+ "mix": {
+  "strongBuy": 2,
+  "buy": 0,
+  "hold": 3,
+  "sell": 0,
+  "strongSell": 0
+ },
+ "changes": [
+  {
+   "date": "2026-08-03",
+   "firm": "UBS",
+   "to": "Neutral",
+   "from": "Buy",
+   "action": "down",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2025-02-20",
+   "firm": "UBS",
+   "to": "Buy",
+   "from": "Neutral",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2024-10-29",
+   "firm": "Jefferies",
+   "to": "Hold",
+   "from": "Underperform",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2024-05-13",
+   "firm": "Bernstein",
+   "to": "Outperform",
+   "from": "Market Perform",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2024-04-30",
+   "firm": "UBS",
+   "to": "Neutral",
+   "from": "Sell",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2024-04-30",
+   "firm": "JP Morgan",
+   "to": "Neutral",
+   "from": "Underweight",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2022-07-25",
+   "firm": "Societe Generale",
+   "to": "Hold",
+   "from": "Buy",
+   "action": "down",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2022-01-20",
+   "firm": "Jefferies",
+   "to": "Hold",
+   "from": "Buy",
+   "action": "down",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2022-01-14",
+   "firm": "HSBC",
+   "to": "Buy",
+   "from": "Hold",
+   "action": "up",
+   "target": 0.0,
+   "prior_target": 0.0
+  },
+  {
+   "date": "2022-01-12",
+   "firm": "Citigroup",
+   "to": "Neutral",
+   "from": "Buy",
+   "action": "down",
+   "target": 0.0,
+   "prior_target": 0.0
+  }
+ ]
+}

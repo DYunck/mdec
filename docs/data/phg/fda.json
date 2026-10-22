@@ -1,0 +1,1426 @@
+{
+ "clearances": [
+  {
+   "date": "2026-09-25",
+   "k_number": "K261262",
+   "device": "Altis Full Face Mask",
+   "applicant": "Respironics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Anesthesiology"
+  },
+  {
+   "date": "2026-09-25",
+   "k_number": "K262548",
+   "device": "EPIQ Inspira Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-03",
+   "k_number": "K261622",
+   "device": "Philips Avent Natural Care Hands-free Wearable Electric Breast Pump (Model: SCF593/52, SCF593/62); Philips Avent Natural Care Warming Hands-free Wearable Electric Breast Pump (Model: SCF594/52, SCF594/62)",
+   "applicant": "Philips Consumer Lifestyle B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Obstetrics/Gynecology"
+  },
+  {
+   "date": "2026-08-07",
+   "k_number": "K254205",
+   "device": "Zenition 30",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-08-04",
+   "k_number": "K262311",
+   "device": "Alturion Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-30",
+   "k_number": "K262330",
+   "device": "dS Breast 7ch 1.5TdS Breast 7ch 3.0TdS Breast 16ch 1.5TdS Breast 16ch 3.0TdS Breast Coil 7ch 1.5TdS Sentinelle Breast 16ch 1.5TdS Sentinelle Breast 16ch 3.0T",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-27",
+   "k_number": "K261211",
+   "device": "Philips EPIQ Series Diagnostic Ultrasound System; Philips Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-24",
+   "k_number": "K262294",
+   "device": "dS FootAnkle 16Ch 1.5T;dS FootAnkle 16Ch 3.0T;dS HiRes Hand/Wrist 16Ch 1.5T;dS HiRes Hand/Wrist 16CH 3.0T;dS Small Extremity 16Ch 1.5T;dS Small Extremity 16Ch 3.0T",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-07-10",
+   "k_number": "K253670",
+   "device": "SmartCT (R3.0 (L10))",
+   "applicant": "Philips Medical Systems B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-06-29",
+   "k_number": "K260667",
+   "device": "Alturion Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-29",
+   "k_number": "K252821",
+   "device": "Reusable Adult SpO2 Clip Sensor (3m) (M1196A); Reusable Adult SpO2 Clip Sensor (0.9m) (M1196T)",
+   "applicant": "Philips Medizin Systeme B\u00f6blingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-05-27",
+   "k_number": "K260680",
+   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-27",
+   "k_number": "K260207",
+   "device": "Multimodality Simulation Workspace (MM Sim) (v1.0.0)",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-27",
+   "k_number": "K260123",
+   "device": "EPIQ Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-05",
+   "k_number": "K252558",
+   "device": "Lumify Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-05-01",
+   "k_number": "K253887",
+   "device": "Nasal Alar SpO2 Sensor (989803205381); Nasal Alar SpO2 Sensor (989803205391); Nasal Alar Sp02 Sensor (989803205401)",
+   "applicant": "Philips Medizin Systeme",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-03-30",
+   "k_number": "K253654",
+   "device": "IntelliVue Measurement Rack 6000 (867317)",
+   "applicant": "Philips Medizin Systeme B\u00f6blingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-03-27",
+   "k_number": "K253649",
+   "device": "Spectral CT Verida Family",
+   "applicant": "Philips Medical Systems Technologies , Ltd.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-27",
+   "k_number": "K253595",
+   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-23",
+   "k_number": "K252992",
+   "device": "CT Rembra RT; CT Areta RT; CT Rembra",
+   "applicant": "Philips Healthcare (Suzhou) Co., Ltd.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-20",
+   "k_number": "K260519",
+   "device": "Smart Fit TorsoCardiac 1.5T",
+   "applicant": "Philips Healthcare (Suzhou) Co., Ltd.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-17",
+   "k_number": "K253614",
+   "device": "EchoNavigator R5.0",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-03-05",
+   "k_number": "K260169",
+   "device": "AV Cardiac CT",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-24",
+   "k_number": "K253714",
+   "device": "IntraSight Plus",
+   "applicant": "Philips Image Guided Therapy Corporation",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-23",
+   "k_number": "K253648",
+   "device": "Ingenia, Ingenia CX, Ingenia Elition S/X, Ingenia Ambition S/X, BlueSeal SE/XE/QE, MR 5300 and MR 7700 MR Systems including Upgrades",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-02-06",
+   "k_number": "K252726",
+   "device": "IntelliVue Multi-Measurement Module X3 (867030); IntelliVue Patient Monitor MX100 (867033); IntelliVue MMX (867036)",
+   "applicant": "Philips Medizin Systeme Boeblingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2026-01-22",
+   "k_number": "K253735",
+   "device": "AV Vascular",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-16",
+   "k_number": "K254186",
+   "device": "Azurion R3.1",
+   "applicant": "Philips Medical Systems B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-01-14",
+   "k_number": "K254190",
+   "device": "dS Base 1.5T; dS Base 3.0T; dS Head 1.5T; dS Head 3.0T; dS HeadNeck 1.5T; dS HeadNeck 3.0T",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-12-23",
+   "k_number": "K253754",
+   "device": "Philips Lumea IPL",
+   "applicant": "Philips Consumer Lifestyle B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "General, Plastic Surgery"
+  },
+  {
+   "date": "2025-12-22",
+   "k_number": "K252557",
+   "device": "Lumify Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-11-10",
+   "k_number": "K251702",
+   "device": "IntelliVue Patient Monitor MX750; IntelliVue Patient Monitor MX850; IntelliVue 4-Slot Module Rack FMX-4 (866471 866470 866468 )",
+   "applicant": "Philips Medizin Systeme B\u00f6blingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-28",
+   "k_number": "K253399",
+   "device": "Visions\u00ae PV .014P RX Digital IVUS Catheter ; Visions\u00ae PV .018 Digital IVUS Catheter",
+   "applicant": "Volcano Corporation (Dba Philips Image Guided Therapy Device",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K251827",
+   "device": "Azurion R3.1",
+   "applicant": "Philips Medical Systems B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K252645",
+   "device": "LumiGuide Equipment R2.1; LumiGuide Wire; LumiGuide 3D Hub",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-17",
+   "k_number": "K251146",
+   "device": "IntelliVue Patient monitors MX400, MX450, MX500, MX550",
+   "applicant": "Philips Medizin Systeme Boeblingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-09",
+   "k_number": "K251651",
+   "device": "EPIQ Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-02",
+   "k_number": "K251215",
+   "device": "Philips IntelliSpace Cardiovascular",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2025-09-02",
+   "k_number": "K250453",
+   "device": "IntelliVue Patient Monitor 6100 (6100); IntelliVue Patient Monitor 6300 (6300); IntelliVue Patient Monitor 6500 (6500)",
+   "applicant": "Philips Medizin Systeme B\u00f6blingen GmbH",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-08-06",
+   "k_number": "K250569",
+   "device": "Cardiologs Holter Platform",
+   "applicant": "Philips France Commercial",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  }
+ ],
+ "recalls": [
+  {
+   "date": "2026-10-14",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "event_id": "99796",
+   "recall_number": "Z-0078-2027",
+   "product": "Spectral CT and Spectral CT 7500 RT;  Software Version Numbers: 5.2.X (U.S.); 5.0.X, 5.2.X, 5.4.X (Outside U.S.);  Model Numbers: 1. 728333 (U.S. and Outside U.S.), 2. 728340 (Outside U.S.), 3. 728344 (Outside U.S.), 4. ",
+   "reason": "Software issues may affect the safety and performance of Spectral CT system(s). The issues may result in image artifacts, wrong slice thickness, or unintended system motion."
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3309-2026",
+   "product": "Ingenia 3.0T and 3.0T CX;  Model number (REF): 1. 781342 (3.0T), 2. 781377 (3.0T), 3. 782103 (3.0T), 4. 781271 (3.0T CX);  Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced  MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping  nerve fiber pathw"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3313-2026",
+   "product": "MR 7700;  Model number (REF): 1. 782120, 2. 782153, 3. 782155, 4. 782199;  Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3308-2026",
+   "product": "Ingenia 1.5T, 1.5T CX, and 1.5T S;  Model number (REF): 1. 781315 (1.5T), 2. 781341 (1.5T), 3. 781396 (1.5T), 4. 782115 (1.5T),  5. 782140 (1.5T), 6. 781262 (1.5T CX), 7. 781347 (1.5T S);  Software Versions: R11, R12 and",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced  MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping  nerve fiber pathw"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3318-2026",
+   "product": "Evolution upgrade 1.5T amd Evolution upgrade 3.0T;  Model number (REF): 1. 782116 (1.5T), 2. 782148 (1.5T), 3. 782166 (1.5T), 4. 782201(1.5T), 5. 782117 (3.0T), 6. 782143 (3.0T), 7. 782162 (3.0T);   Software Versions: R1",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99865",
+   "recall_number": "Z-3155-2026",
+   "product": "Philips Medical Systems  Technologies Ltd. Spectral CT 7500, Software V5.2.x, Product Code 728333",
+   "reason": "The Bolus tracking scan application may crash with a system error message. Bolus Tracker shots may continue to occur even if the contrast threshold is reached. This may result in the patient receiving additional radiation."
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3316-2026",
+   "product": "Upgrade dStream;  Model number (REF): 782127;   Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3312-2026",
+   "product": "MR 5300;  Model number (REF): 1. 782110, 2. 782152, 3. 782156, 4. 782196;  Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3315-2026",
+   "product": "SmartPath to MR 7700;  Model number (REF): 1. 782178, 2. 782207;   Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3307-2026",
+   "product": "Ingenia Blue Seal SE and Blue Seal XE;  Model number (REF): 1. 782185 (SE), 2. 782192 (XE);  Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced  MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping  nerve fiber pathw"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3310-2026",
+   "product": "Ingenia Ambition S and Ingenia Ambition X.;  Model number (REF): 1. 781359 (S), 2. 782108 (S), 3. 782139 (S), 4. 782159 (S), 5. 782194 (S), 6. 781356 (X), 7. 782109 (X), 8. 782138 (X), 9. 782160 (X), 10. 782195 (X);  Sof",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced  MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping  nerve fiber pathw"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3311-2026",
+   "product": "Ingenia Elition S and Ingenia Elition X.;  Model number (REF): 1. 781357 (S), 2. 782106 (S), 3. 782137 (S), 4. 782157 (S), 5. 781358 (X), 6. 782107 (X), 7. 782119 (X), 8. 782136 (X), 9. 782158 (X), 10. 782198 (X);  Softw",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathways"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3317-2026",
+   "product": "Upgrade to MR 7700;  Model number (REF): 782130;   Software Versions: R11, R12 and R13;",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-10-07",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99834",
+   "recall_number": "Z-3314-2026",
+   "product": "SmartPath to dStream for 1.5T, SmartPath to dStream for 3.0T, SmartPath to dStream for  XR and 3.0T, and SmartPath to Ingenia Elition X; Model number (REF): 1. 781260 (1.5T), 2. 782112 (1.5T), 3. 782146 (1.5T), 4. 782165",
+   "reason": "When exporting diffusion tensor imaging (DTI) scans from a MR system using the Enhanced MR DICOM format, the exports contain incorrect data (diffusion directions). If the Enhanced MR  DICOM export is used in conjunction with third-party software for tractography (e.g. for mapping nerve fiber pathway"
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3233-2026",
+   "product": "Achieva 3.0T;  Model Numbers (REF): 1. 781177, 2. 781277, 3. 781278, 4. 781344, 5. 781345;",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3239-2026",
+   "product": "Ingenia Elition S and Ingenia Elition X;  Model Numbers (REF): 1. 781357(S), 2. 782106(S), 3. 782137(S), 4. 781358(X), 5. 782107(X), 6. 782119(X), 7. 782136(X), 8. 782158(X);",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3242-2026",
+   "product": "MR 7700 and Upgrade to MR 7700;  Model Number (REF): 1. 782120, 2. 782153, 3. 782130 (Upgrade);",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3241-2026",
+   "product": "MR 5300  Model Number (REF): 1. 782110, 2. 782152;",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3236-2026",
+   "product": "Ingenia 1.5T, Ingenia 1.5T CX and Ingenia 1.5T S;  Model Numbers (REF): 1. 781315(1.5T), 2. 781341(1.5T), 3. 781396(1.5T), 4. 782101(1.5T), 5. 782115(1.5T), 6. 782140(1.5T), 7. 781261(1.5T CX), 8. 781262(1.5T CX), 9. 781",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3234-2026",
+   "product": "Achieva XR;  Model Numbers (REF): 1. 781153, 2. 781253;",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3235-2026",
+   "product": "Evolution upgrade 1.5T and Evolution upgrade 3.0T;  Model Numbers (REF): 1. 782116 (1.5T), 2. 782148 (1.5T), 3. 782117 (3.0T), 4. 782143 (3.0T);",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3238-2026",
+   "product": "Ingenia 3.0T and Ingenia 3.0T CX;  Model Numbers (REF): 1. 781342(3.0T), 2. 781377(3.0T), 3. 782103(3.0T), 4. 781271(3.0T CX), 5. 782105(3.0T CX);",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips Ultrasound, LLC",
+   "event_id": "99706",
+   "recall_number": "Z-3249-2026",
+   "product": "Philips EPIQ Elite Diagnostic Ultrasound System  Model # 795234",
+   "reason": "Due to software issue with ultrasound system, doppler sample is displayed shallower than its actual measurement location, potentially causing inaccurate blood flow velocity measurements and misdiagnosis."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3240-2026",
+   "product": "Name (Model Number): 1. Intera 1.5T (781195), 2. Intera 1.5T (781295), 3. Intera 1.5T Achieva IT Nova (781175), 4. Intera 1.5T Achieva Nova (781172), 5. Intera 1.5T Achieva Nova-Dual (781173), 6. Intera 1.5T Omni/Stellar",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3237-2026",
+   "product": "Ingenia Ambition S and Ingenia Ambition X;  Model Numbers (REF): 1. 781359 (S), 2. 782108 (S), 3. 782139 (S), 4. 781356 (X), 5. 782109 (X), 6. 782138 (X);",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3232-2026",
+   "product": "Achieva 1.5T, Achieva 1.5T Conversion and Achieva 1.5T Initial system;  Model Numbers (REF): 1. 781196 (Achieva 1.5T), 2. 781343 (Achieva 1.5T), 3. 781283 (Achieva 1.5T Conversion), 4. 781346 (Achieva 1.5 Conversion), 5.",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-30",
+   "started": "2026-08-21",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99769",
+   "recall_number": "Z-3243-2026",
+   "product": "SmartPath to dStream for 1.5T, SmartPath to dStream for 3.0T, SmartPath to dStream for XR and 3.0T, SmartPath to Ingenia Elition X;  Model Numbers (REF): 1. 781260 (1.5T), 2. 782112 (1.5T), 3. 782146 (1.5T), 4. 782145 (3",
+   "reason": "A software issue will terminate an examination during the image reconstruction process if the scan parameters are manually adjusted such that reconstruction requirements exceed the available system memory."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99566",
+   "recall_number": "Z-3142-2026",
+   "product": "Philips PIC iX Essentials  REF:867093",
+   "reason": "Due to software malfunction, patient information  system may freeze and become unresponsive."
+  },
+  {
+   "date": "2026-09-23",
+   "started": "2026-07-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99566",
+   "recall_number": "Z-3141-2026",
+   "product": "Philips Patient Information Center iX  REF:866389",
+   "reason": "Due to software malfunction, patient information  system may freeze and become unresponsive."
+  },
+  {
+   "date": "2026-09-09",
+   "started": "2026-08-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99784",
+   "recall_number": "Z-3043-2026",
+   "product": "Philips Brilliance CT 64: Brilliance CT 64 Channel Product Code: 728231, Brilliance CT 64 Upgrades Product Code: 728232. Software 4.1.10.x",
+   "reason": "Philips has identified an unintended radiation issue with the Philips IQon, iCT, Ingenuity, and Brilliance CT 64 systems that could affect the performance of the equipment."
+  },
+  {
+   "date": "2026-09-09",
+   "started": "2026-08-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99784",
+   "recall_number": "Z-3042-2026",
+   "product": "Philips Ingenuity CT  Product Codes: Ingenuity CT Upgrades 728327,   Ingenuity CT China 728324,  Ingenuity Core 128 Elite Brazil 728325.   Software 4.4.10.x",
+   "reason": "Philips has identified an unintended radiation issue with the Philips IQon, iCT, Ingenuity, and Brilliance CT 64 systems that could affect the performance of the equipment."
+  },
+  {
+   "date": "2026-09-09",
+   "started": "2026-08-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99784",
+   "recall_number": "Z-3041-2026",
+   "product": "Philips IQon Spectral CT     Product Codes: IQon Spectral CT 728332, IQon Spectral CT 728331  Software 4.7.7.x",
+   "reason": "Philips has identified an unintended radiation issue with the Philips IQon, iCT, Ingenuity, and Brilliance CT 64 systems that could affect the performance of the equipment."
+  },
+  {
+   "date": "2026-09-09",
+   "started": "2026-08-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99784",
+   "recall_number": "Z-3040-2026",
+   "product": "Philips Brilliance. Models: Brilliance iCT, Brilliance iCT Upgrades, Brilliance iCT SP. Software 4.1.10.x     Product Codes: 728306, 728305, 728311.",
+   "reason": "Philips has identified an unintended radiation issue with the Philips IQon, iCT, Ingenuity, and Brilliance CT 64 systems that could affect the performance of the equipment."
+  },
+  {
+   "date": "2026-09-02",
+   "started": "2026-06-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips Healthcare (Suzhou) Co., Ltd.",
+   "event_id": "99511",
+   "recall_number": "Z-2988-2026",
+   "product": "Philips Incisive CT with software V4.5&V5.0, Product Code 728143 and Product Code 728144.",
+   "reason": "Potential of failing to trigger clinical scan during Bolus Tracking."
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99361",
+   "recall_number": "Z-2955-2026",
+   "product": "Cardiac Workstation 5000. Product Number: 860439.",
+   "reason": "Device will intermittently provide inaccurate data related to native heart rate."
+  },
+  {
+   "date": "2026-08-26",
+   "started": "2026-07-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99361",
+   "recall_number": "Z-2956-2026",
+   "product": "Cardiac Workstation 7000. Product Number: 860441.",
+   "reason": "Device will intermittently provide inaccurate data related to native heart rate."
+  },
+  {
+   "date": "2026-08-19",
+   "started": "2026-06-29",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99378",
+   "recall_number": "Z-2928-2026",
+   "product": "Allura Xper FD. Model Numbers: 722026, 722027, 722028, 722029, 722035, 722038, 722039, 722058.    Interventional fluoroscopic x-ray system.",
+   "reason": "Firmware issue potentially leading to loss of geometry movements."
+  },
+  {
+   "date": "2026-08-19",
+   "started": "2026-07-16",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99423",
+   "recall_number": "Z-2932-2026",
+   "product": "Philips Azurion, Model Numbers:  722229, 722230, 722231, 722232, 722233, 722234, 722235, and 722236, with Software Version Numbers:  R3.0 and R3.1; Interventional fluoroscopic x-ray system",
+   "reason": "Two software related issues:   1) Potential image quality degradation that may lead to delay of therapy, procedural complications and/or inappropriate treatment  and  2) Potential loss of geometry movements that may lead to delay of therapy and procedural complications"
+  },
+  {
+   "date": "2026-08-19",
+   "started": "2026-07-16",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99422",
+   "recall_number": "Z-2931-2026",
+   "product": "Philips Azurion  Rystem, Model Numbers:  722063, 722064, 722067, 722068, 722078, 722079, 722221, 722222,722223, 722224, 722225, 722226, 722227, 722228, 722280*, 722281*, and 722282*  (*These models are distributed only i",
+   "reason": "Two software related issues affecting Azurion R2.2.10 Systems:    1) Potential image quality degradation that may lead to delay of therapy, procedural complications and/or inappropriate treatment and   2) Potential loss of geometry movements that may lead to delay of therapy and procedural complicat"
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-17",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99313",
+   "recall_number": "Z-2893-2026",
+   "product": "Philips Allura, Cardio Vascular-Allura Centron. Model Number: 722400.    Interventional Fluoroscopic X-Ray System.",
+   "reason": "Potential Loss of imaging functionality, loss of motorized movement, or loss of data due to unauthorized Hard Disk Drives."
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-17",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99313",
+   "recall_number": "Z-2892-2026",
+   "product": "Philips Azurion under the following System Descriptions and corresponding model numbers:   1. Azurion 3 M12; Model Numbers: 722063, 722221.   2. Azurion 3 M15; Model Numbers: 722064, 722222, 722280.   3. Azurion 5 M12; M",
+   "reason": "Potential Loss of imaging functionality, loss of motorized movement, or loss of data due to unauthorized Hard Disk Drives."
+  },
+  {
+   "date": "2026-08-12",
+   "started": "2026-06-17",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99313",
+   "recall_number": "Z-2891-2026",
+   "product": "Philips Allura under the following System Descriptions and corresponding model numbers:   1. Allura Xper FD10; Model Numbers: 722003, 722010, 722026.   2. Allura Xper FD10 OR Table; Model Number: 722033.   3. Allura Xper",
+   "reason": "Potential Loss of imaging functionality, loss of motorized movement, or loss of data due to unauthorized Hard Disk Drives."
+  },
+  {
+   "date": "2026-08-05",
+   "started": "2026-06-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "event_id": "99352",
+   "recall_number": "Z-2651-2026",
+   "product": "IQon Spectral CT  IQon Spectral CT Upgrades",
+   "reason": "The clinical CT scan may not automatically trigger after the Bolus Tracking scan and may need to be triggered manually. Additional Bolus Tracking shots may occur. This may result in the clinical acquisition being inadequate for diagnosis, causing a potential for patient rescan and receiving addition"
+  },
+  {
+   "date": "2026-08-05",
+   "started": "2026-06-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "event_id": "99352",
+   "recall_number": "Z-2650-2026",
+   "product": "Brilliance iCT   Brilliance iCT Upgrades  Brilliance iCT SP  Brilliance CT 64 Channel  CT6000  Brilliance 64 Upgrades",
+   "reason": "The clinical CT scan may not automatically trigger after the Bolus Tracking scan and may need to be triggered manually. Additional Bolus Tracking shots may occur. This may result in the clinical acquisition being inadequate for diagnosis, causing a potential for patient rescan and receiving addition"
+  },
+  {
+   "date": "2026-08-05",
+   "started": "2026-06-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "event_id": "99352",
+   "recall_number": "Z-2652-2026",
+   "product": "Ingenuity CT  CT5000 Ingenuity Plus  CT5000 Ingenuity Pro  CT5000 Ingenuity Premium  Ingenuity CT Upgrades  Ingenuity CT China  Ingenuity Core 128 Elite Brazil",
+   "reason": "The clinical CT scan may not automatically trigger after the Bolus Tracking scan and may need to be triggered manually. Additional Bolus Tracking shots may occur. This may result in the clinical acquisition being inadequate for diagnosis, causing a potential for patient rescan and receiving addition"
+  },
+  {
+   "date": "2026-07-01",
+   "started": "2026-05-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99084",
+   "recall_number": "Z-2522-2026",
+   "product": "Philips Avalon Fetal Monitor, FM20, Part number M2702A, Part M2703A",
+   "reason": "Monitor has incorrect assembly of the speaker connector which can cause device cables to be pulled out of the housing and increase the risk of intermittent or permanent loss of speaker output."
+  },
+  {
+   "date": "2026-07-01",
+   "started": "2026-05-26",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99084",
+   "recall_number": "Z-2523-2026",
+   "product": "Philips Avalon Fetal Monitor, FM 30 Part numberM2703A",
+   "reason": "Monitor has incorrect assembly of the speaker connector which can cause device cables to be pulled out of the housing and increase the risk of intermittent or permanent loss of speaker output."
+  },
+  {
+   "date": "2026-07-01",
+   "started": "2026-06-05",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "99126",
+   "recall_number": "Z-2579-2026",
+   "product": "Philips Telemetry Monitor 5500 1.4 GHz. Model Number: 867232. Includes the following system descriptions: TELE Monitor 5500, 1.4 Ghz, ECG only, ex; Telemetry Monitor 5500 1.4 GHz FAST EX.",
+   "reason": "Potential for device reset to default \"NEW_DEVICE\" state, which may lead to a to loss of device configuration and the equipment label, resulting in a failure to reconnect to the PIC iX central monitoring system."
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99223",
+   "recall_number": "Z-2411-2026",
+   "product": "Philips MultiDiagnost Eleva with the following Model Numbers:    Model # 708032 for MultiDiagnost Eleva;  Model # 708034 for MultiDiagnost Eleva with Flat Detector;  Model # 708036 for MultiDiagnost Eleva;  Model # 70803",
+   "reason": "Philips Allura Xper and MultiDiagnost-Eleva systems  Hand switch button not fully releasing potentially leading to loss of imaging functionality or unintended  radiation exposure and additional contrast injection"
+  },
+  {
+   "date": "2026-06-24",
+   "started": "2026-05-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99223",
+   "recall_number": "Z-2412-2026",
+   "product": "Philips Allura Xper with the following Model Numbers: Model # 722001 for Allura Xper FD10C; Model # 722002 for Allura Xper FD10F; Model # 722003 for Allura Xper FD10; Model # 722005 for Allura Xper FD10/10; Model # 72200",
+   "reason": "Philips Allura Xper and MultiDiagnost-Eleva systems  Hand switch button not fully releasing potentially leading to loss of imaging functionality or unintended  radiation exposure and additional contrast injection"
+  },
+  {
+   "date": "2026-06-17",
+   "started": "2026-05-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America Llc",
+   "event_id": "98940",
+   "recall_number": "Z-2354-2026",
+   "product": "DigitalDiagnost C90 Flex/Value/Chest/ER. Model Number: 712035.",
+   "reason": "System was delivered without the required Seismic kit for Wall Stand VS2, which is designed to prevent damage and ensure stability of the Wall Stand VS2 during seismic events."
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2285-2026",
+   "product": "Philips Azurion 3M15, Model Numbers:  722064, 722222 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2284-2026",
+   "product": "Philips Azurion 3M12, Model Numbers: 722063, 722221 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2288-2026",
+   "product": "Philips Azurion 7B12/12, Model Numbers:  722067, 722225 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2290-2026",
+   "product": "Philips Azurion 7M12, Model Numbers:  722078, 722223 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2287-2026",
+   "product": "Philips Azurion 5M20, Model Numbers:  722228 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2291-2026",
+   "product": "Philips Azurion 7M20, Model Numbers:  722079, 722224 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2289-2026",
+   "product": "Philips Azurion 7B20/15, Model Numbers:  722068, 722226 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-10",
+   "started": "2023-12-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98977",
+   "recall_number": "Z-2286-2026",
+   "product": "Philips Azurion 5M12, Model Numbers:  722227 with Software release R2.2.0, R2.2.1, R2.2.3, R2.2.5 and R2.2.6 with the Roadmap Pro Software key",
+   "reason": "During the device phase of Roadmap Pro, a user may experience a dark image that is not clinically usable.  The dark image may result after the user performs a pedal tap (shortly touching the footswitch pedal without generating an Xray image). The pedal tap may cause a dark image with the next fluoro"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98826",
+   "recall_number": "Z-2258-2026",
+   "product": "Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063, 722221), Azurion 3 M15 (722064, 722222), Azurion 5 M12 (722227), Azurion 5 M20 (722228), Azurion 7 B12 (722067, 722225), Azurion 7 B20 (7220",
+   "reason": "It was identified that HDDs used in the PCs of Azurion and Allura systems may show a decrease in performance as they age, particularly beyond six years of service. Issues with an HDD may, depending on the specific system PC in which the affected HDD is installed, result in loss of imaging functional"
+  },
+  {
+   "date": "2026-06-03",
+   "started": "2026-04-30",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98826",
+   "recall_number": "Z-2259-2026",
+   "product": "Allura system; System Code Description (Model Numbers): Allura Xper FD10 (722003, 722010, 722026), Allura Xper FD10 OR Table (722022, 722033), Allura Xper FD10/10 (722005, 722011, 722027), Allura Xper FD20 (722006, 72201",
+   "reason": "It was identified that HDDs used in the PCs of Azurion and Allura systems may show a decrease in performance as they age, particularly beyond six years of service. Issues with an HDD may, depending on the specific system PC in which the affected HDD is installed, result in loss of imaging functional"
+  },
+  {
+   "date": "2026-05-27",
+   "started": "2026-04-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98801",
+   "recall_number": "Z-2227-2026",
+   "product": "Azurion system; System Code Description (Model Numbers): Azurion 3 M12 (722063), Azurion 3 M15 (722064), Azurion 7 B12 (722067), Azurion 7 B20 (722068), Azurion 7 M12 (722078), Azurion 7 M20 (722079, 722224).",
+   "reason": "The deaeration hose in X-ray tube cooling units type CU3101, manufactured between February 2016 and May 2020, may degrade over time, potentially resulting in oil leakage. Oil leakage may affect the cooling performance of the X-ray tube. When the oil flow drops below a certain threshold, the system a"
+  },
+  {
+   "date": "2026-05-27",
+   "started": "2026-04-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98812",
+   "recall_number": "Z-2225-2026",
+   "product": "Philips Azurion systems not configured with an optional auxiliary pan handle. Includes the below product descriptions and corresponding model numbers.     1. Azurion 3 M12; Model Numbers: 722063, 722229.     2. Azurion 3",
+   "reason": "Potential safety issue with Philips Azurion systems, where longitudinal and transverse table movements may be impacted due to mechanical wear of the Float Tabletop control on the control module."
+  },
+  {
+   "date": "2026-05-27",
+   "started": "2026-04-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98801",
+   "recall_number": "Z-2229-2026",
+   "product": "Integris-Allura system; System Code Description (Model Numbers): Integris CV Cesar-Powerpack-Visub-Nicol (722030), Integris Allura 15 & 12 (monoplane) (722043), INTEGRIS Allura 15-12 (biplane) (722044), Integris-Allura 9",
+   "reason": "The deaeration hose in X-ray tube cooling units type CU3101, manufactured between February 2016 and May 2020, may degrade over time, potentially resulting in oil leakage. Oil leakage may affect the cooling performance of the X-ray tube. When the oil flow drops below a certain threshold, the system a"
+  },
+  {
+   "date": "2026-05-27",
+   "started": "2026-04-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98801",
+   "recall_number": "Z-2228-2026",
+   "product": "Allura system; System Code Description (Model Numbers): Allura Xper FD10C (722001), Allura Xper FD10F (722002), Allura Xper FD10 (722003, 722010, 722026), Allura Xper FD10/10 (722005, 722011, 722027), Allura Xper FD20 (7",
+   "reason": "The deaeration hose in X-ray tube cooling units type CU3101, manufactured between February 2016 and May 2020, may degrade over time, potentially resulting in oil leakage. Oil leakage may affect the cooling performance of the X-ray tube. When the oil flow drops below a certain threshold, the system a"
+  },
+  {
+   "date": "2026-05-20",
+   "started": "2026-03-31",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98748",
+   "recall_number": "Z-2170-2026",
+   "product": "Philips Azurion. System Code Description (Model Number): Azurion 3 M12 (722221, 722229), Azurion 3 M15 (722222, 722230), Azurion 5 (722281), Azurion 5 M12 (722227, 722231), Azurion 5 M20 (722228, 722232, 722281), Azurion",
+   "reason": "Potential for the bolts and plastic parts of the Cable Hose Carriers that hold the cable hose to the monitor ceiling suspension may loosen and/or break over time due to the forces applied when the monitor is moved or rotated."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1966-2026",
+   "product": "Philips SmartPath to dStream for 3.0T with MR Elastography (MRE).     1. Model Number (REF): 782145.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1968-2026",
+   "product": "Philips SmartPath to Ingenia Elition X with MR Elastography (MRE).     1. Model Number (REF): 782118.     2. Model Number (REF): 782144.      3. Model Number (REF): 782163.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1958-2026",
+   "product": "Philips Ingenia 3.0T with MR Elastography (MRE).     1. Model Number (REF): 781342.     2. Model Number (REF): 781377.     3. Model Number (REF): 782103.     510(k) Numbers: K163116, K173079, K183063, K193215, K213516, K",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1955-2026",
+   "product": "Philips Evolution upgrade 3.0T with MR Elastography (MRE).     1. Model Number (REF): 782143.     2. Model Number (REF): 782162.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1960-2026",
+   "product": "Philips Ingenia Ambition S with MR Elastography (MRE).     1. Model Number (REF): 781359.     2. Model Number (REF): 782108.     3. Model Number (REF): 782139.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1951-2026",
+   "product": "Philips Achieva 1.5T with MR Elastography (MRE).     1. Model Number (REF): 781196.    2. Model Number (REF): 781296.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1957-2026",
+   "product": "Philips Ingenia 1.5T CX with MR Elastography (MRE).     1. Model Number (REF): 781262.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1963-2026",
+   "product": "Philips Ingenia Elition X with MR Elastography (MRE).     1. Model Number (REF): 781358.     2. Model Number (REF): 782107.     3. Model Number (REF): 782136.         510(k) Numbers: K213516, K223458, K230972, K232030, K",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1959-2026",
+   "product": "Philips Ingenia 3.0T CX with MR Elastography (MRE).     1. Model Number (REF): 781271.     2. Model Number (REF): 782105.       510(k) Numbers: K173079, K183063, K193215, K213583, K223458, K251397, K251808.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1952-2026",
+   "product": "Philips Achieva 1.5T Initial system with MR Elastography (MRE).     1. Model Number (REF): 781178.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1956-2026",
+   "product": "Philips Ingenia 1.5T with MR Elastography (MRE).     1. Model Number (REF): 781315.     2. Model Number (REF): 781341.     3. Model Number (REF): 781396.     4. Model Number (REF): 782115.     510(k) Numbers: K163116, K1",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1964-2026",
+   "product": "Philips MR 7700 with MR Elastography (MRE).     1. Model Number (REF): 782120.     2. Model Number (REF): 782153.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1953-2026",
+   "product": "Philips Achieva 3.0T with MR Elastography (MRE).     1. Model Number (REF): 781278.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1954-2026",
+   "product": "Philips Evolution Upgrade 1.5T with MR Elastography (MRE).     1. Model Number (REF): 782116    2. Model Number (REF): 782148.     3. Model Number (REF): 782166.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1962-2026",
+   "product": "Philips Ingenia Elition S with MR Elastography (MRE).     1. Model Number (REF): 781357.     2. Model Number (REF): 782106.     3. Model Number (REF): 782137.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1969-2026",
+   "product": "Philips Upgrade to MR 7700 with MR Elastography (MRE).     1. Model Number (REF): 782130.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1961-2026",
+   "product": "Philips Ingenia Ambition X with MR Elastography (MRE).     1. Model Number (REF): 781356.     2. Model Number (REF): 782109.     3. Model Number (REF): 782138.     4. Model Number (REF): 782160.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1967-2026",
+   "product": "Philips SmartPath to dStream for XR and 3.0T with MR Elastography (MRE).     1. Model Number (REF): 781270.     2. Model Number (REF): 782113.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-05-06",
+   "started": "2026-04-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "98779",
+   "recall_number": "Z-1965-2026",
+   "product": "Philips SmartPath to dStream for 1.5T with MR Elastography (MRE).     1. Model Number (REF): 781260.     2. Model Number (REF): 782112.",
+   "reason": "The potential for stiffness value errors when a specific range of image reconstruction parameters is used in combination with Resoundant's algorithm, leading to the reconstruction voxel size settings in the default MRE scan protocol displaying too small."
+  },
+  {
+   "date": "2026-04-22",
+   "started": "2026-03-19",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98576",
+   "recall_number": "Z-1805-2026",
+   "product": "Philips AneurysmFlow. Model Number: 001015.     AneurysmFlow is a software medical device (Interventional Tool) intended to be used in combination with a Philips interventional X-ray system and 3DRA data.",
+   "reason": "Potential safety issue involving the Mean Aneurysm Flow Amplitude (MAFA) ratio of AneurysmFlow (Interventional Tool). Philips has determined that the MAFA ratio does not provide reliable prognostic information regarding aneurysm occlusion following Flow Diverter Stent treatment, however despite bein"
+  },
+  {
+   "date": "2026-04-22",
+   "started": "2026-03-07",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS",
+   "event_id": "98588",
+   "recall_number": "Z-1825-2026",
+   "product": "Philips Spectral CT on Rails. Model Number: 728334.",
+   "reason": "Philips has identified three software issues:  1. During a continuous CT (CCT) scan, there is the potential that the Gantry could remain at the current scan position after pressing Go.   2. Potential where the message of Previous Surview Exists Select Previous Surview? <Yes> or <No> should display b"
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1664-2026",
+   "product": "ALLURA Xper FD20 Biplane; System Code: (1) 722008, (2)722013;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1672-2026",
+   "product": "Allura Xper FD20/15 OR Table; System Code: 722059;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1673-2026",
+   "product": "Azurion 3 M12; System Code: (1)722063, (2)722221, (3)722229;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1676-2026",
+   "product": "Azurion 7 B20; System Code: (1)722068, (2)722226, (3)722236;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1679-2026",
+   "product": "Azurion 5 M12; System Code: (1)722227, (2)722231;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1666-2026",
+   "product": "ALLURA Xper FD20 Biplane OR Table; System Code: (1) 722020, (2)722025;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1660-2026",
+   "product": "ALLURA Xper FD10F; System Code: 722002;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1668-2026",
+   "product": "Allura Xper FD20/10; System Code: 722029;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1665-2026",
+   "product": "ALLURA Xper FD20 OR Table; System Code: (1) 722015, (2)722023, (3)722035;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1674-2026",
+   "product": "Azurion 3 M15; System Code: (1)722064, (2)722222, (3)722230, (4)722280 (OUS Only);",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-03",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "98434",
+   "recall_number": "Z-1677-2026",
+   "product": "Azurion 7 M12; System Code: (1)722078, (2)722223, (3)722233;",
+   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-02",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Philips Respironics, Inc.",
+   "event_id": "98540",
+   "recall_number": "Z-1647-2026",
+   "product": "Philips Respironics Trilogy Evo O2, Software Version 1.05.15.00. Continuous home-use ventilator device.",
+   "reason": "In some situations, the Obstruction Alarm does not trigger within the timeframe dictated by the relevant standards and may take up to four breaths."
+  },
+  {
+   "date": "2026-04-08",
+   "started": "2026-03-02",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Philips Respironics, Inc.",
+   "event_id": "98540",
+   "recall_number": "Z-1649-2026",
+   "product": "Philips Respironics Trilogy Evo Universal, Software Version 1.05.15.00. Continuous home-use ventilator device.",
+   "reason": "In some situations, the Obstruction Alarm does not trigger within the timeframe dictated by the relevant standards and may take up to four breaths."
+  }
+ ]
+}

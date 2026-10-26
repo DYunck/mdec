@@ -2,17 +2,17 @@
  "clearances": [
   {
    "date": "2026-10-02",
-   "k_number": "K261933",
-   "device": "Voluson Expert 18; Voluson Expert 20; Voluson Expert 22",
-   "applicant": "GE Medical Systems Ultrasound and Primary care Diagnostics, LLC",
+   "k_number": "K261042",
+   "device": "Lung Guidance",
+   "applicant": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-10-02",
-   "k_number": "K261042",
-   "device": "Lung Guidance",
-   "applicant": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC",
+   "k_number": "K261933",
+   "device": "Voluson Expert 18; Voluson Expert 20; Voluson Expert 22",
+   "applicant": "GE Medical Systems Ultrasound and Primary care Diagnostics, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -146,17 +146,17 @@
   },
   {
    "date": "2026-03-24",
-   "k_number": "K260673",
-   "device": "LOGIQ Vita; LOGIQ Vita Pro; LOGIQ Vita Express; LOGIQ Vita Plus; LOGIQ Vita Power; LOGIQ S20; LOGIQ S20 Pro; LOGIQ S20 Express; LOGIQ S20 Plus; LOGIQ S20 Power",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "k_number": "K260087",
+   "device": "Senographe Pristina; SenoBright HD; Pristina Serena; Pristina Serena Bright",
+   "applicant": "GE Medical Systems SCS",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-03-24",
-   "k_number": "K260087",
-   "device": "Senographe Pristina; SenoBright HD; Pristina Serena; Pristina Serena Bright",
-   "applicant": "GE Medical Systems SCS",
+   "k_number": "K260673",
+   "device": "LOGIQ Vita; LOGIQ Vita Pro; LOGIQ Vita Express; LOGIQ Vita Plus; LOGIQ Vita Power; LOGIQ S20; LOGIQ S20 Pro; LOGIQ S20 Express; LOGIQ S20 Plus; LOGIQ S20 Power",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -258,16 +258,16 @@
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251985",
-   "device": "LOGIQ E10",
+   "k_number": "K251963",
+   "device": "LOGIQ E10s",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251963",
-   "device": "LOGIQ E10s",
+   "k_number": "K251985",
+   "device": "LOGIQ E10",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"

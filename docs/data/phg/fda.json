@@ -2,19 +2,19 @@
  "clearances": [
   {
    "date": "2026-09-25",
-   "k_number": "K261262",
-   "device": "Altis Full Face Mask",
-   "applicant": "Respironics, Inc.",
-   "decision": "Substantially Equivalent",
-   "panel": "Anesthesiology"
-  },
-  {
-   "date": "2026-09-25",
    "k_number": "K262548",
    "device": "EPIQ Inspira Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
    "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-25",
+   "k_number": "K261262",
+   "device": "Altis Full Face Mask",
+   "applicant": "Respironics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Anesthesiology"
   },
   {
    "date": "2026-09-03",
@@ -90,17 +90,17 @@
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260680",
-   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
-   "applicant": "Philips Ultrasound, LLC",
+   "k_number": "K260207",
+   "device": "Multimodality Simulation Workspace (MM Sim) (v1.0.0)",
+   "applicant": "Philips Medical Systems Nederland B.V.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260207",
-   "device": "Multimodality Simulation Workspace (MM Sim) (v1.0.0)",
-   "applicant": "Philips Medical Systems Nederland B.V.",
+   "k_number": "K260680",
+   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
+   "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -138,17 +138,17 @@
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253649",
-   "device": "Spectral CT Verida Family",
-   "applicant": "Philips Medical Systems Technologies , Ltd.",
+   "k_number": "K253595",
+   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253595",
-   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
-   "applicant": "Philips Ultrasound, LLC",
+   "k_number": "K253649",
+   "device": "Spectral CT Verida Family",
+   "applicant": "Philips Medical Systems Technologies , Ltd.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },

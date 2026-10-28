@@ -1,10 +1,10 @@
 {
  "targets": {
   "low": 70.0,
-  "mean": 82.7,
-  "median": 84.0,
+  "mean": 83.45,
+  "median": 85.0,
   "high": 96.0,
-  "current": 75.915
+  "current": 75.82
  },
  "count": 20,
  "rating_key": "buy",

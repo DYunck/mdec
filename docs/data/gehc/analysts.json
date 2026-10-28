@@ -4,7 +4,7 @@
   "mean": 82.7,
   "median": 84.0,
   "high": 96.0,
-  "current": 76.77
+  "current": 75.915
  },
  "count": 20,
  "rating_key": "buy",
@@ -17,6 +17,15 @@
   "strongSell": 0
  },
  "changes": [
+  {
+   "date": "2026-10-28",
+   "firm": "BTIG",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "main",
+   "target": 83.0,
+   "prior_target": 75.0
+  },
   {
    "date": "2026-10-12",
    "firm": "BTIG",
@@ -97,15 +106,6 @@
    "action": "main",
    "target": 75.0,
    "prior_target": 69.0
-  },
-  {
-   "date": "2026-07-30",
-   "firm": "Evercore ISI Group",
-   "to": "Outperform",
-   "from": "Outperform",
-   "action": "main",
-   "target": 84.0,
-   "prior_target": 80.0
   }
  ]
 }

@@ -4,7 +4,7 @@
   "mean": 83.45,
   "median": 85.0,
   "high": 96.0,
-  "current": 75.82
+  "current": 77.045
  },
  "count": 20,
  "rating_key": "buy",
@@ -17,6 +17,15 @@
   "strongSell": 0
  },
  "changes": [
+  {
+   "date": "2026-10-29",
+   "firm": "Barclays",
+   "to": "Overweight",
+   "from": "Overweight",
+   "action": "main",
+   "target": 95.0,
+   "prior_target": 85.0
+  },
   {
    "date": "2026-10-28",
    "firm": "BTIG",
@@ -97,15 +106,6 @@
    "action": "main",
    "target": 73.0,
    "prior_target": 67.0
-  },
-  {
-   "date": "2026-07-30",
-   "firm": "Citigroup",
-   "to": "Neutral",
-   "from": "Neutral",
-   "action": "main",
-   "target": 75.0,
-   "prior_target": 69.0
   }
  ]
 }

@@ -4,7 +4,7 @@
   "mean": 86.8,
   "median": 87.0,
   "high": 100.0,
-  "current": 76.755
+  "current": 76.42
  },
  "count": 20,
  "rating_key": "buy",
@@ -17,6 +17,33 @@
   "strongSell": 0
  },
  "changes": [
+  {
+   "date": "2026-10-29",
+   "firm": "JP Morgan",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 80.0,
+   "prior_target": 70.0
+  },
+  {
+   "date": "2026-10-29",
+   "firm": "Citigroup",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 79.0,
+   "prior_target": 71.0
+  },
+  {
+   "date": "2026-10-29",
+   "firm": "RBC Capital",
+   "to": "Outperform",
+   "from": "Outperform",
+   "action": "main",
+   "target": 90.0,
+   "prior_target": 80.0
+  },
   {
    "date": "2026-10-29",
    "firm": "Barclays",
@@ -79,33 +106,6 @@
    "action": "init",
    "target": 93.0,
    "prior_target": 0.0
-  },
-  {
-   "date": "2026-09-17",
-   "firm": "BTIG",
-   "to": "Buy",
-   "from": "Buy",
-   "action": "reit",
-   "target": 79.0,
-   "prior_target": 79.0
-  },
-  {
-   "date": "2026-08-19",
-   "firm": "BTIG",
-   "to": "Buy",
-   "from": "Buy",
-   "action": "reit",
-   "target": 79.0,
-   "prior_target": 79.0
-  },
-  {
-   "date": "2026-07-31",
-   "firm": "UBS",
-   "to": "Neutral",
-   "from": "Neutral",
-   "action": "main",
-   "target": 73.0,
-   "prior_target": 67.0
   }
  ]
 }

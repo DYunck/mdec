@@ -1,1 +1,10 @@
-[]
+[
+ {
+  "time": "2026-10-30T12:11-04:00",
+  "label": "Bullish",
+  "score": 47,
+  "price": 27.04,
+  "direction": "up",
+  "headline": "Bullish, but options are pricey"
+ }
+]

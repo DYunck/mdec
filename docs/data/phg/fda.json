@@ -90,17 +90,17 @@
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260207",
-   "device": "Multimodality Simulation Workspace (MM Sim) (v1.0.0)",
-   "applicant": "Philips Medical Systems Nederland B.V.",
+   "k_number": "K260680",
+   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
+   "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260680",
-   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
-   "applicant": "Philips Ultrasound, LLC",
+   "k_number": "K260207",
+   "device": "Multimodality Simulation Workspace (MM Sim) (v1.0.0)",
+   "applicant": "Philips Medical Systems Nederland B.V.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -138,17 +138,17 @@
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253595",
-   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
-   "applicant": "Philips Ultrasound, LLC",
+   "k_number": "K253649",
+   "device": "Spectral CT Verida Family",
+   "applicant": "Philips Medical Systems Technologies , Ltd.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253649",
-   "device": "Spectral CT Verida Family",
-   "applicant": "Philips Medical Systems Technologies , Ltd.",
+   "k_number": "K253595",
+   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -266,19 +266,19 @@
   },
   {
    "date": "2025-10-24",
-   "k_number": "K251827",
-   "device": "Azurion R3.1",
-   "applicant": "Philips Medical Systems B.V.",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
-  },
-  {
-   "date": "2025-10-24",
    "k_number": "K252645",
    "device": "LumiGuide Equipment R2.1; LumiGuide Wire; LumiGuide 3D Hub",
    "applicant": "Philips Medical Systems Nederland B.V.",
    "decision": "Substantially Equivalent",
    "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K251827",
+   "device": "Azurion R3.1",
+   "applicant": "Philips Medical Systems B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
   },
   {
    "date": "2025-10-17",
@@ -322,6 +322,28 @@
   }
  ],
  "recalls": [
+  {
+   "date": "2026-10-28",
+   "started": "2026-09-16",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "99908",
+   "recall_number": "Z-0199-2027",
+   "product": "Philips Smart-hopping 2.0 AP 1.4 GHz;  Product/Model Number: 867216;",
+   "reason": "Unreliable wireless roaming behavior of Smart-hopping 1.0 wireless clients during transport when connecting to Smart-hopping 2.0 infrastructure, resulting in loss of connectivity to the central monitoring system (PIC iX)."
+  },
+  {
+   "date": "2026-10-28",
+   "started": "2026-09-24",
+   "classification": "Class I",
+   "status": "Ongoing",
+   "firm": "Philips Ultrasound, LLC",
+   "event_id": "99878",
+   "recall_number": "Z-0152-2027",
+   "product": "Philips Lumify Diagnostic Ultrasound System",
+   "reason": "Ultrasound system may: 1) Not recognize previous transducer registration, prevent scanning, require re-registration with Wi-Fi/cellular access, which may be unavailable outside of the hospital (ambulances/aircraft/field); 2) At connection between transducer USB cable to tablet/phone, there may be an"
+  },
   {
    "date": "2026-10-14",
    "started": "2026-08-21",
@@ -1399,28 +1421,6 @@
    "recall_number": "Z-1677-2026",
    "product": "Azurion 7 M12; System Code: (1)722078, (2)722223, (3)722233;",
    "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-02",
-   "classification": "Class I",
-   "status": "Ongoing",
-   "firm": "Philips Respironics, Inc.",
-   "event_id": "98540",
-   "recall_number": "Z-1647-2026",
-   "product": "Philips Respironics Trilogy Evo O2, Software Version 1.05.15.00. Continuous home-use ventilator device.",
-   "reason": "In some situations, the Obstruction Alarm does not trigger within the timeframe dictated by the relevant standards and may take up to four breaths."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-02",
-   "classification": "Class I",
-   "status": "Ongoing",
-   "firm": "Philips Respironics, Inc.",
-   "event_id": "98540",
-   "recall_number": "Z-1649-2026",
-   "product": "Philips Respironics Trilogy Evo Universal, Software Version 1.05.15.00. Continuous home-use ventilator device.",
-   "reason": "In some situations, the Obstruction Alarm does not trigger within the timeframe dictated by the relevant standards and may take up to four breaths."
   }
  ]
 }

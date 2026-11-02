@@ -5,6 +5,8 @@
   "score": 47,
   "price": 27.04,
   "direction": "up",
-  "headline": "Bullish, but options are pricey"
+  "headline": "Bullish, but options are pricey",
+  "after_1d": 1.48,
+  "right_1d": true
  }
 ]

@@ -192,9 +192,11 @@
   "surprise_pct": 51.28
  },
  {
-  "date": "2026-11-03",
-  "time_et": "08:00",
-  "timing": "before open",
-  "eps_est": 0.36
+  "date": "2026-11-02",
+  "time_et": "20:00",
+  "timing": "after close",
+  "eps_est": 0.36,
+  "eps_actual": 0.45,
+  "surprise_pct": 24.44
  }
 ]

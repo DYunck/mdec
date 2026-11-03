@@ -1,10 +1,10 @@
 {
  "targets": {
-  "low": 73.0,
-  "mean": 87.5,
+  "low": 75.0,
+  "mean": 87.85,
   "median": 88.5,
   "high": 100.0,
-  "current": 79.55
+  "current": 79.73
  },
  "count": 20,
  "rating_key": "buy",
@@ -17,6 +17,15 @@
   "strongSell": 0
  },
  "changes": [
+  {
+   "date": "2026-11-03",
+   "firm": "UBS",
+   "to": "Neutral",
+   "from": "Neutral",
+   "action": "main",
+   "target": 80.0,
+   "prior_target": 73.0
+  },
   {
    "date": "2026-10-29",
    "firm": "JP Morgan",
@@ -97,15 +106,6 @@
    "action": "reit",
    "target": 93.0,
    "prior_target": 93.0
-  },
-  {
-   "date": "2026-09-22",
-   "firm": "Needham",
-   "to": "Buy",
-   "from": "",
-   "action": "init",
-   "target": 93.0,
-   "prior_target": 0.0
   }
  ]
 }

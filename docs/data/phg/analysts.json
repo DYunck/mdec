@@ -4,11 +4,11 @@
   "mean": 32.02,
   "median": 29.5,
   "high": 41.0,
-  "current": 28.46
+  "current": 30.925
  },
  "count": 5,
- "rating_key": "none",
- "rating_mean": null,
+ "rating_key": "hold",
+ "rating_mean": 2.6,
  "mix": {
   "strongBuy": 2,
   "buy": 0,

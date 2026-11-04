@@ -198,5 +198,11 @@
   "eps_est": 0.36,
   "eps_actual": 0.45,
   "surprise_pct": 24.44
+ },
+ {
+  "date": "2027-02-09",
+  "time_et": "08:00",
+  "timing": "before open",
+  "eps_est": 0.61
  }
 ]

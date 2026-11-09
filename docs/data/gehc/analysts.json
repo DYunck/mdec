@@ -4,15 +4,15 @@
   "mean": 87.85,
   "median": 88.5,
   "high": 100.0,
-  "current": 82.38
+  "current": 84.425
  },
  "count": 20,
  "rating_key": "buy",
- "rating_mean": 1.81818,
+ "rating_mean": 1.86364,
  "mix": {
-  "strongBuy": 6,
+  "strongBuy": 5,
   "buy": 10,
-  "hold": 6,
+  "hold": 7,
   "sell": 0,
   "strongSell": 0
  },

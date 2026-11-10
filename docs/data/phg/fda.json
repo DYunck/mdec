@@ -90,8 +90,8 @@
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260680",
-   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
+   "k_number": "K260123",
+   "device": "EPIQ Series Diagnostic Ultrasound System",
    "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
@@ -106,8 +106,8 @@
   },
   {
    "date": "2026-05-27",
-   "k_number": "K260123",
-   "device": "EPIQ Series Diagnostic Ultrasound System",
+   "k_number": "K260680",
+   "device": "EPIQ Series Diagnostic Ultrasound Systems; Affiniti Series Diagnostic Ultrasound Systems",
    "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
@@ -266,19 +266,19 @@
   },
   {
    "date": "2025-10-24",
-   "k_number": "K252645",
-   "device": "LumiGuide Equipment R2.1; LumiGuide Wire; LumiGuide 3D Hub",
-   "applicant": "Philips Medical Systems Nederland B.V.",
-   "decision": "Substantially Equivalent",
-   "panel": "Cardiovascular"
-  },
-  {
-   "date": "2025-10-24",
    "k_number": "K251827",
    "device": "Azurion R3.1",
    "applicant": "Philips Medical Systems B.V.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K252645",
+   "device": "LumiGuide Equipment R2.1; LumiGuide Wire; LumiGuide 3D Hub",
+   "applicant": "Philips Medical Systems Nederland B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
   },
   {
    "date": "2025-10-17",
@@ -322,6 +322,116 @@
   }
  ],
  "recalls": [
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0294-2027",
+   "product": "Philips Azurion 5 M12. Model Number: 722227.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0295-2027",
+   "product": "Philips Azurion 5 M20. Model Numbers: 722228, 722281.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0300-2027",
+   "product": "Philips Azurion S. Model Number: 722285.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0297-2027",
+   "product": "Philips Azurion 7 B20. Model Numbers: 722068, 722226.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0298-2027",
+   "product": "Philips Azurion 7 M12. Model Numbers: 722078, 722223.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-09-18",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips North America",
+   "event_id": "100074",
+   "recall_number": "Z-0288-2027",
+   "product": "Model Number: 712010.",
+   "reason": "Potential for the device to fail immediately after an exposure, causing the system to remain stationary."
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0292-2027",
+   "product": "Philips Azurion 3 M12. Model Numbers: 722063, 722221.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0299-2027",
+   "product": "Philips Azurion 7 M20. Model Numbers: 722079, 722224, 722282.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0296-2027",
+   "product": "Philips Azurion 7 B12. Model Numbers: 722067, 722225.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
+  {
+   "date": "2026-11-04",
+   "started": "2026-10-06",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99939",
+   "recall_number": "Z-0293-2027",
+   "product": "Philips Azurion 3 M15. Model Number: 722064, 722222, 722280.",
+   "reason": "Solid-State Drives (SSDs) that are not specified in the Medical Device File may have been installed in various PCs. These SSDs may have different performance characteristics, which may include reduced reliability over time such as loss of imaging functionality or motorized movement, a blank or black"
+  },
   {
    "date": "2026-10-28",
    "started": "2026-09-16",
@@ -1310,116 +1420,6 @@
    "event_id": "98434",
    "recall_number": "Z-1664-2026",
    "product": "ALLURA Xper FD20 Biplane; System Code: (1) 722008, (2)722013;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1672-2026",
-   "product": "Allura Xper FD20/15 OR Table; System Code: 722059;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1673-2026",
-   "product": "Azurion 3 M12; System Code: (1)722063, (2)722221, (3)722229;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1676-2026",
-   "product": "Azurion 7 B20; System Code: (1)722068, (2)722226, (3)722236;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1679-2026",
-   "product": "Azurion 5 M12; System Code: (1)722227, (2)722231;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1666-2026",
-   "product": "ALLURA Xper FD20 Biplane OR Table; System Code: (1) 722020, (2)722025;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1660-2026",
-   "product": "ALLURA Xper FD10F; System Code: 722002;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1668-2026",
-   "product": "Allura Xper FD20/10; System Code: 722029;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1665-2026",
-   "product": "ALLURA Xper FD20 OR Table; System Code: (1) 722015, (2)722023, (3)722035;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1674-2026",
-   "product": "Azurion 3 M15; System Code: (1)722064, (2)722222, (3)722230, (4)722280 (OUS Only);",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1677-2026",
-   "product": "Azurion 7 M12; System Code: (1)722078, (2)722223, (3)722233;",
    "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
   }
  ]

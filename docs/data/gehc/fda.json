@@ -210,17 +210,17 @@
   },
   {
    "date": "2026-01-08",
-   "k_number": "K253370",
-   "device": "LOGIQ Totus",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "k_number": "K253639",
+   "device": "View",
+   "applicant": "GE Healthcare",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-01-08",
-   "k_number": "K253639",
-   "device": "View",
-   "applicant": "GE Healthcare",
+   "k_number": "K253370",
+   "device": "LOGIQ Totus",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -258,16 +258,16 @@
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251963",
-   "device": "LOGIQ E10s",
+   "k_number": "K251985",
+   "device": "LOGIQ E10",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251985",
-   "device": "LOGIQ E10",
+   "k_number": "K251963",
+   "device": "LOGIQ E10s",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"

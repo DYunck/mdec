@@ -4,7 +4,7 @@
   "mean": 87.85,
   "median": 88.5,
   "high": 100.0,
-  "current": 83.65
+  "current": 82.45
  },
  "count": 20,
  "rating_key": "buy",
@@ -17,6 +17,15 @@
   "strongSell": 0
  },
  "changes": [
+  {
+   "date": "2026-11-11",
+   "firm": "Argus Research",
+   "to": "Buy",
+   "from": "Buy",
+   "action": "main",
+   "target": 110.0,
+   "prior_target": 85.0
+  },
   {
    "date": "2026-11-03",
    "firm": "UBS",
@@ -97,15 +106,6 @@
    "action": "main",
    "target": 71.0,
    "prior_target": 75.0
-  },
-  {
-   "date": "2026-10-05",
-   "firm": "Needham",
-   "to": "Buy",
-   "from": "Buy",
-   "action": "reit",
-   "target": 93.0,
-   "prior_target": 93.0
   }
  ]
 }

@@ -9,6 +9,8 @@
   "after_1d": 1.48,
   "right_1d": true,
   "after_5d": 12.65,
-  "right_5d": true
+  "right_5d": true,
+  "after_10d": 11.72,
+  "right_10d": true
  }
 ]

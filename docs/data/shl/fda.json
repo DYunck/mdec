@@ -1278,17 +1278,6 @@
    "recall_number": "Z-0464-2025",
    "product": "IMMULITE 2000 PSA assay, Catalog Number L2KPTS2(D) (SMN 10706281) and Catalog Number L2KPTS6(D) (SMN 10706282)",
    "reason": "The IMMULITE 2000 PSA assay for use on the IMMULITE 2000 and IMMULITE 2000 XPi analyzers did not meet the High-dose Hook Effect claim as stated in the Instructions for Use (IFU)."
-  },
-  {
-   "date": "2024-11-13",
-   "started": "2024-09-24",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "Siemens Healthcare Diagnostics Inc",
-   "event_id": "95504",
-   "recall_number": "Z-0286-2025",
-   "product": "epoc BGEM BUN Test Card (25 pk) for the epoc Blood Analysis System, SMN 10736515",
-   "reason": "Siemens Healthcare Diagnostics Inc. has confirmed that a negative sodium bias may exist in one lot of epoc BGEM BUN Test Cards approximately 2 months prior to expiration. The observed maximum negative bias from internal testing is -10 mmol/L. No positive bias has been observed. Quality Control (QC) "
   }
  ]
 }

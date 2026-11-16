@@ -5,6 +5,8 @@
   "score": 41,
   "price": 82.88,
   "direction": "up",
-  "headline": "Conditions favor buying calls"
+  "headline": "Conditions favor buying calls",
+  "after_1d": 0.19,
+  "right_1d": true
  }
 ]

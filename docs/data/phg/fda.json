@@ -2,19 +2,19 @@
  "clearances": [
   {
    "date": "2026-09-25",
-   "k_number": "K262548",
-   "device": "EPIQ Inspira Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
-   "applicant": "Philips Ultrasound, LLC",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
-  },
-  {
-   "date": "2026-09-25",
    "k_number": "K261262",
    "device": "Altis Full Face Mask",
    "applicant": "Respironics, Inc.",
    "decision": "Substantially Equivalent",
    "panel": "Anesthesiology"
+  },
+  {
+   "date": "2026-09-25",
+   "k_number": "K262548",
+   "device": "EPIQ Inspira Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
   },
   {
    "date": "2026-09-03",
@@ -266,19 +266,19 @@
   },
   {
    "date": "2025-10-24",
-   "k_number": "K251827",
-   "device": "Azurion R3.1",
-   "applicant": "Philips Medical Systems B.V.",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
-  },
-  {
-   "date": "2025-10-24",
    "k_number": "K252645",
    "device": "LumiGuide Equipment R2.1; LumiGuide Wire; LumiGuide 3D Hub",
    "applicant": "Philips Medical Systems Nederland B.V.",
    "decision": "Substantially Equivalent",
    "panel": "Cardiovascular"
+  },
+  {
+   "date": "2025-10-24",
+   "k_number": "K251827",
+   "device": "Azurion R3.1",
+   "applicant": "Philips Medical Systems B.V.",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
   },
   {
    "date": "2025-10-17",

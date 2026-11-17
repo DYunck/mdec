@@ -1,6 +1,30 @@
 {
  "clearances": [
   {
+   "date": "2026-11-06",
+   "k_number": "K260674",
+   "device": "Atellica IM Vitamin D Total II (VitDII)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Clinical Chemistry"
+  },
+  {
+   "date": "2026-11-05",
+   "k_number": "K262011",
+   "device": "MAGNETOM Free.XL",
+   "applicant": "Siemens Healthineers AG",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
+   "date": "2026-11-02",
+   "k_number": "K260400",
+   "device": "IMMULITE 2000 nAra h 1; IMMULITE 2000 nAra h 3; IMMULITE 2000 nAra h 6",
+   "applicant": "Siemens Healthcare Diagnostics Products, Ltd.",
+   "decision": "Substantially Equivalent",
+   "panel": "Immunology"
+  },
+  {
    "date": "2026-09-29",
    "k_number": "K263048",
    "device": "Syngo Carbon Space (VA4)",
@@ -292,30 +316,6 @@
    "date": "2025-11-04",
    "k_number": "K250241",
    "device": "Cios Select",
-   "applicant": "Siemens Medical Solutions USA, Inc.",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
-  },
-  {
-   "date": "2025-10-24",
-   "k_number": "K251059",
-   "device": "Syngo Carbon Clinicals (VA41)",
-   "applicant": "Siemens Healthineers AG",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
-  },
-  {
-   "date": "2025-10-17",
-   "k_number": "K250250",
-   "device": "ADVIA Centaur Anti-Thyroid Peroxidase II",
-   "applicant": "Siemens Healthcare Diagnostics, Inc.",
-   "decision": "Substantially Equivalent",
-   "panel": "Immunology"
-  },
-  {
-   "date": "2025-10-15",
-   "k_number": "K251805",
-   "device": "syngo.CT Dual Energy",
    "applicant": "Siemens Medical Solutions USA, Inc.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"

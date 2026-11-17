@@ -1,6 +1,14 @@
 {
  "clearances": [
   {
+   "date": "2026-11-03",
+   "k_number": "K261307",
+   "device": "12SL Precision",
+   "applicant": "Ge Medical Systems Information Technologies, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Cardiovascular"
+  },
+  {
    "date": "2026-10-02",
    "k_number": "K261042",
    "device": "Lung Guidance",
@@ -146,17 +154,17 @@
   },
   {
    "date": "2026-03-24",
-   "k_number": "K260087",
-   "device": "Senographe Pristina; SenoBright HD; Pristina Serena; Pristina Serena Bright",
-   "applicant": "GE Medical Systems SCS",
+   "k_number": "K260673",
+   "device": "LOGIQ Vita; LOGIQ Vita Pro; LOGIQ Vita Express; LOGIQ Vita Plus; LOGIQ Vita Power; LOGIQ S20; LOGIQ S20 Pro; LOGIQ S20 Express; LOGIQ S20 Plus; LOGIQ S20 Power",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-03-24",
-   "k_number": "K260673",
-   "device": "LOGIQ Vita; LOGIQ Vita Pro; LOGIQ Vita Express; LOGIQ Vita Plus; LOGIQ Vita Power; LOGIQ S20; LOGIQ S20 Pro; LOGIQ S20 Express; LOGIQ S20 Plus; LOGIQ S20 Power",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "k_number": "K260087",
+   "device": "Senographe Pristina; SenoBright HD; Pristina Serena; Pristina Serena Bright",
+   "applicant": "GE Medical Systems SCS",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -210,17 +218,17 @@
   },
   {
    "date": "2026-01-08",
-   "k_number": "K253639",
-   "device": "View",
-   "applicant": "GE Healthcare",
+   "k_number": "K253370",
+   "device": "LOGIQ Totus",
+   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-01-08",
-   "k_number": "K253370",
-   "device": "LOGIQ Totus",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
+   "k_number": "K253639",
+   "device": "View",
+   "applicant": "GE Healthcare",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -258,16 +266,16 @@
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251985",
-   "device": "LOGIQ E10",
+   "k_number": "K251963",
+   "device": "LOGIQ E10s",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2025-10-29",
-   "k_number": "K251963",
-   "device": "LOGIQ E10s",
+   "k_number": "K251985",
+   "device": "LOGIQ E10",
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
@@ -311,17 +319,42 @@
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
-  },
-  {
-   "date": "2025-07-10",
-   "k_number": "K251169",
-   "device": "Vivid Pioneer",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
   }
  ],
  "recalls": [
+  {
+   "date": "2026-11-11",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "100070",
+   "recall_number": "Z-0327-2027",
+   "product": "Senographe Pristina",
+   "reason": "GE HealthCare has become aware of a nonconformance to certain Senographe Pristina VIA systems. Specifically, in cases of 3D+2D manual mode where the acquisition configuration of the anode track/filter combination is different, it can result in the following:  the collimator blades might be visible i"
+  },
+  {
+   "date": "2026-11-11",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "100070",
+   "recall_number": "Z-0326-2027",
+   "product": "Senographe Pristina",
+   "reason": "GE HealthCare has become aware of a nonconformance to certain Senographe Pristina VIA systems. Specifically, in cases of 3D+2D manual mode where the acquisition configuration of the anode track/filter combination is different, it can result in the following:  the collimator blades might be visible i"
+  },
+  {
+   "date": "2026-11-11",
+   "started": "2026-08-28",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "100070",
+   "recall_number": "Z-0328-2027",
+   "product": "Senographe Pristina 3D",
+   "reason": "GE HealthCare has become aware of a nonconformance to certain Senographe Pristina VIA systems. Specifically, in cases of 3D+2D manual mode where the acquisition configuration of the anode track/filter combination is different, it can result in the following:  the collimator blades might be visible i"
+  },
   {
    "date": "2026-09-23",
    "started": "2026-07-30",
@@ -1387,39 +1420,6 @@
    "event_id": "97187",
    "recall_number": "Z-2301-2025",
    "product": "GE Discovery MR450 1.5T, Nuclear Magnetic Resonance Imaging System",
-   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
-  },
-  {
-   "date": "2025-08-20",
-   "started": "2025-06-20",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "GE Medical Systems, LLC",
-   "event_id": "97187",
-   "recall_number": "Z-2316-2025",
-   "product": "GE SIGNA Hero XT  (China Only), Nuclear Magnetic Resonance Imaging System",
-   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
-  },
-  {
-   "date": "2025-08-20",
-   "started": "2025-06-20",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "GE Medical Systems, LLC",
-   "event_id": "97187",
-   "recall_number": "Z-2310-2025",
-   "product": "GE SIGNA Artist Evo, Nuclear Magnetic Resonance Imaging System",
-   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
-  },
-  {
-   "date": "2025-08-20",
-   "started": "2025-06-20",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "GE Medical Systems, LLC",
-   "event_id": "97187",
-   "recall_number": "Z-2319-2025",
-   "product": "GE SIGNA PET/MR AIR (China Only), Nuclear Magnetic Resonance Imaging System",
    "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
   }
  ]

@@ -8,5 +8,13 @@
   "headline": "Conditions favor buying calls",
   "after_1d": 0.19,
   "right_1d": true
+ },
+ {
+  "time": "2026-11-18T13:21-05:00",
+  "label": "Bullish",
+  "score": 47,
+  "price": 83.53,
+  "direction": "up",
+  "headline": "Conditions favor buying calls"
  }
 ]

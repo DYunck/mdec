@@ -1,6 +1,14 @@
 {
  "clearances": [
   {
+   "date": "2026-11-13",
+   "k_number": "K261303",
+   "device": "SIGNA\u0099 PET/MR",
+   "applicant": "GE Medical Systems, LLC",
+   "decision": "Substantially Equivalent",
+   "panel": "Radiology"
+  },
+  {
    "date": "2026-11-03",
    "k_number": "K261307",
    "device": "12SL Precision",
@@ -311,17 +319,31 @@
    "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
-  },
-  {
-   "date": "2025-07-16",
-   "k_number": "K251342",
-   "device": "EchoPAC Software Only / EchoPAC Plug-in",
-   "applicant": "GE Medical Systems Ultrasound and Primary Care Diagnostics",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
   }
  ],
  "recalls": [
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-09",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "100210",
+   "recall_number": "Z-0435-2027",
+   "product": "3.0T SIGNA Architect, whole body magnetic resonance scanner, System ID 905684MR3T",
+   "reason": "Certain protocols can produce incorrect elevated measurements of liver stiffness. These incorrect measurements could contribute to inappropriate clinical management decisions."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-09",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "GE Medical Systems, LLC",
+   "event_id": "100210",
+   "recall_number": "Z-0434-2027",
+   "product": "1.5T SIGNA Artist, whole body magnetic resonance scanner, System ID 585214MRAO",
+   "reason": "Certain protocols can produce incorrect elevated measurements of liver stiffness. These incorrect measurements could contribute to inappropriate clinical management decisions."
+  },
   {
    "date": "2026-11-11",
    "started": "2026-08-28",
@@ -1046,7 +1068,7 @@
    "event_id": "98081",
    "recall_number": "Z-0875-2026",
    "product": "Senographe Pristina, Pristina Serena, and Pristina Serena 3D.  for screening and diagnostic mammography",
-   "reason": "Some Senographe Pristina systems either have a missing or an incorrect X-Ray Warning label, which is a nonconformance to FDA Regulation 21 CFR \u00bf1020.30(j)."
+   "reason": "Some Senographe Pristina systems either have a missing or an incorrect X-Ray Warning label, which is a nonconformance to FDA Regulation 21 CFR \u00c2\u00bf1020.30(j)."
   },
   {
    "date": "2025-11-19",
@@ -1398,28 +1420,6 @@
    "event_id": "97187",
    "recall_number": "Z-2300-2025",
    "product": "GE Signa Voyager, Nuclear Magnetic Resonance Imaging System",
-   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
-  },
-  {
-   "date": "2025-08-20",
-   "started": "2025-06-20",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "GE Medical Systems, LLC",
-   "event_id": "97187",
-   "recall_number": "Z-2306-2025",
-   "product": "GE Discovery MR750 3.0T, Nuclear Magnetic Resonance Imaging System",
-   "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
-  },
-  {
-   "date": "2025-08-20",
-   "started": "2025-06-20",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "GE Medical Systems, LLC",
-   "event_id": "97187",
-   "recall_number": "Z-2301-2025",
-   "product": "GE Discovery MR450 1.5T, Nuclear Magnetic Resonance Imaging System",
    "reason": "GE HealthCare has become aware that for certain MR systems (SIGNA Artist, SIGNA Voyager, Discovery MR450 1.5T, Optima MR450w 1.5T, SIGNA Architect, SIGNA Premier, SIGNA UHP, Discovery MR750 3.0T, Discovery MR750w 3.0T, SIGNA Hero, SIGNA PET/MR, SIGNA Artist Evo, SIGNA Voyager AIR (China Only), SIGNA"
   }
  ]

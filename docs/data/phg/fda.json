@@ -2,19 +2,19 @@
  "clearances": [
   {
    "date": "2026-09-25",
-   "k_number": "K261262",
-   "device": "Altis Full Face Mask",
-   "applicant": "Respironics, Inc.",
-   "decision": "Substantially Equivalent",
-   "panel": "Anesthesiology"
-  },
-  {
-   "date": "2026-09-25",
    "k_number": "K262548",
    "device": "EPIQ Inspira Series Diagnostic Ultrasound System; Affiniti Series Diagnostic Ultrasound System",
    "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
+  },
+  {
+   "date": "2026-09-25",
+   "k_number": "K261262",
+   "device": "Altis Full Face Mask",
+   "applicant": "Respironics, Inc.",
+   "decision": "Substantially Equivalent",
+   "panel": "Anesthesiology"
   },
   {
    "date": "2026-09-03",
@@ -138,17 +138,17 @@
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253649",
-   "device": "Spectral CT Verida Family",
-   "applicant": "Philips Medical Systems Technologies , Ltd.",
+   "k_number": "K253595",
+   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
+   "applicant": "Philips Ultrasound, LLC",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
   {
    "date": "2026-03-27",
-   "k_number": "K253595",
-   "device": "EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System",
-   "applicant": "Philips Ultrasound, LLC",
+   "k_number": "K253649",
+   "device": "Spectral CT Verida Family",
+   "applicant": "Philips Medical Systems Technologies , Ltd.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
   },
@@ -322,6 +322,28 @@
   }
  ],
  "recalls": [
+  {
+   "date": "2026-11-18",
+   "started": "2022-03-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Philips Ultrasound, LLC",
+   "event_id": "100162",
+   "recall_number": "Z-0428-2027",
+   "product": "Philips EPIQ series and Affiniti series Diagnostic Ultrasound Systems with the Auto Measure licensed Option with Software Versions 9.0 and 9.0.1.    Model Numbers:  795117, 795118, 795190, 795200, 795201, 795204, 795205,",
+   "reason": "Due to software issues that may display incorrect values in the results box, final report, or both, potentially leading to the need for re-measureemtn of values."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-01",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
+   "event_id": "99996",
+   "recall_number": "Z-0367-2027",
+   "product": "Philips Allura Xper systems with software releases R8.1.x and R8.2.x systems and configured with a FlexVision monitor. Includes the following System Product Names and corresponding Model Numbers:   1. Allura Xper FD10; M",
+   "reason": "Software issue that may cause the FlexVision software application to become unresponsive during clinical use."
+  },
   {
    "date": "2026-11-04",
    "started": "2026-10-06",
@@ -1399,28 +1421,6 @@
    "recall_number": "Z-1805-2026",
    "product": "Philips AneurysmFlow. Model Number: 001015.     AneurysmFlow is a software medical device (Interventional Tool) intended to be used in combination with a Philips interventional X-ray system and 3DRA data.",
    "reason": "Potential safety issue involving the Mean Aneurysm Flow Amplitude (MAFA) ratio of AneurysmFlow (Interventional Tool). Philips has determined that the MAFA ratio does not provide reliable prognostic information regarding aneurysm occlusion following Flow Diverter Stent treatment, however despite bein"
-  },
-  {
-   "date": "2026-04-22",
-   "started": "2026-03-07",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS",
-   "event_id": "98588",
-   "recall_number": "Z-1825-2026",
-   "product": "Philips Spectral CT on Rails. Model Number: 728334.",
-   "reason": "Philips has identified three software issues:  1. During a continuous CT (CCT) scan, there is the potential that the Gantry could remain at the current scan position after pressing Go.   2. Potential where the message of Previous Surview Exists Select Previous Surview? <Yes> or <No> should display b"
-  },
-  {
-   "date": "2026-04-08",
-   "started": "2026-03-03",
-   "classification": "Class II",
-   "status": "Ongoing",
-   "firm": "PHILIPS MEDICAL SYSTEMS NEDERLAND B.V.",
-   "event_id": "98434",
-   "recall_number": "Z-1664-2026",
-   "product": "ALLURA Xper FD20 Biplane; System Code: (1) 722008, (2)722013;",
-   "reason": "Philips has identified instances where X-ray imaging may not be initiated or may occur intermittently when using the wired foot switch."
   }
  ]
 }

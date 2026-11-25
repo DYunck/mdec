@@ -1,6 +1,14 @@
 {
  "clearances": [
   {
+   "date": "2026-11-10",
+   "k_number": "DEN250069",
+   "device": "Atellica IM Neurofilament Light Chain (NfL)",
+   "applicant": "Siemens Healthcare Diagnostics, Inc.",
+   "decision": "Unknown",
+   "panel": "Unknown"
+  },
+  {
    "date": "2026-11-06",
    "k_number": "K260674",
    "device": "Atellica IM Vitamin D Total II (VitDII)",
@@ -311,17 +319,163 @@
    "applicant": "Siemens Medical Solutions USA, Inc.",
    "decision": "Substantially Equivalent",
    "panel": "Radiology"
-  },
-  {
-   "date": "2025-11-04",
-   "k_number": "K250241",
-   "device": "Cios Select",
-   "applicant": "Siemens Medical Solutions USA, Inc.",
-   "decision": "Substantially Equivalent",
-   "panel": "Radiology"
   }
  ],
  "recalls": [
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc.",
+   "event_id": "99998",
+   "recall_number": "Z-0393-2027",
+   "product": "ACUSON Orgin ICE Ultrasound Imaging System  REF: 11669400",
+   "reason": "A software issue identified in the ultrasound system may result in the unintended activation of the Color Doppler setting, which has not received FDA clearance. This unintended activation could cause the system to crash or become unresponsive."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100014",
+   "recall_number": "Z-0371-2027",
+   "product": "ARTIS icono floor. Model Number: 11327700.",
+   "reason": "Potential that the system may not execute movement control commands as intended and may display the following message to the user, \"Limited stand/table movement, SC.\""
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100014",
+   "recall_number": "Z-0369-2027",
+   "product": "ARTIS icono biplane. Model Number: 11327600.",
+   "reason": "Potential that the system may not execute movement control commands as intended and may display the following message to the user, \"Limited stand/table movement, SC.\""
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "100035",
+   "recall_number": "Z-0365-2027",
+   "product": "Atellica CH Total Protein_2 (TP_2);  Siemens Material Number (SMN): 1. 11645755 (3700 tests), 2. 11537228 (7400 tests);",
+   "reason": "Reagent probe carryover on the Atellica CH and Atellica CI Analyzers may cause falsely elevated Hemoglobin A1c (A1c_E/A1c_H) results due to HDLC carryover (biases of 9 29% in NGSP units), and falsely depressed Direct Bilirubin 2 (DBil_2) results due to TP_2 carryover (biases of 0% to -25%), which ma"
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100163",
+   "recall_number": "Z-0432-2027",
+   "product": "ARTIS pheno. Model Number: 10849000.",
+   "reason": "Potential for loss of X-ray functionality after system startup or restart."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100014",
+   "recall_number": "Z-0372-2027",
+   "product": "ARTIS pheno. Model Number: 10849000.",
+   "reason": "Potential that the system may not execute movement control commands as intended and may display the following message to the user, \"Limited stand/table movement, SC.\""
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-24",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100014",
+   "recall_number": "Z-0370-2027",
+   "product": "ARTIS icono ceiling. Model Number: 11328100.",
+   "reason": "Potential that the system may not execute movement control commands as intended and may display the following message to the user, \"Limited stand/table movement, SC.\""
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100163",
+   "recall_number": "Z-0431-2027",
+   "product": "ARTIS icono floor. Model Number: 11327700.",
+   "reason": "Potential for loss of X-ray functionality after system startup or restart."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-22",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Healthcare Diagnostics, Inc.",
+   "event_id": "100035",
+   "recall_number": "Z-0364-2027",
+   "product": "Atellica CH HDL Cholesterol (HDLC);  Siemens Material Number (SMN): 11537213;",
+   "reason": "Reagent probe carryover on the Atellica CH and Atellica CI Analyzers may cause falsely elevated Hemoglobin A1c (A1c_E/A1c_H) results due to HDLC carryover (biases of 9 29% in NGSP units), and falsely depressed Direct Bilirubin 2 (DBil_2) results due to TP_2 carryover (biases of 0% to -25%), which ma"
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc.",
+   "event_id": "99998",
+   "recall_number": "Z-0392-2027",
+   "product": "ACUSON Orgin Ultrasound Imaging System  REF: 11668590",
+   "reason": "A software issue identified in the ultrasound system may result in the unintended activation of the Color Doppler setting, which has not received FDA clearance. This unintended activation could cause the system to crash or become unresponsive."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc.",
+   "event_id": "99998",
+   "recall_number": "Z-0395-2027",
+   "product": "ACUSON Sequoia Select Ultrasound Imaging System  REF: 11658635",
+   "reason": "A software issue identified in the ultrasound system may result in the unintended activation of the Color Doppler setting, which has not received FDA clearance. This unintended activation could cause the system to crash or become unresponsive."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100163",
+   "recall_number": "Z-0430-2027",
+   "product": "ARTIS icono ceiling. Model Number: 11328100.",
+   "reason": "Potential for loss of X-ray functionality after system startup or restart."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-10-14",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc",
+   "event_id": "100163",
+   "recall_number": "Z-0429-2027",
+   "product": "ARTIS icono biplane. Model Number: 11327600.",
+   "reason": "Potential for loss of X-ray functionality after system startup or restart."
+  },
+  {
+   "date": "2026-11-18",
+   "started": "2026-09-11",
+   "classification": "Class II",
+   "status": "Ongoing",
+   "firm": "Siemens Medical Solutions USA, Inc.",
+   "event_id": "99998",
+   "recall_number": "Z-0394-2027",
+   "product": "ACUSON Sequoia Ultrasound Imaging System  REF: 11148775",
+   "reason": "A software issue identified in the ultrasound system may result in the unintended activation of the Color Doppler setting, which has not received FDA clearance. This unintended activation could cause the system to crash or become unresponsive."
+  },
   {
    "date": "2026-10-07",
    "started": "2026-08-17",
@@ -946,7 +1100,7 @@
    "firm": "Siemens Healthcare Diagnostics, Inc.",
    "event_id": "97037",
    "recall_number": "Z-2089-2025",
-   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN2 Control)",
+   "product": "ADVIA\u00c2\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN2 Control)",
    "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
   },
   {
@@ -957,7 +1111,7 @@
    "firm": "Siemens Healthcare Diagnostics, Inc.",
    "event_id": "97037",
    "recall_number": "Z-2088-2025",
-   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (Norm Control)",
+   "product": "ADVIA\u00c2\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (Norm Control)",
    "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
   },
   {
@@ -1001,7 +1155,7 @@
    "firm": "Siemens Healthcare Diagnostics, Inc.",
    "event_id": "97037",
    "recall_number": "Z-2087-2025",
-   "product": "ADVIA\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN1 Control)",
+   "product": "ADVIA\u00c2\u00bf 120/2120/2120i 3-in-1 TESTpoint Control (ABN1 Control)",
    "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
   },
   {
@@ -1023,7 +1177,7 @@
    "firm": "Siemens Healthcare Diagnostics, Inc.",
    "event_id": "97037",
    "recall_number": "Z-2086-2025",
-   "product": "ADVIA\u00bf 120/2120/2120i SETpoint Calibrator",
+   "product": "ADVIA\u00c2\u00bf 120/2120/2120i SETpoint Calibrator",
    "reason": "Products have the incorrect platelet (PLT) value assignments for the ADVIA 120/2120/2120i Hematology Systems."
   },
   {
@@ -1145,7 +1299,7 @@
    "event_id": "95751",
    "recall_number": "Z-0767-2025",
    "product": "Magnesium Flex reagent cartridge, 360 tests, Catalog Number: K3057; Siemens Material Number (SMN): 10445158;",
-   "reason": "Siemens Healthcare Diagnostics is recalling two lots of their Dimension Vista\u00bf Total Magnesium (MG) Flex Reagent Cartridges (lots 24057BB and 24064BC) due to the potential for falsely low measurements of magnesium in plasma. Because the error is intermittent, existing quality control procedures may "
+   "reason": "Siemens Healthcare Diagnostics is recalling two lots of their Dimension Vista\u00c2\u00bf Total Magnesium (MG) Flex Reagent Cartridges (lots 24057BB and 24064BC) due to the potential for falsely low measurements of magnesium in plasma. Because the error is intermittent, existing quality control procedures may"
   },
   {
    "date": "2025-01-01",
@@ -1254,8 +1408,8 @@
    "firm": "Siemens Healthcare Diagnostics, Inc.",
    "event_id": "95666",
    "recall_number": "Z-0599-2025",
-   "product": "Atellica\u00bf CH \u00bf2-Microglobulin (B2M) - In vitro diagnostic use in the quantitative determination of \u00bf2-microglobulin in human serum and plasma.  Siemens Material Number (SMN): 11097635",
-   "reason": "Potential for falsely depressed auto-diluted  results for samples above the measuring interval of 18.00 mg/L, up to 30.00 mg/L, when using the Atellica CH \u00bf2-Microglobulin (B2M) reagent."
+   "product": "Atellica\u00c2\u00bf CH \u00c2\u00bf2-Microglobulin (B2M) - In vitro diagnostic use in the quantitative determination of \u00c2\u00bf2-microglobulin in human serum and plasma.  Siemens Material Number (SMN): 11097635",
+   "reason": "Potential for falsely depressed auto-diluted  results for samples above the measuring interval of 18.00 mg/L, up to 30.00 mg/L, when using the Atellica CH \u00c2\u00bf2-Microglobulin (B2M) reagent."
   },
   {
    "date": "2024-11-27",

@@ -1,10 +1,10 @@
 {
- "market_cap": 37310410752.0,
- "pe": 17.446089,
- "forward_pe": 14.996819,
- "ps": 1.7243801,
- "ev_ebitda": 12.398,
- "div_yield": 0.2,
+ "market_cap": 37681164288.0,
+ "pe": 17.61945,
+ "forward_pe": 15.145842,
+ "ps": 1.7415153,
+ "ev_ebitda": 12.55,
+ "div_yield": 19.0,
  "beta": 0.769,
  "revenue": 21636999168.0,
  "revenue_growth": 0.072,
@@ -14,6 +14,6 @@
  "free_cash_flow": 1831124992.0,
  "high_52w": 89.77,
  "low_52w": 58.75,
- "short_pct_float": 0.0458,
+ "short_pct_float": 0.045,
  "financial_currency": "USD"
 }

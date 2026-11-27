@@ -12,5 +12,13 @@
   "right_5d": true,
   "after_10d": 11.72,
   "right_10d": true
+ },
+ {
+  "time": "2026-11-27T14:09-05:00",
+  "label": "Bullish",
+  "score": 43,
+  "price": 30.1,
+  "direction": "up",
+  "headline": "Conditions favor buying calls"
  }
 ]
